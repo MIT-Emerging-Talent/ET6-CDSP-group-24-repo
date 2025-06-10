@@ -1,4 +1,4 @@
-# 📢 CDSP-Group 24 Communication General Overview
+# 📢 CrystalPearl Rising -  Communication General Overview
 
 ## 🎯 Purpose & Direction
 
