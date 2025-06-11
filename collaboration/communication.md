@@ -1,8 +1,8 @@
-# 📢 CDSP-Group 24 Communication General Overview
+# 📢 CrystalPearl Rising -  Communication General Overview
 
 ## 🎯 Purpose & Direction
 
-Welcome to **CDSP Group 24** – a data-driven initiative built on collaboration,
+Welcome to **CrystalPearl Rising** – a data-driven initiative built on collaboration,
 clarity, and collective intelligence.
 
 This initial communication framework sets the tone for our teamwork. Our goal is
