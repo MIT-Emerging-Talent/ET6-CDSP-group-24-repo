@@ -1,11 +1,17 @@
-# 📋 Meeting Agenda #4 - Project - Scoping & Theme Selection
+# 📋 Meeting Minutes #5 - Project Scoping & Theme Selection
 
 **Date:** Tuesday, June 10, 2025  
 **Time:** 10:30 AM – 12 PM EST  
-**Location:** [Google Meet](https://meet.google.com/pej-gmdq-soa)
+**Link:** [Google Meet](https://meet.google.com/pej-gmdq-soa)
 
-**Attendees:** Jola-Moses, Karim Makie, Muqadsa Tahir, Omer Dafaalla, Omnia  
-Mustafa Abdulgadir, Robel Mengsteab
+**Attendees:**
+
+- Jola-Moses  
+- Karim Makie  
+- Muqadsa Tahir  
+- Omer Dafaalla  
+- Omnia Mustafa Abdulgadir  
+- Robel Mengsteab  
 
 ---
 
@@ -28,7 +34,7 @@ our focus and clarify our direction.
   Inclusion to the more comprehensive field of Economic Inclusion. This allows  
   us to consider factors beyond just financial products.
 
-- **Primary Themes:** After evaluating several options, the team has decided to  
+- **Primary Themes:** After evaluating several options, the team has decided to
   concentrate on two primary themes:
 
   *Most of the ideas we discussed will fall under one of these themes — or sit  
@@ -36,7 +42,7 @@ our focus and clarify our direction.
 
   - **Entrepreneurship & Economic Mobility:**  
     Exploring what helps or hinders people — especially in underserved  
-    communities — to start businesses, access better jobs, and take more control  
+    communities — to start businesses, access better jobs, and take more control
     of their economic futures. This includes:  
     - Building practical skills (e.g., financial literacy, legal basics,  
       resilience) through AI, game-based learning, or mentorship  
@@ -48,7 +54,7 @@ our focus and clarify our direction.
   - **Digital Inclusion:**  
     Looking at how digital access, tools, and usage shape people’s ability to  
     participate in the economy and society. That means:  
-    - Exploring the impact of mobile tech, local-language AI, and offline-first  
+    - Exploring the impact of mobile tech, local-language AI, and offline-first
       tools  
     - Understanding how people learn, transact, and make decisions in digital  
       vs offline settings  

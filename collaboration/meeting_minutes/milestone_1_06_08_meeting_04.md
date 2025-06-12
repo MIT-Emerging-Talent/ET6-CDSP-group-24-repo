@@ -1,8 +1,17 @@
-# 📋 Meeting Agenda #3 - Milestone Planning & Research Direction Meeting
+# 📋 Meeting Minutes #4 - Milestone Planning & Research Direction Meeting
 
 **Date:** Sunday, June 8, 2025  
 **Time:** 9:00 AM – 11:00 AM EST  
-**Location:** Google Meet
+**Link:** [Google Meet](https://meet.google.com/jum-ykvs-ppq)
+
+**Attendees:**
+
+- Jola-Moses  
+- Karim Makie  
+- Muqadsa Tahir  
+- Omer Dafaalla  
+- Omnia Mustafa Abdulgadir  
+- Robel Mengsteab  
 
 ---
 
