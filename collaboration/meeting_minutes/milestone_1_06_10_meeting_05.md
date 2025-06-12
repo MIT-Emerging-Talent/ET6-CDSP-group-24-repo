@@ -2,7 +2,8 @@
 
 **Date:** Tuesday, June 10, 2025  
 **Time:** 10:30 AM – 12 PM EST  
-**Link:** [Google Meet](https://meet.google.com/pej-gmdq-soa)
+**Link:** [Google Meet](https://meet.google.com/pej-gmdq-soa)  
+**Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
 
 **Attendees:**
 
