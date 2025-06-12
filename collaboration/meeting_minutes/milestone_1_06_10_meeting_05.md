@@ -1,11 +1,17 @@
-# 📋 Meeting Agenda #4 - Project - Scoping & Theme Selection
+# 📋 Meeting Minutes #5 - Project Scoping & Theme Selection
 
 **Date:** Tuesday, June 10, 2025  
 **Time:** 10:30 AM – 12 PM EST  
-**Location:** [Google Meet](https://meet.google.com/pej-gmdq-soa)
+**Link:** [Google Meet](https://meet.google.com/pej-gmdq-soa)
 
-**Attendees:** Jola-Moses, Karim Makie, Muqadsa Tahir, Omer Dafaalla, Omnia  
-Mustafa Abdulgadir, Robel Mengsteab
+**Attendees:**
+
+- Jola-Moses  
+- Karim Makie  
+- Muqadsa Tahir  
+- Omer Dafaalla  
+- Omnia Mustafa Abdulgadir  
+- Robel Mengsteab  
 
 ---
 

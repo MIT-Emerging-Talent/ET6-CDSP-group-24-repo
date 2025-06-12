@@ -1,8 +1,8 @@
-# 📋 Meeting Agenda #2 – Team Retrospective & Process Improvement
+# 📋 Meeting Minutes #2 – Team Retrospective & Process Improvement
 
-**🗓️ Date & Time:**  Tuesday June 3,2025
+**Date:**  Tuesday June 3,2025
 **Time:** 11:00 AM – 12:00 PM EST  
-**Location:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)
+**Link:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)
 
 ---
 
