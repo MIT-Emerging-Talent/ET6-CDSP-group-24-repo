@@ -2,7 +2,8 @@
 
 **Date:** Sunday, June 8, 2025  
 **Time:** 9:00 AM – 11:00 AM EST  
-**Link:** [Google Meet](https://meet.google.com/jum-ykvs-ppq)
+**Link:** [Google Meet](https://meet.google.com/jum-ykvs-ppq)  
+**Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
 
 **Attendees:**
 
