@@ -18,7 +18,7 @@ informal entrepreneurs—by eliminating linguistic and digital barriers.
 > **Why it matters**: When accessed via platforms like WhatsApp or Android Go,
 > chatbots can **amplify revenue**, **automate operations**, and **broaden
 > financial inclusion**.
-
+>
 ### 🔑 Value to Microbusinesses
 
 - **Increased Revenue**  
@@ -41,7 +41,6 @@ Chatbots serve as **data engines** and **fintech enablers** that:
 
 > **Conclusion**: Local-language chatbots are digital bridges that **empower the
 > underserved** while opening **new growth channels** for global tech platforms.
-
 ---
 
 ## 📊 Key Concepts, Metrics & Indicators
