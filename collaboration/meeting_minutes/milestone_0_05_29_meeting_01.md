@@ -1,7 +1,9 @@
-# 📋 Meeting Agenda #1 - Project Kickoff & Strategic Alignment
+# 📋 Meeting Minutes #1 - Project Kickoff & Strategic Alignment
 
-**📅 Date**: Thursday May 29 ,2025
-**🕙 Time**: 10:00 – 11:00 AM EST
+**Date:** Thursday, May 29, 2025  
+**Time:** 10:00 – 11:00 AM EST  
+**Link:** [Google Meet](https://meet.google.com/wsv-zftd-vye)  
+**Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
 
 ---
 

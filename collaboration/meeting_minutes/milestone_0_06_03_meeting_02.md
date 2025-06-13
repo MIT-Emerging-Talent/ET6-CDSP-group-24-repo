@@ -1,8 +1,18 @@
-# 📋 Meeting Agenda #2 – Team Retrospective & Process Improvement
+# 📋 Meeting Minutes #2 – Team Retrospective & Process Improvement
 
-**🗓️ Date & Time:**  Tuesday June 3,2025
-**Time:** 11:00 AM – 12:00 PM EST  
-**Location:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)
+**Date:** Tuesday, June 3, 2025  
+**Time:** 11:00 AM  – 12:00 PM EST  
+**Link:** [Google Meet](https://meet.google.com/ktz-sniy-qxp)  
+**Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
+
+**Attendees:**
+
+- Jola-Moses  
+- Karim Makie  
+- Muqadsa Tahir  
+- Omer Dafaalla  
+- Omnia Mustafa Abdulgadir  
+- Robel Mengsteab  
 
 ---
 
