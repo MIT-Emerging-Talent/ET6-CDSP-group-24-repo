@@ -36,7 +36,6 @@ launching online businesses, from visible struggles to underlying structural and
 cultural barriers.
 ![Group’s Understanding](https://github.com/user-attachments/assets/2a37aac2-dd46-4527-8b46-d4f391b3b8ab)
 
-
 ## 📁 Repository Structure
 
 ```text
