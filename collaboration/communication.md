@@ -71,3 +71,13 @@ Effective communication is the heartbeat of this project. Below are the platform
 ---
 
 ***Let’s lead with purpose, communicate with intent, and move as one.***
+
+---
+
+### Review Log for `communication_plan.md`
+
+| Date       | Reviewer      | Notes    |
+|------------|---------------|----------|
+| 2025‑06‑16 | Omer Dafaalla | Reviewed |
+
+---
