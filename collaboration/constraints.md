@@ -82,9 +82,20 @@ to personal or family commitments.
 
 ## Summary
 
-Documenting constraints alongside clear mitigation strategies increases transparency,
- reduces risks, and helps manage
-  time and resources efficiently.
-   It supports team satisfaction and
-    fosters collaboration, improving
-     the chances of project success.
+Documenting constraints alongside
+clear mitigation strategies increases transparency,
+reduces risks, and helps manage
+time and resources efficiently.
+It supports team satisfaction and
+fosters collaboration, improving
+the chances of project success.
+
+---
+
+### Review Log for `constraints.md`
+
+| Date       | Reviewer      | Notes     |
+|------------|---------------|-----------|
+| 2025‑06‑16 | Omer Dafaalla | Reviewed  |
+
+---
