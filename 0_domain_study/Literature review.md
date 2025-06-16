@@ -16,19 +16,19 @@ they remain trapped in informal, low-productivity sectors.
 
 ##### Few Key Aspects of the Theme
 
-- The Digital Gap
+- The Digital Gap:
 This is the core issue. It highlights the gap between those who have ready
 access to digital tools (internet, devices, software) and skills,
 and those who do not. This divide can be based on geographical location
 (urban vs. rural), age, gender, and even disability.
 
-- Financial Technologies Accessibility
+- Financial Technologies Accessibility:
 Limited access to digital payment systems, mobile banking, and online lending
 platforms restricts people's ability to participate in formal financial systems.
 This particularly affects populations who rely on cash transactions and informal
 financial networks.
 
-- Reduced Efficiency and Competitiveness
+- Reduced Efficiency and Competitiveness:
 Digital tools can significantly improve operational efficiency,
 streamline processes, and reduce costs. Entrepreneurs without these tools
 are at a disadvantage, struggling to compete with digitally-enabled businesses.
