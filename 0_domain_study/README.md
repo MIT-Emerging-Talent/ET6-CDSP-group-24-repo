@@ -102,6 +102,7 @@ digital tools
 2. **Foundation:** Read `initial_research_questions.md` to understand our inquiry
 focus
 3. **Context:** Explore `background_review.md` for comprehensive domain context
-4. **Deep Dive:** Browse `./research_notes/literature_reviews/` specific topics analysis
+4. **Deep Dive:** Browse `./research_notes/literature_reviews/` for specific
+topics analysis
 
 ---
