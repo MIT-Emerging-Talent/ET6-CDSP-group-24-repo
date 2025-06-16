@@ -31,6 +31,8 @@ communication of findings to drive actionable insights.
 
 ### Milestone 1: Problem Identification 🔍
 
+#### The iceberg group understanding
+
 Iceberg model showing the systemic challenges people with disabilities face when
 launching online businesses, from visible struggles to underlying structural and
 cultural barriers.
