@@ -150,7 +150,7 @@ fairness, and building platforms that scale ethically.*
 ### 📍 Getting Started
 
 For setup instructions and contribution guidelines, please see our
-[CONTRIBUTING.md](docs/CONTRIBUTING.md) file.
+[CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
 ### 🤝🏻 Collaboration Framework
 
