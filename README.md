@@ -31,6 +31,31 @@ communication of findings to drive actionable insights.
 
 ### Milestone 1: Problem Identification 🔍
 
+**Status**: Complete ✅
+
+### Problem Statement
+
+Despite the growing importance of digital technology in driving economic
+inclusion, persistent barriers continue to prevent the 1 in 6 people living with
+significant disabilities from fully leveraging these tools to pursue
+entrepreneurship, achieve self-reliance, and participate meaningfully in the
+economy. While entrepreneurship offers a vital pathway for persons with
+disabilities (PWDs) to overcome traditional employment barriers and generate
+income, the current digital technology ecosystem often operates with a reactive
+approach to accessibility, leading to systemic exclusion rather than proactive inclusion.
+
+This is more than a design flaw—it’s a missed market. There are millions
+of would-be entrepreneurs being left out.
+This project explores how digital technologies—particularly AI and
+mobile tools—affect the ability of entrepreneurs with disabilities
+in underserved regions to access and benefit from the digital economy.
+Our aim is not only to identify barriers but to inform more inclusive design,
+highlight untapped opportunities, and support innovation that reflects the
+real needs and potential of disabled entrepreneurs.
+
+> 🔍 *See our [Background Review](0_domain_study/background_review.md) for
+detailed insights*
+
 #### The iceberg group understanding
 
 Iceberg model showing the systemic challenges people with disabilities face when
@@ -113,4 +138,4 @@ for details.
 
 📋 *Current Milestone*: Cross-Cultural Collaboration  
 
-🗓️ *Last Updated*: 2nd June 2025
+🗓️ *Last Updated*: 16th June 2025
