@@ -130,7 +130,13 @@ success.
 - **Economic**  
   - High cost of assistive technologies
   - Uneven internet access, especially in Global South regions  
-  - Disability-led startups receive less venture capital funding  
+  - Disability-led startups receive less venture capital funding
+
+- **Institutional**
+
+  - Inconsistent enforcement of accessibility standards
+  - Lack of disability-disaggregated data collection  
+  - Slow adoption of universal design principles in tech education
 
 - **Design**  
   - Incompatibility between mainstream software and assistive devices  
@@ -139,18 +145,12 @@ success.
 ### 6.2 Cultural Barriers
 
 - **Ableism in Tech**  
-  - Paternalistic attitudes limit participation (Hernández, 2021)  
+  - Paternalistic attitudes limit participation
   - Underrepresentation in tech leadership roles  
 
 - **Awareness**  
   - Many accessibility features remain underutilized due to lack of awareness
   - Lack of training programs for assistive technologies  
-
-### 6.3 Institutional Barriers
-
-- Inconsistent enforcement of accessibility standards
-- Lack of disability-disaggregated data collection  
-- Slow adoption of universal design principles in tech education
 
 ---
 
@@ -223,7 +223,7 @@ inclusion and equity.
 
 - **Maria Rodriguez** (Founder of CodeVision)  
   A blind software engineer who created AI-powered visual description software for
-  visually impaired users, gaining recignition from major tech firms/
+  visually impaired users, gaining recignition from major tech firms.
 
 - **Alex**  
   A deaf entrepreneur and developer of accessible apps with video relay and
@@ -240,19 +240,19 @@ inclusion and equity.
 - **Blessing Timidi**
   A visually impaired founder of voice-activated e-commerce platform for
   handmade crafts, employing other disabled youth and using social media marketing
-  to expand reach
+  to expand reach.
 
 - **Beth**  
   Runs bakery employing disabled individuals, using digital tools to enable
-  flexible work arrangements
+  flexible work arrangements.
 
 - **Haben Girma**  
   First deafblind Harvard Law graduate who runs an accessibility consulting firm,
- training companies (e.g., Google) on inclusive design
+ training companies (e.g., Google) on inclusive design.
 
 - **Idris**  
   Developer of gamified educational tools for learners with disabilities, demonstrating
-  inclusive innovation in edtech
+  inclusive innovation in edtech.
 
 ---
 
