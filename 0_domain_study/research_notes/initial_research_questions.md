@@ -7,7 +7,7 @@ Inclusion**, with a particular focus on **entrepreneurship and digital access**.
 
 ## **Karim**
 
-### **Research Question**  
+### **The Research Question**  
 
 To what extent have tailored mentorship programs and business development
 services enhanced the market access of disabled entrepreneurs, leading to
@@ -182,9 +182,8 @@ that help identify which women entrepreneurs are most at risk of exclusion and
 where targeted interventions—digital training, access to finance, or
 infrastructure support—could have the greatest impact.
 
-<!-- markdownlint-disable MD024 -->
-#### **Next Steps to Finalize**
-<!-- markdownlint-enable MD024 -->
+#### **Next Steps**
+
 - Choose a specific country or region for data availability  
 - Decide on a clear definition of "success" (e.g., 2-year survival,
   formalization, access to credit)  
@@ -231,9 +230,7 @@ infrastructure support—could have the greatest impact.
 
 ## **Omer**
 
-<!-- markdownlint-disable MD024 -->
-### **Research Question**
-<!-- markdownlint-enable MD024 -->
+### **My Research Question**
 
 How can artificial intelligence be used to reduce traditional barriers in
 accessing financing for entrepreneurs in Sudan?
