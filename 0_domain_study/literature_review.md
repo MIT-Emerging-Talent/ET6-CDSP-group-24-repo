@@ -59,11 +59,11 @@ customers, managing operations, and scaling their businesses.
 
 ### Interesting Case Studies or Interventions
 
-<https://www.semanticscholar.org/paper/E-commerce-for-Rural-Micro-Entrepreneurs%3A-Mapping-Bhatia-Kalluri/8269d284b7c6a6a2cec191a6043e20ba9c2491a0?utm_source=consensus>
+- <https://www.semanticscholar.org/paper/E-commerce-for-Rural-Micro-Entrepreneurs%3A-Mapping-Bhatia-Kalluri/8269d284b7c6a6a2cec191a6043e20ba9c2491a0?utm_source=consensus>
 
-<https://www.sciencedirect.com/science/article/pii/S0040162521003085?via%3Dihub>
+- <https://www.sciencedirect.com/science/article/pii/S0040162521003085?via%3Dihub>
 
-<https://www.sciencedirect.com/science/article/abs/pii/S0743016718313809>
+- <https://www.sciencedirect.com/science/article/abs/pii/S0743016718313809>
 
 ### Gaps/Opportunities
 
@@ -965,7 +965,7 @@ or lack of mobility
 - [Factors affecting success and survival of small and medium enterprises in the Middle east:](<https://www.semanticscholar.org/paper/Factors-Affecting-Success-and-Survival-of-Small-and-Albalushi-Naqshbandi/577204a533587ba5ea4275ab4f250c913dff124d?utm_source=direct_link>)
 - [Critical Success and Failure Factors of Entrepreneurial Organizations: Study of SMEs in Bahawalpur:](<https://www.semanticscholar.org/paper/Critical-Success-and-Failure-Factors-of-Study-of-in-Naqvi/c12b344ca3e40ef83c9b9ec875a2d007cb7d7f97?utm_source=direct_link>)
 - [Factors Affecting Small and Medium Enterprises (SMES) Development in Pakistan:](<https://www.semanticscholar.org/paper/Factors-Affecting-Small-and-Medium-Enterprises-in-haq-Jali/bc953d4feee43d23b84412ed3ea42510c6834724?utm_source=direct_link>)
-- [Empirical entrepreneurship: Success factor for new companies:]?(<https://www.semanticscholar.org/paper/Empirical-Entrepreneurship%3A-Success-Factor-for-New-Martinez/7342e075a42a135d5460c5912a2532d21bc4223e?utm_source=direct_link>)
+- [Empirical entrepreneurship: Success factor for new companies:](<https://www.semanticscholar.org/paper/Empirical-Entrepreneurship%3A-Success-Factor-for-New-Martinez/7342e075a42a135d5460c5912a2532d21bc4223e?utm_source=direct_link>)
 - [Factors affecting business success of small & medium enterprises (SMEs):](https://www.indianjournals.com/ijor.aspx?target=ijor:apjrbm&volume=1&issue=2&article=002)
 - [Key factors for entrepreneurial success:](https://www.emerald.com/insight/content/doi/10.1108/md-04-2013-0201/full/html)
 
