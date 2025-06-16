@@ -97,7 +97,7 @@ The use of AI to personalize virtual support for disabled micro-entrepreneurs is
 
 ---
 
-### **Beyond Access: Can AI Spot the Next Successful Women-Led Microbusiness in [Pakistan/Kenya/etc.]?**  
+### **Beyond Access: Can AI Spot the Next Successful Women-Led Microbusiness in Pakistan or Kenya, etc.?**  
 
 A Predictive Model on Digital Tools, Mobile Money & Inclusion Outcomes
 
