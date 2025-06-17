@@ -59,3 +59,13 @@
 
 - Be understanding and kind  
 - Assume good intentions
+
+---
+
+### Review Log for `group_norms.md`
+
+| Date       | Reviewer      | Notes    |
+|------------|---------------|----------|
+| 2025‑06‑16 | Omer Dafaalla | Reviewed |
+
+---
