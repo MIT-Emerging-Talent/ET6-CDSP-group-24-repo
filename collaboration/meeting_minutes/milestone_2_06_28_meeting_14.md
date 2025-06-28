@@ -28,13 +28,13 @@ outputs, and interdependencies to eliminate gaps in workflow execution.
 
 **Internal Deliverable deadline**: Sunday, June 29, 2025.
 
-## Deliverable 1: README + Modeling  
+### Deliverable 1: README + Modeling  
 
 **Members Responsible:** Omnia (visuals), Robel, Muqadsa  
 A non-technical explanation of how we chose to model our domain, and possible
 flaws in this approach, presented in the README. Visuals are helpful.
 
-### D1 Outcome
+#### D1 Outcome
 
 - The team will use a combination of **storytelling** and **research writing**
 to explain how we modeled the domain.
@@ -48,13 +48,13 @@ as well as those specific to our domain.
 
 ---
 
-## Deliverable 2: Dataset Documentation  
+### Deliverable 2: Dataset Documentation  
 
 **Members Responsible:** Jola, Karim, Omer  
 Document the dataset(s): where they came from, how they are structured, possible
 flaws, and how someone can recreate them.
 
-### D2 Outcome
+#### D2 Outcome
 
 - **Jola**: Digital infrastructure + main spreadsheet.
 - **Karim**: Inclusive technology + tech ecosystem.
@@ -68,13 +68,13 @@ provide documentation on source, structure, and flaws.
 
 ---
 
-## Deliverable 3: Data Cleaning / Replication Scripts  
+### Deliverable 3: Data Cleaning / Replication Scripts  
 
 **Member Responsible:** Karim  
 
 Scripts to clean, organize, and replicate structured data (if applicable).
 
-### D3 Outcome
+#### D3 Outcome
 
 - **Karim** will:
   - Explore if any structured datasets exist.
@@ -83,23 +83,23 @@ Scripts to clean, organize, and replicate structured data (if applicable).
 
 ---
 
-## Deliverable 7: Retrospective  
+### Deliverable 7: Retrospective  
 
 **Member Responsible:** Muqadsa  
 
 Reflect on this milestone’s workflow and learning – group and individual perspectives.
 
-### D7 Outcome
+#### D7 Outcome
 
 - **Muqadsa** will send a doc to the group for asynchronous input.
 
 ---
 
-## Domain Expert Support  
+### Domain Expert Support  
 
 What specific support do we need from a domain expert?
 
-### Outcome
+#### Outcome
 
 - We’ll seek support on **how to best represent qualitative findings** from our
 data collection to ensure we do justice to the question.
@@ -107,7 +107,7 @@ data collection to ensure we do justice to the question.
 
 ---
 
-## Recap Summary
+### Recap Summary
 
 - Team is aligned on deliverables and next steps.
 - We are embracing **qualitative depth** as a key strength of our project.
