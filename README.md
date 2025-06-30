@@ -160,7 +160,7 @@ articles, policy documents, blog posts, and corporate announcements*. These text
   an organized dataset, much like weaving individual threads into a
   cohesive tapestry.
 
-![alt text](Modelflowrepresentation-ezgif.com-video-to-gif-converter-1.gif)
+![Modelflowrepresentation](https://github.com/user-attachments/assets/a62fcd5c-7543-4f23-a1de-6e680e89e9c8)
 
 ---
 
