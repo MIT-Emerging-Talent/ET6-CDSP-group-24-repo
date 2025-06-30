@@ -1,6 +1,10 @@
-# ![WhatsApp Image 2025-06-30 at 7 54 55 PM](https://github.com/user-attachments/assets/5d6ef4b5-3104-474c-8a3e-05d7b84b75a0)
+<!-- markdownlint-disable MD033 MD013 MD041-->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5d6ef4b5-3104-474c-8a3e-05d7b84b75a0" alt="CrystalPearl Rising Logo" width="450"/>
+</div>
+<!-- markdownlint-enable MD033 MD013 MD041-->
 
-## Welcome to CrystalPearl Rising
+# Welcome to CrystalPearl Rising
 
 Like crystals formed under pressure and
 pearls created through transformation, We combine the clarity and strength of
@@ -20,14 +24,14 @@ communication of findings to drive actionable insights.
 
 ### Milestone 0: Cross-Cultural Collaboration 🤝🏻
 
-Status: Complete ✅
+**Status**: Complete ✅
 
-•⁠  ⁠Established team communication frameworks
-•⁠  ⁠Set up collaborative workflows and tools
-•⁠  ⁠Set up communication channels for team coordination
-•⁠  ⁠Agreed upon and established project constraints
-•⁠  ⁠Defined group norms and working agreements
-•⁠  ⁠Established individual and team learning goals
+- Established team communication frameworks
+- Set up collaborative workflows and tools
+- Set up communication channels for team coordination
+- Agreed upon and established project constraints
+- Defined group norms and working agreements
+- Established individual and team learning goals
 
 ### Milestone 1: Problem Identification 🔍
 
@@ -65,7 +69,7 @@ Iceberg model showing the systemic challenges people with disabilities face when
 launching online businesses, from visible struggles to underlying structural and
 cultural barriers.
 
-![WhatsApp Image 2025-06-30 at 7 55 12 PM](https://github.com/user-attachments/assets/921a07d6-2d27-4cec-9c6a-25ba66b15529)
+![Iceberg Model](https://github.com/user-attachments/assets/921a07d6-2d27-4cec-9c6a-25ba66b15529)
 
 ### Actionable Research Question
 
@@ -89,13 +93,11 @@ excluding a vast segment of Self employed people with disabilities.
 #### Purpose
 
 By examining the lived experiences of Self employed people with disabilities in
-SSA , this study aims to uncover:
+SSA, this study aims to uncover:
 
-•⁠  ⁠Where digital inclusion efforts are working?
-•⁠  ⁠Where they fall short?
-•⁠  ⁠What usability, access, and systemic barriers persist?
-
-The findings will surface actionable insights to inform more inclusive tech ecosystems.
+- Where digital inclusion efforts are working?
+- Where they fall short?
+- What usability, access, and systemic barriers persist?
 
 ---
 
@@ -103,13 +105,13 @@ The findings will surface actionable insights to inform more inclusive tech ecos
 
 This research offers Big Tech companies a chance to:
 
-•⁠  ⁠*Redesign digital tools* to better support self-employed people with
+- ⁠*Redesign digital tools* to better support self-employed people with
   disabilities through inclusive AI and mobile-first solutions  
-•⁠  ⁠*Unlock underserved markets* by reaching a resilient and resourceful user
+- ⁠*Unlock underserved markets* by reaching a resilient and resourceful user
  group often excluded by default design  
-•⁠  ⁠*Enhance model relevance* by incorporating more diverse, real-world data
+- ⁠*Enhance model relevance* by incorporating more diverse, real-world data
   that reflects the experiences of disabled users  
-•⁠  ⁠*Strengthen ESG impact* by advancing inclusive innovation and contributing
+- ⁠*Strengthen ESG impact* by advancing inclusive innovation and contributing
   to global digital equity goals  
 
 ---
@@ -213,20 +215,20 @@ accessibility, AI, infrastructure, and policy that lead to exclusion.
 However, like any robust research method, it comes with limitations, often due
 to the novel nature of our research area and practical constraints:
 
-•⁠  ⁠Visibility Bias: Relies on publicly available reports; might underrepresent
+- Visibility Bias: Relies on publicly available reports; might underrepresent
   grassroots efforts or less documented instances of exclusion.
-•⁠  ⁠Qualitative Ambiguity: Interpreting narratives can be subjective;
+- ⁠Qualitative Ambiguity: Interpreting narratives can be subjective;
   pinpointing exact causes or comparative "levels" of exclusion is challenging.
-•⁠  ⁠Lack of Direct User Data: Most insights are secondhand from reports, not
+- ⁠Lack of Direct User Data: Most insights are secondhand from reports, not
   direct PwD (People with Disabilities) interviews, potentially missing
 granular experiences of exclusion.
-•⁠  ⁠No Statistical Generalizability: Captures specific cases and patterns, not
+- ⁠No Statistical Generalizability: Captures specific cases and patterns, not
   broad statistical representation across Sub-Saharan Africa.
-•⁠  ⁠Inconsistent Depth: Detail levels vary across sources.
-•⁠  ⁠Manual Structuring in Underexplored Domains: Given the largely
-unresearched nature of this specific intersection, the process of manually
-structuring this qualitative data was extensive and resource-intensive.
-•⁠  ⁠Time and Financial Constraints: Limited time and funding prevented us from
+- ⁠Inconsistent Depth: Detail levels vary across sources.
+- ⁠Manual Structuring in Underexplored Domains: Given the largely
+  unresearched nature of this specific intersection, the process of manually
+  structuring this qualitative data was extensive and resource-intensive.
+- ⁠Time and Financial Constraints: Limited time and funding prevented us from
    conducting more structured data collection methods, such as original surveys
    or in-depth interviews. This practical limitation shaped the scope of our methodology.
 
