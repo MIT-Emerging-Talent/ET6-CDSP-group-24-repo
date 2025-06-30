@@ -13,7 +13,7 @@ experienced by persons with disabilities
 - **Type**: Report  
 - **Timeframe**: December 2020  
 - **Format**: PDF Report
-- **Connection To Research**:Focuses specifically on
+- **Connection To Research**: Focuses specifically on
 emerging markets (including Sub-Saharan Africa) and identifies key barriers
 like unaffordable internet-enabled devices, lack of knowledge about accessible
 mobile products, and inaccessible design of digital services.
@@ -38,7 +38,7 @@ to address digital inclusion barriers
 - **Type**: Corporate Announcement  
 - **Timeframe**: September 2023  
 - **Format**: Web Article
-- **Connection To Research**:This dataset directly
+- **Connection To Research**: This dataset directly
 supports understanding of how digital mobile and AI technologies can include or
 exclude people with disabilities through practical interventions, inclusive
 design, or mobile service innovation across SSA.
@@ -65,7 +65,7 @@ with disabilities have successfully influenced decision-makers.
 - **Type**: Toolkit and Case Studies  
 - **Timeframe**: February 2024  
 - **Format**: PDF
-- **Connection To Research**:Offer significant insights
+- **Connection To Research**: Offer significant insights
 into how digital and mobile technologies can exclude persons with disabilities,
 which would inherently extend to those who are self-employed, particularly
 within the context of Sub-Saharan Africa.
@@ -93,7 +93,7 @@ disabilities are counted and included
 - **Type**: Strategic Program Report
 - **Timeframe**: January–December 2024
 - **Format**: PDF
-- **Connection To Research**:Highlighting the absence of
+- **Connection To Research**: Highlighting the absence of
 disability-disaggregated data in national digital and economic systems, making
 disabled self-employers invisible to AI and mobile platform designers.
 Demonstrating how data exclusion leads to technological exclusion,
@@ -121,7 +121,7 @@ digital/AI learning programmes across African settings
 - **Type**: News Article
 - **Timeframe**: May 2025
 - **Format**: Web Article
-- **Connection To Research**:Supports the research
+- **Connection To Research**: Supports the research
  question by illustrating how digital mobile and AI tools often exclude disabled
 self-employers through a lack of foundational access. It shows that without
 inclusive digital skills training, people with disabilities are unable to take
@@ -150,7 +150,7 @@ sustainable, ICT-driven smart city and innovation hub
 - **Type**: Strategic Plan
 - **Timeframe**: April 2025
 - **Format**: PDF
-- **Connection To Research**:Outlines Kenya’s ambitious
+- **Connection To Research**: Outlines Kenya’s ambitious
 vision for a smart city driven by digital and AI technologies but offers little
 direct attention to the needs of disabled self-employers
 - **Limitations**: Accessibility considerations are absent from its digital
@@ -180,7 +180,7 @@ affordability initiatives.
 - **Type**: Corporate Profile
 - **Timeframe**: Current – initiatives announced and active as of June 2025
 - **Format**: Webpage summary
-- **Connection To Research**:This GSMA profile of
+- **Connection To Research**: This GSMA profile of
 Safaricom illustrates how digital mobile services can either include or exclude
 disabled self-employers in Sub-Saharan Africa, depending on design and
 implementation. Safaricom has made public commitments to disability inclusion,
