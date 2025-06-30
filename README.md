@@ -1,6 +1,6 @@
-![WhatsApp Image 2025-06-30 at 7 54 55 PM](https://github.com/user-attachments/assets/5d6ef4b5-3104-474c-8a3e-05d7b84b75a0)
-
 # 💎 CrystalPearl Rising Team
+
+![WhatsApp Image 2025-06-30 at 7 54 55 PM](https://github.com/user-attachments/assets/5d6ef4b5-3104-474c-8a3e-05d7b84b75a0)
 
 Welcome to **CrystalPearl Rising**!
 
