@@ -1,9 +1,7 @@
 <!-- markdownlint-disable MD033 MD013-->
 # Digital Infrastructure
 
-## Dataset 1: An Assessment of Digital Inclusion Among Vulnerable Persons in
-
-Developing Economies  
+## Dataset 1: An Assessment of Digital Inclusion Among Vulnerable Persons in Developing Economies  
 
 *Description*: Mixed-methods study on digital inclusion barriers for vulnerable populations (including disabled persons) in Uganda and South Africa, covering internet access, literacy, and socio-economic factors.  
 <details>  
@@ -149,7 +147,7 @@ Developing Economies
 
 ---  
 
-### Dataset 7: Assessing the Barriers to Accessing ICT by PWDs in Kenya  
+## Dataset 7: Assessing the Barriers to Accessing ICT by PWDs in Kenya  
 
 *Description*: Report on ICT access challenges for PWDs in Kenya, covering policy gaps, assistive tech shortages, and accessibility failures.  
 <details>  
@@ -173,7 +171,7 @@ Developing Economies
 
 ---  
 
-### Dataset 8: Accelerating Digital Inclusion in Africa  
+## Dataset 8: Accelerating Digital Inclusion in Africa  
 
 *Description*: Analysis of SSA's digital development hurdles (affordability, electricity, infrastructure).  
 <details>  
@@ -198,7 +196,7 @@ Developing Economies
 
 ---  
 
-### Dataset 9: The Disproportionate Exclusion of Persons With Disabilities in Sub-Saharan Africa  
+## Dataset 9: The Disproportionate Exclusion of Persons With Disabilities in Sub-Saharan Africa  
 
 *Description*: Policy analysis of digital exclusion drivers for PWDs (assistive tech costs, inaccessible platforms) with Uganda/Mozambique case studies.  
 <details>  
@@ -222,7 +220,7 @@ Developing Economies
 
 ---  
 
-### Dataset 10: Fostering Digital Inclusion Among Nigeria's Persons With Disabilities  
+## Dataset 10: Fostering Digital Inclusion Among Nigeria's Persons With Disabilities  
 
 *Description*: Editorial on Nigeria's digital exclusion challenges for PWDs (stigma, literacy gaps, inaccessible design).  
 <details>  
@@ -246,7 +244,7 @@ Developing Economies
 
 ---  
 
-### Dataset 11: National Access to Work Scheme for PWDs  
+## Dataset 11: National Access to Work Scheme for PWDs  
 
 *Description*: Nigerian government initiative distributing assistive technologies to PWDs in private sector employment.  
 <details>  
@@ -270,7 +268,7 @@ Developing Economies
 
 ---  
 
-### Dataset 12: Project Enable Africa  
+## Dataset 12: Project Enable Africa  
 
 *Description*: Nigerian NGO empowering PWDs through entrepreneurship training and digital tools.  
 <details>  
@@ -294,7 +292,7 @@ Developing Economies
 
 ---  
 
-### Dataset 13: Joint National Association of Persons with Disabilities (JONAPWD)  
+## Dataset 13: Joint National Association of Persons with Disabilities (JONAPWD)  
 
 *Description*: Nigeria's largest PWD advocacy group, offering skills training and policy audits.  
 <details>  
@@ -318,7 +316,7 @@ Developing Economies
 
 ---  
 
-### Dataset 14: AccessTech Innovation and Research Center  
+## Dataset 14: AccessTech Innovation and Research Center  
 
 *Description*: Nigerian social enterprise training visually impaired individuals in assistive tech/digital skills.  
 <details>  
@@ -342,7 +340,7 @@ Developing Economies
 
 ---  
 
-### Dataset 15: Nigeria Targets 35 Million Persons with Disabilities in Digital Inclusion  
+## Dataset 15: Nigeria Targets 35 Million Persons with Disabilities in Digital Inclusion  
 
 *Description*: News report on Nigeria's national digital literacy strategy for PWDs.  
 <details>  
@@ -365,7 +363,7 @@ Developing Economies
 
 ---  
 
-### Dataset 16: Kenya Moves to Make All Online Govt Services Accessible to Persons With Disabilities  
+## Dataset 16: Kenya Moves to Make All Online Govt Services Accessible to Persons With Disabilities  
 
 *Description*: Announcement of Kenya's initiative to ensure web accessibility for PWDs in government services, focusing on standards and capacity building.  
 <details>  
@@ -388,7 +386,7 @@ Developing Economies
 
 ---  
 
-### Dataset 17: Empowering African Youth with Disabilities through Technology  
+## Dataset 17: Empowering African Youth with Disabilities through Technology  
 
 *Description*: Kenyan NGO providing tech labs and digital training for youth with disabilities in schools.  
 <details>  
@@ -411,7 +409,7 @@ Developing Economies
 
 ---  
 
-### Dataset 18: Bridging the Digital Divide for PWDs in Mandera County  
+## Dataset 18: Bridging the Digital Divide for PWDs in Mandera County  
 
 *Description*: County-level Kenyan program distributing computers/assistive tech to PWDs via government-NGO partnership.  
 <details>  
@@ -434,7 +432,7 @@ Developing Economies
 
 ---  
 
-### Dataset 19: 2024 FinAccess Household Survey  
+## Dataset 19: 2024 FinAccess Household Survey  
 
 *Description*: National Kenyan survey on financial inclusion, with PWD-specific data on digital/financial access disparities.  
 <details>  
@@ -458,7 +456,7 @@ Developing Economies
 
 ---  
 
-### Dataset 20: Platform Livelihoods For Kenyan Youth With Disabilities  
+## Dataset 20: Platform Livelihoods For Kenyan Youth With Disabilities  
 
 *Description*: Mixed-methods study on digital platform usage by disabled Kenyan youth for informal/formal work.  
 <details>  
