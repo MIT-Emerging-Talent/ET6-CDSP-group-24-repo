@@ -1,0 +1,481 @@
+<!-- markdownlint-disable MD033 MD013-->
+# Digital Infrastructure
+
+## Dataset 1: An Assessment of Digital Inclusion Among Vulnerable Persons in
+
+Developing Economies  
+
+*Description*: Mixed-methods study on digital inclusion barriers for vulnerable populations (including disabled persons) in Uganda and South Africa, covering internet access, literacy, and socio-economic factors.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: ITU / Kyambogo University & ICOMM Technologies  
+- *Type*: Academic/Policy Report (Qualitative: Surveys & Interviews)  
+- *Timeframe*: November 2022  
+- *Format*: [PDF Report](https://www.itu.int/itu-d/sites/connect2recover/wp-content/uploads/sites/31/2022/11/C2R_RC_9_An-Assessment-of-Digital-Inclusion-among-the-Vulnerable-Persons-in-Developing-Economies-221122-1.pdf)  
+- *Key Insights*:  
+  - 37.3% of respondents had no internet access; 44.3% felt excluded from govt. digital efforts.  
+  - 19% of respondents had disabilities (no further disaggregation).  
+- *Connection to Research*: Offers grounded insights on access gaps and lived experiences of digital exclusion in rural Uganda, with special attention to vulnerable persons including those with disabilities.
+  
+- *Limitations*:  
+  - Small sample (600 respondents); limited rural/subgroup representation.
+  - May not generalize across Sub-Saharan Africa.
+  - No disability-type breakdown.  
+
+</details>  
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+## Dataset 2: Size and Distribution of Digital Connectivity Gaps in SSA  
+
+*Description*: World Bank report on internet access disparities in Sub-Saharan Africa, analyzing coverage, infrastructure, and socio-economic divides.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: World Bank  
+- *Type*: Report  
+- *Timeframe*: 2023  
+- *Format*: [PDF Report](https://documents1.worldbank.org/curated/en/099241003142325200/pdf/IDU0cb2e42f3050260484d0b8370b84eee303ecf.pdf)  
+- *Key Insights*:  
+  - Only 25% of SSA has internet access; 10% own computers.  
+  - Richest quintile: 15x more likely to own a computer than poorest.
+  - Urban residents: 3x more likely to access the internet than rural residents.
+- *Connection to Research*: Macro-level access and inequality data on digital exclusion drivers in underserved populations.
+- *Limitations*:  
+  - No disability-specific disaggregation.
+  - Relies on asset ownership, not usage/behavior.  
+
+</details>  
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+## Dataset 3: Digital Transformation Drives Development in Africa  
+
+*Description*: World Bank brief on Africa's digital progress (broadband, mobile penetration) and persistent affordability gaps.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: World Bank  
+- *Type*: Result Brief  
+- *Timeframe*: January 2024  
+- *Format*: [Web Article](https://www.worldbank.org/en/results/2024/01/18/digital-transformation-drives-development-in-afe-afw-africa)  
+- *Key Insights*:  
+  - 84% have 3G coverage, but only 22% use mobile internet.  
+  - Internet devices cost 25.2% of monthly GDP per capita (2021).  
+- *Connection to Research*: Tracks infrastructure gaps impacting underserved entrepreneurs.  
+- *Limitations*:  
+  - No disability-specific analysis.  
+  - Affordability metrics lack livelihood context.  
+
+</details>  
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+## Dataset 4: Despite Improvements, SSA Has the Widest Usage and Coverage Gaps Worldwide  
+
+*Description*: GSMA analysis of mobile broadband gaps, distinguishing "coverage" (unserved areas) vs. "usage" (underutilization).  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: GSMA  
+- *Type*: Report  
+- *Timeframe*: April 2025  
+- *Format*: [Web Article](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/despite-improvements-sub-saharan-africa-has-the-widest-usage-and-coverage-gaps-worldwide/)  
+- *Key Insights*:  
+  - 60% in covered areas don't use mobile internet and 13% don't live in covered areas; rural adults 49% less likely to use it. Women are 36% less likely.
+- *Connection to Research*: Highlights exclusion not just in terms of infrastructure, but lack of uptake, relevant for PWDs who may be "covered" but not connected.
+- *Limitations*:  
+  - No disability data; focuses on gender/geography.  
+
+</details>  
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+## Dataset 5: New Insights on Mobile Internet Connectivity in SSA  
+
+*Description*: GSMA update on regional trends (smartphone access, 4G expansion) and barriers like affordability/digital skills.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: GSMA  
+- *Type*: Article  
+- *Timeframe*: April 2025  
+- *Format*: [Web Article](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/new-insights-on-mobile-internet-connectivity-in-sub-saharan-africa/)  
+- *Key Insights*:  
+  - Internet devices cost 99% of monthly income for poorest 20%.  
+  - 69% of SSA smartphones are 3G-only (2022).
+  - Global average download speed is 33.9 Mbps; SSA average is just 11.1 Mbps.
+- *Connection to Research*: Illustrates affordability/skills barriers for marginalized groups.  
+- *Limitations*:  
+  - Ignores disability-specific needs.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+## Dataset 6: The Mobile Disability Gap: How Do Persons with Disabilities Access and Use Mobile in Kenya and Bangladesh?  
+
+*Description*: Comparative study analyzing mobile access and ownership among persons with disabilities in Kenya and Bangladesh, with Kenya-specific insights across gender and disability type.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: GSMA  
+- *Type*: Report  
+- *Timeframe*: November 2020  
+- *Format*: [PDF Report](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/programme/assistive-tech/the-mobile-disability-gap-how-do-persons-with-disabilities-access-and-use-mobile-in-kenya-and-bangladesh/)  
+- *Key Insights*:  
+  - 14% mobile ownership gap for PWDs in Kenya.  
+  - Only 14% of visually impaired Kenyans own smartphones.  
+  - Gender disparity: Women with disabilities 34% less likely to own smartphones than men.  
+- *Connection to Research*: Offers rare disability-disaggregated data on mobile access in SSA context.  
+- *Limitations*:  
+  - Kenya-specific (limited generalizability).  
+  - Focuses on ownership, not usage/entrepreneurship impact.
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 7: Assessing the Barriers to Accessing ICT by PWDs in Kenya  
+
+*Description*: Report on ICT access challenges for PWDs in Kenya, covering policy gaps, assistive tech shortages, and accessibility failures.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Collaboration on International ICT Policy for East and Southern Africa (CIPESA)
+- *Type*: Report  
+- *Timeframe*: 2021  
+- *Format*: [PDF Report](https://cipesa.org/wp-content/files/publications/Assessing-the-Brriers-to-Accessing-ICT-by-Persons-With-Disabilities-in-Kenya.pdf)  
+- *Key Insights*:  
+  - No Kenyan policy specifically addresses ICT access for PWDs.  
+  - Widespread lack of accessible government websites/assistive tech.  
+- *Connection to Research*: Exposes systemic ICT accessibility failures in SSA.  
+- *Limitations*:  
+  - No disability-type/severity breakdowns.  
+  - Minimal lived experience data.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 8: Accelerating Digital Inclusion in Africa  
+
+*Description*: Analysis of SSA's digital development hurdles (affordability, electricity, infrastructure).  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Brookings Institution  
+- *Type*: Article  
+- *Timeframe*: May 2025  
+- *Format*: [Web Article](https://www.brookings.edu/articles/accelerating-digital-inclusion-in-africa/)  
+- *Key Insights*:  
+  - Only 43% of Africans have reliable electricity.  
+  - Smartphones cost 95% of monthly income for poorest 20%.
+  - Mobile internet penetration: 27% (2023).
+- *Connection to Research*: Contextualizes macro-level barriers to digital inclusion for underserved groups.  
+- *Limitations*:  
+  - No disability-specific analysis.  
+  - Over-reliance on regional averages.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 9: The Disproportionate Exclusion of Persons With Disabilities in Sub-Saharan Africa  
+
+*Description*: Policy analysis of digital exclusion drivers for PWDs (assistive tech costs, inaccessible platforms) with Uganda/Mozambique case studies.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: CIPESA  
+- *Type*: Policy Analysis Article  
+- *Timeframe*: November 2021  
+- *Format*: [Web Article](https://cipesa.org/2021/11/the-disproportionate-exclusion-of-persons-with-disabilities-in-sub-saharan-africa/)  
+- *Key Insights*:  
+  - Widespread lack of affordable screen readers/magnification software.  
+  - 16% of Ugandans have disabilities (no digital inclusion programs).  
+- *Connection to Research*: Highlights intersection of disability poverty and tech barriers.  
+- *Limitations*:  
+  - Qualitative/advocacy-focused (limited raw data).  
+  - Few country examples; may not fully represent SSA region.
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 10: Fostering Digital Inclusion Among Nigeria's Persons With Disabilities  
+
+*Description*: Editorial on Nigeria's digital exclusion challenges for PWDs (stigma, literacy gaps, inaccessible design).  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: The Guardian Nigeria  
+- *Type*: News Article  
+- *Timeframe*: May 2023  
+- *Format*: [Web Article](https://guardian.ng/issue/technology-for-all-fostering-digital-inclusion-among-nigerias-persons-with-disabilities/)  
+- *Key Insights*:  
+  - Poverty and stigma are key barriers.  
+  - Widespread lack of online accessibility features.  
+- *Connection to Research*: Documents socio-cultural and infrastructural exclusion dimensions.  
+- *Limitations*:  
+  - Anecdotal (not empirical).  
+  - No entrepreneur-specific data.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 11: National Access to Work Scheme for PWDs  
+
+*Description*: Nigerian government initiative distributing assistive technologies to PWDs in private sector employment.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: NCPWD Nigeria  
+- *Type*: Government Initiative (Article)  
+- *Timeframe*: Ongoing (date unspecified)  
+- *Format*: [Web Article](https://ncpwd.gov.ng/Apps/Web/blogdetails/19)  
+- *Key Insights*:  
+  - Provides assistive devices to private-sector employees with disabilities.  
+  - Partners: TAF Africa, Sightsavers.  
+- *Connection to Research*: Shows state-led tech/work accessibility efforts.  
+- *Limitations*:  
+  - No evaluation metrics or device specifications.  
+  - Unclear rural/urban coverage.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 12: Project Enable Africa  
+
+*Description*: Nigerian NGO empowering PWDs through entrepreneurship training and digital tools.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Project Enable Africa  
+- *Type*: NGO Program  
+- *Timeframe*: Ongoing  
+- *Format*: [Website](https://projectenable.africa/)  
+- *Key Insights*:  
+  - Runs innovation hubs and policy dialogues for PWDs.  
+  - Combines digital literacy with entrepreneurial training.  
+- *Connection to Research*: Models community-driven digital-economic inclusion.  
+- *Limitations*:  
+  - No public outcome reports.  
+  - Unclear tool accessibility features.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 13: Joint National Association of Persons with Disabilities (JONAPWD)  
+
+*Description*: Nigeria's largest PWD advocacy group, offering skills training and policy audits.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: JONAPWD Nigeria  
+- *Type*: NGO Platform  
+- *Timeframe*: Ongoing  
+- *Format*: [Website](https://www.jonapwd.org/)  
+- *Key Insights*:  
+  - Conducts social audits of disability policies.  
+  - Partners with government on livelihood training.  
+- *Connection to Research*: Grassroots advocacy for systemic inclusion.  
+- *Limitations*:  
+  - No digital-specific success metrics.  
+  - Broad focus (not tech/entrepreneur-specific).  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 14: AccessTech Innovation and Research Center  
+
+*Description*: Nigerian social enterprise training visually impaired individuals in assistive tech/digital skills.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: AccessTech  
+- *Type*: Social Enterprise  
+- *Timeframe*: Ongoing  
+- *Format*: [Website](https://www.accesstechinnovation.org/) / [Instagram](https://www.instagram.com/accesstech_innovation/reel/C5Q5S5fqr2w/?hl=en)  
+- *Key Insights*:  
+  - Teaches Python, digital marketing, and Office tools.  
+  - Tailored for visual impairments.  
+- *Connection to Research*: Practical model for assistive tech training.  
+- *Limitations*:  
+  - Center-based (limited geographic reach).  
+  - No entrepreneurship outcome tracking.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 15: Nigeria Targets 35 Million Persons with Disabilities in Digital Inclusion  
+
+*Description*: News report on Nigeria's national digital literacy strategy for PWDs.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Punch Newspaper  
+- *Type*: News Article  
+- *Timeframe*: June 2025  
+- *Format*: [Web Article](https://punchng.com/nigeria-targets-35-million-persons-with-disabilities-in-digital-inclusion/)  
+- *Key Insights*:  
+  - Aims to reach 35M PWDs via digital literacy programs.  
+- *Connection to Research*: Illustrates policy-scale ambitions.  
+- *Limitations*:  
+  - Vague implementation details.  
+  - No named technologies/partners.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 16: Kenya Moves to Make All Online Govt Services Accessible to Persons With Disabilities  
+
+*Description*: Announcement of Kenya's initiative to ensure web accessibility for PWDs in government services, focusing on standards and capacity building.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: AllAfrica  
+- *Type*: News Article  
+- *Timeframe*: June 2025  
+- *Format*: [Web Article](https://allafrica.com/stories/202506040025.html)  
+- *Key Insights*:  
+  - Plans to make all government online services PWD-accessible.  
+- *Connection to Research*: Shows systemic efforts to address digital inclusion foundations.  
+- *Limitations*:  
+  - No technical standard details or enforcement plans.  
+  - Unclear PWD group involvement.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 17: Empowering African Youth with Disabilities through Technology  
+
+*Description*: Kenyan NGO providing tech labs and digital training for youth with disabilities in schools.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: inABLE  
+- *Type*: NGO Initiative  
+- *Timeframe*: Ongoing  
+- *Format*: [Website](https://inable.org/)  
+- *Key Insights*:  
+  - Established computer labs in schools for blind students.  
+- *Connection to Research*: Grassroots model for tech training scalability.  
+- *Limitations*:  
+  - No public impact metrics.  
+  - Limited to school environments.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 18: Bridging the Digital Divide for PWDs in Mandera County  
+
+*Description*: County-level Kenyan program distributing computers/assistive tech to PWDs via government-NGO partnership.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Talk Africa  
+- *Type*: News Article  
+- *Timeframe*: February 2025  
+- *Format*: [Web Article](https://www.talkafrica.co.ke/bridging-the-digital-divide-for-people-living-with-disabilities-in-mandera-county/)  
+- *Key Insights*:  
+  - Provided accessibility-equipped computers in remote Mandera County.  
+- *Connection to Research*: Localized implementation case study.  
+- *Limitations*:  
+  - Unclear scale/training follow-up.  
+  - No disability-type breakdown.  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 19: 2024 FinAccess Household Survey  
+
+*Description*: National Kenyan survey on financial inclusion, with PWD-specific data on digital/financial access disparities.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: Central Bank of Kenya / KNBS / FSD Kenya  
+- *Type*: Government Survey  
+- *Timeframe*: 2024  
+- *Format*: [PDF Report](https://finaccess.knbs.or.ke/reports-and-datasets)  
+- *Key Insights*:  
+  - 77.9% financial inclusion for PWDs (vs. 84.8% national average).  
+  - 64.1% cite lack of mobile phones as a barrier.  
+- *Connection to Research*: Quantifies PWD exclusion in financial/digital access.  
+- *Limitations*:  
+  - Limited AI/digital literacy specifics.  
+  - Cross-sectional (no causality).  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
+
+---  
+
+### Dataset 20: Platform Livelihoods For Kenyan Youth With Disabilities  
+
+*Description*: Mixed-methods study on digital platform usage by disabled Kenyan youth for informal/formal work.  
+<details>  
+<summary>View metadata</summary>  
+
+- *Source*: inABLE / Technoprise Global / Mastercard Foundation  
+- *Type*: Survey & Qualitative Study  
+- *Timeframe*: 2023  
+- *Format*: [PDF Report](https://mastercardfdn.org/en/our-research/platform-livelihoods-for-kenyan-youth-with-disabilities-a-survey-and-qualitative-study/)  
+- *Key Insights*:  
+  - PWDs more likely to use platforms for informal work.  
+  - Barriers: app inaccessibility, client discrimination.  
+- *Connection to Research*: Direct link to digital economic exclusion.  
+- *Limitations*:  
+  - Urban/youth focus (limited rural generalizability).  
+  - Narrow platform scope (rideshares, freelancing).  
+
+</details>
+
+[Link to dataset](https://docs.google.com/spreadsheets/d/1zCrW4jRR-sTfQ-EHWYs6SaTcZx6gNuY0mocGLPuhJFw/edit?usp=sharing)
