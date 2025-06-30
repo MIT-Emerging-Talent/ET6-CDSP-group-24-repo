@@ -1,5 +1,7 @@
 # 💎 CrystalPearl Rising Team
 
+![WhatsApp Image 2025-06-30 at 7 54 55 PM](https://github.com/user-attachments/assets/5d6ef4b5-3104-474c-8a3e-05d7b84b75a0)
+
 Welcome to **CrystalPearl Rising**!
 
 Like crystals formed under pressure and
@@ -62,7 +64,7 @@ Iceberg model showing the systemic challenges people with disabilities face when
 launching online businesses, from visible struggles to underlying structural and
 cultural barriers.
 
-![Group’s Understanding](https://github.com/user-attachments/assets/2a37aac2-dd46-4527-8b46-d4f391b3b8ab)
+![WhatsApp Image 2025-06-30 at 7 55 12 PM](https://github.com/user-attachments/assets/921a07d6-2d27-4cec-9c6a-25ba66b15529)
 
 ### Actionable Research Question
 
