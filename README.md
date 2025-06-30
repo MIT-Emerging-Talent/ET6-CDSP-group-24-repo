@@ -1,4 +1,4 @@
-# ![alt text](<CPR Team picture-1-1.jpg>)
+# ![Group's logo](image.png)
 
 ## Welcome to CrystalPearl Rising
 
@@ -65,7 +65,7 @@ Iceberg model showing the systemic challenges people with disabilities face when
 launching online businesses, from visible struggles to underlying structural and
 cultural barriers.
 
-![Group's Understanding](<Iceberg model-1.jpg>)
+![iceberg ](image-1.png)
 
 ### Actionable Research Question
 
@@ -251,10 +251,11 @@ Each row represents a specific story of exclusion, a barrier, or an innovation's
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Structure
 
+```plaintext
 text
-├── README.md                           # This file
+├── README.md                          # This file
 ├── 0_domain_study/                    # Initial domain research and exploration
 ├── 1_datasets/                        # Data storage and management
 ├── 2_data_preparation/                # Data cleaning and preprocessing
@@ -265,6 +266,7 @@ text
 ├── collaboration/                     # Team collaboration documents
 ├── notes/                             # Team notes on project process and learnings
 └── requirements.txt                   # Project dependencies
+
 
 ## 👥 Team Members
 
