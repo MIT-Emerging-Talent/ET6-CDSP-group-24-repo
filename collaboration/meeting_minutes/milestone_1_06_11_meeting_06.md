@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📋 Meeting Minutes #5 - Project Scoping & Theme Selection
+=======
+# 📋 Meeting Minutes #6 - Project Scoping & Theme Selection
+>>>>>>> ca5c25092f3100c74c10c8b64edbc591e4418753
 
 **Date:** Wednesday, June 11, 2025  
 **Time:** 11:00 AM – 12 PM EST  
