@@ -66,7 +66,7 @@ one another effectively.
 
 The meeting successfully clarified team roles and collaboration methods for the
 upcoming hybrid analysis workflow. Participants were assigned to either the
-Manual Coding or NLP team based on interest, expertise, and availability.
+Manual Coding or NLP team based on interest and availability.
 
 Both sub-teams agreed to use shared tools like Google Docs and GitHub Issues
 for transparent progress tracking and documentation. Updates will be submitted
