@@ -1,7 +1,7 @@
 # Meeting Minutes #16 – Manual Thematic Coding
 
 **Date:** Monday, July 7, 2025
-**Time:** 11:30 AM – 1:30 PM EST
+**Time:** 11:30 AM – 2:30 PM EST
 **Link:** [Google Meet](https://meet.google.com/thw-hymo-eah)
 
 ## Attendees
