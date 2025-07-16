@@ -128,7 +128,11 @@ We formalized a 4-tier categorization model to help streamline our review proces
 `milestone-3`  
 
 **Related Issues:**  
-[#132 – Agenda: Dataset Concerns, Relevance & Strategy Forward](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/132)  
-[#125 – Manual Coding Workflow](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/125)  
-[#127 – NLP Workflow](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/127)  
-[#119 – Parent Meetings Thread](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/119)  
+[#132 – Agenda: Dataset Concerns, Relevance &
+Strategy Forward](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/132)  
+[#125 – Manual Coding
+Workflow](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/125)  
+[#127 – NLP
+Workflow](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/127)  
+[#119 – Parent Meetings
+Thread](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/issues/119)  
