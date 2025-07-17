@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013-->
 
 # Barriers to Access
 
@@ -212,3 +212,41 @@ follow-up on policy impact.
 [Link to Dataset](https://www.kictanet.or.ke/strengthening-ict-accessibility-for-pwds-in-africa/)
 
 ---
+
+## Dataset 8: The Millions of Nigerians Whose Use of Technology is an Afterthought
+
+**Description**: Article examining the persistent digital exclusion of Nigerians with disabilities, highlighting issues such as inaccessibility of mobile apps, poor assistive technology coverage, and systemic neglect by tech companies and policymakers.
+
+<details>
+<summary>View metadata</summary>
+
+- **Source**: TechCabal (African technology news media)
+- **Type**: News / investigative article
+- **Timeframe**: 2025
+- **Format**: Online article
+- **Connection To Research**: Illustrates how technology design and policy in Nigeria often overlook disabled users, including disabled entrepreneurs, leading to exclusion from digital and AI tools. Provides current context of digital accessibility challenges in a major Sub-Saharan African country.
+- **Limitations**: Journalistic article with anecdotal rather than systematic data. Focuses on Nigeria; may lack broader regional data.
+
+</details>
+
+[Link to Dataset](https://techcabal.com/2025/06/11/the-millions-of-nigerians-whose-use-of-technology-is-an-afterthought/)
+
+---
+
+## Dataset 9: Bridging the digital divide: exploring the challenges and solutions for digital exclusion in rural South Africa
+
+**Description**: This dataset is based on a structured survey conducted with 65 residents of Mkatazo village, Eastern Cape, South Africa. It captures quantitative data on internet access, device ownership, digital literacy, socio-economic indicators, and barriers to digital inclusion such as cost and infrastructure.
+
+<details>
+<summary>View metadata</summary>
+
+- **Source**: Mwansa, G., Ngandu, M. R., & Mkwambi, Z.
+- **Type**: Survey Data
+- **Timeframe**: 2025
+- **Format**: PDF
+- **Connection To Research**: This dataset offers rich insights into the structural barriers (e.g., affordability, poor infrastructure, low digital literacy) that shape digital exclusion in rural communities, factors that likely affect disabled self-employers even more. While the study doesn’t directly focus on disability, it highlights how access limitations and limited skills prevent individuals from using digital and AI tools for education, healthcare, or business.
+- **Limitations**: The study does not specifically include data on disability status or self-employment, and the sample size is relatively small (65 respondents). It focuses on a single rural village in South Africa, which limits generalizability, and it lacks qualitative insights into individual lived experiences, particularly for disabled individuals or micro-entrepreneurs.
+
+</details>
+
+[Link to Dataset](https://link.springer.com/article/10.1007/s44282-025-00189-2)
