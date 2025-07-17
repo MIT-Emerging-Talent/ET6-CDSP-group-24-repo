@@ -350,7 +350,7 @@ user engagement, or impact particularly for disabled self-employers.
 ---
 <!-- markdownlint-disable MD013 -->
 ## Dataset 13: The Disproportionate Exclusion of Persons With Disabilities in Sub-Saharan Africa
-<!-- markdownlint-enable MD013 -->
+
 *Description*: Policy analysis of digital exclusion drivers for PWDs (assistive
 tech costs, inaccessible platforms) with Uganda/Mozambique case studies.  
 <details>  
@@ -497,9 +497,9 @@ and policy audits.
 [Link to dataset](https://punchng.com/nigeria-targets-35-million-persons-with-disabilities-in-digital-inclusion/)  
 
 ---
-<!-- markdownlint-disable MD013 -->
+
 ## Dataset 19: Kenya Moves to Make All Online Govt Services Accessible to Persons With Disabilities
-<!-- markdownlint-enable MD013 -->
+
 *Description*: Announcement of Kenya's initiative to ensure web accessibility
 for PWDs in government services, focusing on standards and capacity building.  
 <details>  
@@ -547,7 +547,7 @@ for PWDs in government services, focusing on standards and capacity building.
 ---
 <!-- markdownlint-disable MD013 -->
 ## Dataset 21: GSMA Principles for Driving the Digital Inclusion of Persons with Disabilities
-<!-- markdownlint-enable MD013 -->
+
 **Description**: A report Researches the digital inclusion drivers and barriers
 experienced by persons with disabilities
 <details>  
