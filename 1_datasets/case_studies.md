@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013-->
 
 # Case Studies
 
@@ -176,5 +176,25 @@ data or measurement of outcomes.
 </details>
 
 [Link to Dataset](https://www.light-for-the-world.org/news/transforming-education-begins-with-inclusion/)
+
+---
+
+## Dataset 6: Innovating Inclusion: Youth with Disabilities Leading the Future of Entrepreneurship (EnableMe Kenya)
+
+**Description**: An article profiling the leadership role of youth with disabilities in driving entrepreneurship and technological innovation in Kenya, emphasizing the use of digital platforms and adaptive technologies.
+
+<details>
+<summary>View metadata</summary>
+
+- **Source**: EnableMe Kenya (Digital youth inclusion platform)
+- **Type**: Feature article / case study
+**Timeframe**: 2025
+- **Format**:Online article
+- **Connection To Research**: Showcases positive examples of disabled youth entrepreneurs overcoming digital exclusion through innovation and access to technology. Illuminates opportunities and remaining challenges faced by self-employed disabled youth in the digital economy.
+- **Limitations**: Anecdotal / qualitative; limited quantitative or regional data. Focused on youth in Kenya specifically.
+
+</details>
+
+[Link to Dataset](https://www.enableme.ke/en/article/innovating-inclusion-youth-with-disabilities-leading-the-future-of-entrepreneurship-12520)
 
 ---
