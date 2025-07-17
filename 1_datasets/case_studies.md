@@ -188,8 +188,8 @@ data or measurement of outcomes.
 
 - **Source**: EnableMe Kenya (Digital youth inclusion platform)
 - **Type**: Feature article / case study
-**Timeframe**: 2025
-- **Format**:Online article
+- **Timeframe**: 2025
+- **Format**: Online article
 - **Connection To Research**: Showcases positive examples of disabled youth entrepreneurs overcoming digital exclusion through innovation and access to technology. Illuminates opportunities and remaining challenges faced by self-employed disabled youth in the digital economy.
 - **Limitations**: Anecdotal / qualitative; limited quantitative or regional data. Focused on youth in Kenya specifically.
 
