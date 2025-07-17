@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013-->
 
 # Tech Ecosystem & Feedback Channels  
 
@@ -96,6 +96,7 @@ reference to AI or specific mobile platform case studies
 and her initiatives to train people with disabilities in digital skills. It
 explores both successes and ongoing challenges in mobilizing accessible
 digital/AI learning programmes across African settings
+
 <details>  
 <summary>View metadata</summary>  
 
@@ -118,5 +119,26 @@ the business outcomes.
 </details>  
 
 [Link to Dataset](https://techcabal.com/2025/05/29/digital-skills-training-people-with-disabilities/)
+
+---
+
+## Dataset 5: Best Practices in the Employment of Persons with Intellectual Disabilities: A Case Study of Uganda
+
+**Decsription**: This qualitative case study explores barriers and enablers to employment for persons with intellectual disabilities in Uganda. Drawing from interviews and focus group discussions with 80 participants—including employers (formal/informal), persons with intellectual disabilities, and caregivers—it examines societal attitudes, systemic gaps, and lived experiences across urban and rural contexts.
+
+<details>  
+<summary>View metadata</summary>  
+
+- **Source**: Uganda Association for the Mentally Handicapped / Inclusion Uganda
+- **Type**: Qualitative report / case study
+- **Timeframe**: Published December 2022
+- **Format**: PDF
+- **Conection To Research**: This dataset directly addresses structural, attitudinal, and systemic exclusion dynamics within Uganda’s employment systems—especially as they relate to persons with intellectual disabilities (ID). While not focused on entrepreneurship or digital tools per se, it offers highly relevant contextual and qualitative insight into discrimination and labor market exclusion, uneven implementation of disability rights frameworks, attitudinal and capacity gaps in employers and families and barriers to independent livelihoods
+These themes map strongly to the broader digital inclusion/exclusion narrative in underserved SSA contexts. It offers grounding context for why exclusion persists and what support systems are (not) functioning.
+- **Limitations**: Not focused on digital tech/tools or entrepreneurship. Case focus is Uganda; broader SSA generalizability limited.Interviews and quotes present, but many findings are thematically summarized. Limited engagement with economic inclusion beyond employment framing
+
+</details>  
+
+[Link to Dataset](https://workdrive.zohoexternal.com/external/1279e691bb0a068d53d138340c14348c5b8e4ceb1415ed22eece9fa6d059276d)
 
 ---
