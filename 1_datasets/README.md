@@ -33,14 +33,14 @@ Each dataset is documented using a structured format that includes:
 
 This folder is divided into sub-files based on **thematic categories**, each in its own `.md` file:
 
-- [barriers_to_access](barriers_to_access/README.md) – Enablers of digital exclusion
-- [case_studies](case_studies/README.md) - Lived experiences of disabled self employed individuals
-- [digital_infrastructure](digital_infrastructure/README.md) – Access, connectivity, infrastructure gaps
-- [inclusive_digital_technology](inclusive_digital_technology/README.md) – Accessibility features (or flaws), and AI-driven exclusion
-- [tech-ecosystem](tech_ecosystem/README.md) - Actor accountability (design, funding, policy, feedback loops)
+- [barriers_to_access](barriers_to_access.md) – Enablers of digital exclusion
+- [case_studies](case_studies.md) - Lived experiences of disabled self employed individuals
+- [digital_infrastructure](digital_infrastructure.md) – Access, connectivity, infrastructure gaps
+- [inclusive_digital_technology](inclusive_digital_technology.md) – Accessibility features (or flaws), and AI-driven exclusion
+- [tech-ecosystem](tech_ecosystem.md) - Actor accountability (design, funding, policy, feedback loops)
 - [Irrelevant_datasets](irrelevant_datasets.md) - are no longer in use, as it is not suitable for our upcoming NLP analysis phase
 
-Each folder contains a series of pdfs with their respective README files which explains the whole the summarized information of the datasets.
+Each file contains a series of entries in collapsible sections (Dataset 1, Dataset 2, etc.).
 
 ---
 
