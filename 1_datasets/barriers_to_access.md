@@ -240,7 +240,7 @@ follow-up on policy impact.
 <details>
 <summary>View metadata</summary>
 
-- **Source**: Mwansa, G., Ngandu, M. R., & Mkwambi, Z.
+- **Source**: Mwansa, G., Ngandu, M. R., & Mkwambi, Z. (2025), Springer
 - **Type**: Survey Data
 - **Timeframe**: 2025
 - **Format**: PDF
