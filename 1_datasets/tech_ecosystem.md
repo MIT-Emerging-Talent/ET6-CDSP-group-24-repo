@@ -90,7 +90,7 @@ reference to AI or specific mobile platform case studies
 
 ---
 
-## Dataset 4: Digital Skills Training & Disability Inclusion
+## Dataset 4: Inside Opeoluwa Akinola’s mission to empower people with disabilities
 
 **Description**: An article profiling Opeoluwa Akinola, a Nigerian tech leader,
 and her initiatives to train people with disabilities in digital skills. It

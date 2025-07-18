@@ -198,7 +198,7 @@
 
 ---  
 
-## Dataset 9: Empowering African Youth with Disabilities through Technology  
+## Dataset 9: inABLE.org - Empowering African Youth with Disabilities through Technology  
 
 *Description*: Kenyan NGO providing tech labs and digital training for youth with disabilities in schools.  
 <details>  
@@ -241,7 +241,7 @@
 
 </details>
 
-[Link to dataset](https://finaccess.knbs.or.ke/reports-and-datasets)  
+[Link to dataset](https://drive.google.com/file/d/1dAjsHAl6bef48pgIt3U_M3FZ-gQKNHEf/view)  
 
 ---  
 
@@ -265,4 +265,4 @@
 
 </details>
 
-[Link to dataset](https://mastercardfdn.org/en/our-research/platform-livelihoods-for-kenyan-youth-with-disabilities-a-survey-and-qualitative-study/)
+[Link to dataset](https://cdn.buttercms.com/4RH4M2SOQVmxZaZzPXcC)

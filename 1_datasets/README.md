@@ -38,7 +38,7 @@ This folder is divided into sub-files based on **thematic categories**, each in 
 - [digital_infrastructure](digital_infrastructure.md) – Access, connectivity, infrastructure gaps
 - [inclusive_digital_technology](inclusive_digital_technology.md) – Accessibility features (or flaws), and AI-driven exclusion
 - [tech-ecosystem](tech_ecosystem.md) - Actor accountability (design, funding, policy, feedback loops)
-- [Irrelevant_datasets](Irrelevant_datasets.md) - are no longer in use, as it is not suitable for our upcoming NLP analysis phase
+- [Irrelevant_datasets](irrelevant_datasets.md) - are no longer in use, as it is not suitable for our upcoming NLP analysis phase
 
 Each file contains a series of entries in collapsible sections (Dataset 1, Dataset 2, etc.).
 
