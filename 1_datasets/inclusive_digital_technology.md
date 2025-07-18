@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013 -->
 
 # Inclusive Digital Technology  
 
@@ -119,34 +119,84 @@ actual digital business activities or mobile platform usage by disabled self-emp
 
 ---  
 
-## Dataset 5: Three SA NGOs to participate in 2023 Accelerating Digital Equity Summit
+## Dataset 5: Dataset Name: AI for Inclusive Development in Africa (AT2030 Report)
 
-**Description**: A news feature identifying three South African NGOs (E‑Cubed
-/ DBE‑E3, Digify Africa, Siyafunda Community CTC) chosen to participate in the
-October 2023 “Accelerating Digital Equity” Accelerator and Pitch Fest
-facilitated by Aspen Institute and HP. The event aimed to scale digital equity
-solutions for marginalized communities
+**Description**: This report summarizes three roundtable discussions held in early 2024 exploring opportunities, challenges, and enablers for ethical, inclusive AI development targeted at disability inclusion across Africa. It discusses the potential of AI-driven assistive technology (AT), infrastructural barriers, digital inclusion gaps, governance, policy, and the need to support African AI entrepreneurs.
 
 <details>  
-<summary>View metadata</summary>  
+<summary>View metadata</summary>
 
-- **Source**: EngineerIT (via Zawya press release)
-- **Type**: Event Report  
-- **Timeframe**: October 2023
-- **Format**: Web Article
-- **Connection To Research**: This report indirectly
-informs the research question by spotlighting community-level digital inclusion
-efforts in Sub‑Saharan Africa. The selected NGOs work on projects like teacher
-training bots and digital skills empowerment. These initiatives aim to reduce
-the digital divide among underserved populations—including people with
-disabilities—by providing accessible mobile tools, digital literacy, and
-community-based support.
-- **Limitations**: It addresses digital equity broadly; it doesn’t delve into
-how AI systems or mobile apps are being made accessible, Lacks data on reach,
-user engagement, or impact particularly for disabled self-employers.
+- **Source**: Global Disability Innovation Hub (GDI Hub), funded by UK Foreign, Commonwealth & Development Office (FCDO)
+- **Type**: Policy and expert roundtable report (Qualitative)
+- **Timeframe**: June 2024
+- **Format**: PDF report
+- **Connection to Research**: Focuses on the use of AI-driven technologies to support disability inclusion, directly relevant to disabled self-employed persons. Identifies infrastructure challenges, digital divides, lack of assistive technology, and skills gaps that exclude persons with disabilities from benefiting fully from AI and digital innovation.
+- **Limitations**: Focuses on policy and strategic discussions rather than providing primary data on disabled self-employed individuals. Limited quantitative evidence; mainly expert and stakeholder perspectives.
 
 </details>  
 
-[Link to Dataset](https://www.engineerit.co.za/article/three-sa-ngos-to-participate-in-2023-accelerating-digital-equity-summit)
+[Link to Dataset](https://cdn.disabilityinnovation.com/uploads/documents/AI-for-Inclusive-Development-in-Africa-report_long_FINAL-templated-for-website.pdf?v=1737556236)
+
+---  
+
+## Dataset 6: Accessibility and Digital Inclusion Knowledge Document (inABLE)
+
+Description:
+A knowledge document highlighting digital accessibility challenges and solutions for persons with disabilities in Africa. Covers awareness, policy frameworks, technological accessibility (A11Y), and best practices for promote digital inclusion.
+
+<details>  
+<summary>View metadata</summary>
+
+- **Source**: inABLE (Kenyan Disability Inclusion NGO)
+- **Type**: Advocacy and policy document
+- **Timeframe**: June 2023
+- **Format**: PDF report
+- **Connection To Research**: Addresses digital exclusion barriers faced by PWDs including inaccessible digital platforms, low digital literacy, and lack of inclusive design.
+- **Limitations**: Does not provide quantitative data or direct evidence from disabled self-employed participants. Focuses regionally on Kenya; may not fully generalize.
+
+</details>  
+
+[Link to Dataset](https://inable.org/wp-content/uploads/2023/06/Knowledge-Document-_A11Y_23-June-2023.-2.pdf)
+
+---  
+
+## Dataset 7: Disability Is Not Inability: Addressing The Disability Divide In Africa Using Smart Technologies | AUDA-NEPAD
+
+Description:
+A blog post discussing how smart technologies, including AI and digital tools, can help bridge the disability divide in Africa by improving accessibility, participation, and socioeconomic inclusion.
+
+<details>  
+<summary>View metadata</summary>
+
+- **Source**: New Partnership for Africa’s Development (NEPAD)
+- **Type**: Advocacy blog post
+- **Timeframe**: 2024
+- **Format**: Blog article
+- **Connection To Research**: Focuses on overcoming the disability divide via smart digital and AI technologies in Africa, relating directly to the inclusion of disabled entrepreneurs. Highlights policy and technological pathways to reduce exclusion.
+- **Limitations**: High-level advocacy; lacks detailed data or empirical study. General African focus with limited country-specific detail.
+
+</details>  
+
+[Link to Dataset](https://www.nepad.org/blog/disability-not-inability-addressing-disability-divide-africa-using-smart-technologies)
+
+---  
+
+## Dataset 8: Empowering Persons with Disabilities through Digital Innovation
+
+**Description**: This GSMA report explores how mobile and digital innovations are being used to support persons with disabilities across low- and middle-income countries. It highlights both barriers and enablers to digital inclusion, with a focus on inclusive design, assistive mobile services, and real-world implementation. While its geographic scope includes India, Indonesia, and Pakistan, it features valuable case material from Kenya, making it a relevant proxy for SSA digital ecosystems.
+
+<details>  
+<summary>View metadata</summary>
+
+- **Source**: GSMA Report (April 2023)
+- **Type**: Report
+- **Timeframe**: April 2023
+- **Format**: PDF report
+- **Connection To Research**: This report speaks directly to the role of digital tools in shaping inclusion or exclusion for persons with disabilities in SSA. It documents how mobile platforms and inclusive design practices affect access to services, livelihoods, and entrepreneurship—core to understanding systemic barriers and enablers in the digital ecosystem.
+- **Limitations**: Some sections read as promotional or lack critical distance. Limited detail on long-term impact or entrepreneurial outcomes. SSA region coverage is uneven: Kenya receive more attention. Qualitative richness is dispersed—selective extraction needed for effective NLP analysis.
+
+</details>  
+
+[Link to Dataset](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2023/05/Empowering-persons-with-disabilities-through-digital-innovation.pdf)
 
 ---  
