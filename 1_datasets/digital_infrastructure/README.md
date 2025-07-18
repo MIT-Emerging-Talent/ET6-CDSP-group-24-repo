@@ -198,30 +198,7 @@
 
 ---  
 
-## Dataset 9: inABLE.org - Empowering African Youth with Disabilities through Technology  
-
-*Description*: Kenyan NGO providing tech labs and digital training for youth with disabilities in schools.  
-<details>  
-<summary>View metadata</summary>  
-
-- *Source*: inABLE  
-- *Type*: NGO Initiative  
-- *Timeframe*: Ongoing  
-- *Format*: Website  
-- *Key Insights*:  
-  - Established computer labs in schools for blind students.  
-- *Connection to Research*: Grassroots model for tech training scalability.  
-- *Limitations*:  
-  - No public impact metrics.  
-  - Limited to school environments.  
-
-</details>
-
-[Link to dataset](https://inable.org/)
-
----  
-
-## Dataset 10: 2024 FinAccess Household Survey  
+## Dataset 9: 2024 FinAccess Household Survey  
 
 *Description*: National Kenyan survey on financial inclusion, with PWD-specific data on digital/financial access disparities.  
 <details>  
@@ -245,7 +222,7 @@
 
 ---  
 
-## Dataset 11: Platform Livelihoods For Kenyan Youth With Disabilities  
+## Dataset 10: Platform Livelihoods For Kenyan Youth With Disabilities  
 
 *Description*: Mixed-methods study on digital platform usage by disabled Kenyan youth for informal/formal work.  
 <details>  
