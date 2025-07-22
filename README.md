@@ -311,36 +311,46 @@ Stigma, representation gaps, and data invisibility emerged as deeper forces behi
 Peer networks and local solutions show strong community resilience, but they often arise from necessity rather than choice. Their existence points to system failure, not success.
 
 ## Key patterns
+
 For a full view of our thematic insights, see [data analysis.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis).
+
 ### 1. Digital divides persist as foundational barriers requiring coordinated response
+
 Digital access and connectivity challenges dominate across all analyses, with affordability, device access, and poor connectivity particularly acute in rural areas.
 Many PWDs face economic exclusion from purchasing smartphones or data plans, while basic infrastructure gaps continue to limit meaningful participation despite existing technological capacity.
 
 ### 2. Skills gaps create "access illusions" that magnify structural barriers
+
 Lack of digital literacy and minimal training opportunities for both users and service providers create situations where theoretical access fails to translate into meaningful engagement.
 These gaps limit PWDs' ability to engage with available tools, creating an "access illusion" where technology exists but remains unusable.
 
 ### 3. Inclusive design remains exceptional despite demonstrated potential
+
 While assistive technologies like screen readers and voice control show transformative potential, inclusive design principles are inconsistently applied. Poor interface design often makes
 existing technology unusable, yet these accessibility solutions remain separate from mainstream technology discussions rather than integrated standards.
 
 ### 4. Policy frameworks exist but enforcement mechanisms are weak
+
 National policies supporting digital inclusion are present but inconsistently applied and often unknown to frontline staff. While some private sector firms have developed inclusion strategies,
 variable commitment across the sector highlights the critical need for stronger policy enforcement mechanisms.
 
 ### 5. Economic barriers demand integration with broader social protection systems
+
 Mobile internet costs and device affordability cannot be addressed through technology solutions alone. The intersection of cost-related challenges with social protection needs suggests digital
 inclusion initiatives must be embedded within comprehensive economic support systems rather than treated as standalone interventions.
 
 ### 6. Organizational partnerships show promise but operate in silos
+
 Collaborative approaches and PWD-focused programs demonstrate growing recognition of disability needs, but these efforts often remain isolated from mainstream development initiatives.
 Case studies show active innovation, but their concentration in specific organizations suggests scaling and systematic adoption remain significant challenges.
 
 ### 7. Social exclusion reinforces digital barriers through invisibility and stigma
+
 Stigma, representation gaps, and data invisibility perpetuate exclusion beyond technical constraints. Without disaggregated data and participatory design, many PWDs remain unseen and underserved.
 While community solutions show resilience, they often arise from system failure rather than success.
 
 ### 8. Youth and financial inclusion represent untapped pathways for systemic change
+
 Digital financial services and youth entrepreneurship initiatives highlight significant opportunities, with employment and skills development emerging as critical leverage points.
 However, separation of these opportunities from disability-focused discussions indicates substantial untapped potential for cross-sector collaboration.
 
