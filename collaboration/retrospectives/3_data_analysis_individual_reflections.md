@@ -229,4 +229,5 @@ methods and applications.
 
 - Despite the coordination challenges, the collaborative spirit of the team was
 maintained throughout the project.
+
 ---
