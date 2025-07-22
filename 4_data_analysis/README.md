@@ -20,7 +20,7 @@ were extracted, thoroughly cleaned, and preprocessed using Python libraries like
 Following data preparation, our analysis employed a multi-faceted approach
 leveraging Natural Language Processing (NLP) and statistical methods:
 
-### 1. [Data Exploration and Initial Analysis](./3_data_exploration/README.md)
+### 1. [Data Exploration and Initial Analysis](../3_data_exploration/README.md)
 
 We started by inspecting the structure and quality of the
 [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv),
@@ -28,7 +28,7 @@ checking for completeness and relevance to ensure a solid analytical foundation.
 
 ---
 
-### 2. [Keyword in Context (KWIC) Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+### 2. [Keyword in Context (KWIC) Analysis](./keywords_in_context_analysis.ipynb)
 
 This qualitative technique allowed us to pinpoint direct mentions and understand
  the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,**'disability'**,
@@ -46,7 +46,7 @@ different topics.
 
 ---
 
-### 3. 📈 [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+### 3. 📈 [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](../3_data_exploration/top_keywords_per_theme.ipynb)
 
 We used TF-IDF to quantitatively identify the most statistically significant and
  unique vocabulary associated with our predefined themes. This helped us
@@ -55,7 +55,7 @@ We used TF-IDF to quantitatively identify the most statistically significant and
 
 ---
 
-### 4. [Topic Modeling Analysis (BERTopic)](./4_data_analysis/Topic_Modeling.ipynb)
+### 4. [Topic Modeling Analysis (BERTopic)](./Topic_Modeling.ipynb)
 
 As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERTopic/index.html)
  was crucial for moving beyond pre-assigned categories. It utilized document
@@ -79,20 +79,20 @@ As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERT
 
 **Key Visualizations for Topic Modeling:**
 
-![Topic Word Scores Bar Chart](./Visual_1.jpg)
+![Topic Word Scores Bar Chart](./Visual_01.jpg)
 *Purpose: This visualization shows the most important words for each topic and
 their relative importance scores, helping understand what characterizes each topic.*
 
-![Topic Similarity Heatmap](./Visual_2.jpg)
+![Topic Similarity Heatmap](./Visual_02.jpg)
 *Purpose: This heatmap shows how similar each topic is to every other topic.
 Darker colors indicate higher similarity, helping identify potentially redundant
  topics or topic clusters.*
 
-![2D Topic Space](./Visual_3.jpg)
+![2D Topic Space](./Visual_03.jpg)
 *Purpose: This plot shows topics as circles in 2D space where distance
 represents similarity. Topics that are close together are more semantically related.*
 
-![Hierarchical Clustering Dendrogram](./Visual_4.jpg)
+![Hierarchical Clustering Dendrogram](./Visual_04.jpg)
 *Purpose: This dendrogram shows how topics can be merged at different similarity
  levels, revealing the hierarchical structure of the topic space and which
  topics are most closely related.*
