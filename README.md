@@ -310,7 +310,7 @@ Stigma, representation gaps, and data invisibility emerged as deeper forces behi
 
 Peer networks and local solutions show strong community resilience, but they often arise from necessity rather than choice. Their existence points to system failure, not success.
 
-## Key patterns
+## NLP Key patterns
 
 For a full view of our thematic insights, see [`NLP_analysis.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis).
 
