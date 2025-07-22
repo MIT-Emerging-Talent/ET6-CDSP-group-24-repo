@@ -79,26 +79,18 @@ As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERT
 
 **Key Visualizations for Topic Modeling:**
 
-#### Visualization 1: Topic Frequency Bar Chart
-
 ![Topic Word Scores Bar Chart](./Visual_1.jpg)
 *Purpose: This visualization shows the most important words for each topic and
 their relative importance scores, helping understand what characterizes each topic.*
-
-#### Visualization 2: Topic Similarity Heatmap
 
 ![Topic Similarity Heatmap](./Visual_2.jpg)
 *Purpose: This heatmap shows how similar each topic is to every other topic.
 Darker colors indicate higher similarity, helping identify potentially redundant
  topics or topic clusters.*
 
-#### Visualization 3: 2D Topic Space
-
 ![2D Topic Space](./Visual_3.jpg)
 *Purpose: This plot shows topics as circles in 2D space where distance
 represents similarity. Topics that are close together are more semantically related.*
-
-#### Visualization 4: Hierarchical Topic Clustering
 
 ![Hierarchical Clustering Dendrogram](./Visual_4.jpg)
 *Purpose: This dendrogram shows how topics can be merged at different similarity
