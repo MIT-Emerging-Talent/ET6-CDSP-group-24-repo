@@ -312,7 +312,7 @@ Peer networks and local solutions show strong community resilience, but they oft
 
 ## Key patterns
 
-For a full view of our thematic insights, see [NLP_analysis.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis).
+For a full view of our thematic insights, see [`NLP_analysis.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis).
 
 ### 1. Digital divides persist as foundational barriers requiring coordinated response
 
