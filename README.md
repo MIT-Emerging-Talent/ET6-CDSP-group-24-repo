@@ -21,7 +21,7 @@ communication of findings to drive actionable insights.
 
 ## Research Conclusions
 
-**Digital exclusion for entrepreneurs with disabilities in Sub-Saharan Africa** is driven by intersecting structural, technological, and systemic barriers such as affordability, inaccessible design, and weak policy enforcement.*  
+**Digital exclusion for entrepreneurs with disabilities in Sub-Saharan Africa** is driven by intersecting structural, technological, and systemic barriers such as affordability, inaccessible design, and weak policy enforcement.  
 Yet local innovation and peer networks show powerful resilience that deserves support—not substitution for reform
 
 ## 📋 Project Milestones
@@ -278,45 +278,37 @@ This machine-assisted layer aimed at validating and extending our manual finding
 
 Together, the hybrid method provided a more robust understanding of exclusion in the digital ecosystem and its implications for economic inclusion.
 
+---
+
 ## Thematic Insights – Findings
 
 For a full view of our thematic insights, see [`manual_analysis_insights.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/blob/main/4_data_analysis/manual_analysis_insights.md)
-
----
 
 ### 1. Access to digital technology is constrained by overlapping structural barriers
 
 Affordability, device access, and poor connectivity emerged as the most prevalent access issues, particularly in rural or underserved areas. Many PWDs are economically excluded from purchasing smartphones or data plans, while telecom providers often fail to stock accessible devices.
 
----
-
 ### 2. Skills gaps magnify access gaps
 
 Lack of digital literacy and minimal training opportunities, both for users and telecom staff, were widespread. These gaps limit PWDs' ability to meaningfully engage with available tools or services, creating an *"access illusion."*
-
----
 
 ### 3. Inclusive design is the exception, not the norm
 
 Poor interface design and non-inclusive tools often made existing technology unusable. However, a few inclusive tech efforts, like screen readers or voice control, showed how design can be a gateway to inclusion if prioritized.
 
----
-
 ### 4. Policies exist, but enforcement is weak
 
 While many countries have regulations supporting digital inclusion, most were inconsistently applied or unknown to staff. The private sector plays a critical role—some firms like Safaricom and Vodacom have inclusion strategies, while others lag behind.
-
----
 
 ### 5. Social and systemic exclusion reinforce digital barriers
 
 Stigma, representation gaps, and data invisibility emerged as deeper forces behind exclusion. Without disaggregated data and participatory design, many PWDs remain unseen, and thus underserved.
 
----
-
 ### 6. PWDs build workarounds, but these shouldn’t replace systemic change
 
 Peer networks and local solutions show strong community resilience, but they often arise from necessity rather than choice. Their existence points to system failure, not success.
+
+---
 
 ## Confidence in Results
 
@@ -339,6 +331,8 @@ Topic labels were manually interpreted, and as with all unsupervised models, the
 ### Overall Confidence
 
 We are confident that our **core conclusions are grounded in evidence** and reflect real, recurring forms of exclusion. However, we acknowledge the **limitations of small datasets, proxy populations**, and the need for future work with more representative and direct participant data.
+
+---
 
 ### Limitations
 
