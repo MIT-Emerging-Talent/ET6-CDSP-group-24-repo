@@ -257,7 +257,77 @@ Each row represents a specific story of exclusion, a barrier, or an innovation's
 
 Status: Complete ✅
 
-### NLP Team's Methodology: Understanding Digital Exclusion
+# NLP Team's Methodology: Understanding Digital Exclusion
+
+## Executive Summary
+
+Our research on how digital technology and AI exclude self-employed people with
+disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
+ and the **Manual Coding Team**. The NLP team employed a comprehensive,
+ multi-faceted text analysis approach to systematically examine unstructured data.
+
+### Analysis Approach (Short Summary)
+
+Think of our NLP team as detectives using a "Smart Topic Machine." We started by
+ meticulously preparing and cleaning our 'clues' (documents). Then, our machine
+ "tasted" each clue to understand its unique 'flavor' or meaning. It grouped
+ similar-flavored clues to reveal hidden topics, using techniques like Keyword
+ in Context (KWIC) for granular evidence, TF-IDF for key thematic vocabulary,
+ and BERTopic for uncovering natural, latent themes through advanced document
+ embeddings and clustering.
+
+### Research Conclusions
+
+Through these combined NLP methods, we systematically examined the unstructured
+text data. The output provided both **robust qualitative evidence** and a
+**structured, semantic understanding** of how digital technologies and AI
+contribute to exclusion for self-employed people with disabilities in
+Sub-Saharan Africa.
+
+### Confidence in Results
+
+We hold **moderate confidence** in the foundational steps (Data Preparation,
+Data Exploration) and the statistical reliability of KWIC and TF-IDF for
+identifying relevant documents and distinctive terms. For BERTopic, our
+confidence is **moderate to high**, significantly bolstered by the manual review
+ of representative documents, ensuring the interpretability and relevance of the
+  emergent topics to our research question.
+
+### Limitations
+
+A primary challenge encountered was our initial **novelty with unstructured text
+ analysis**, which led to early delays in figuring out how to approach the
+ analysis itself, instead causing us to spend disproportionate time on dataset
+ filtering. Methodologically, limitations include KWIC's dependence on chosen
+ keywords, TF-IDF's lack of inherent semantic understanding, and BERTopic's
+ computational intensity, parameter sensitivity, and some 'black box' aspects of
+  its underlying models.
+
+### Ideas for Future Research
+
+Future research could explore:
+
+- **Expanding the dataset** to include more diverse geographical contexts or
+  additional document types.
+- **Experimenting with different NLP model configurations** or newer pre-trained
+   language models to refine topic granularity and interpretability.
+- **Integrating findings with quantitative socio-economic data** to build more
+   comprehensive models of digital exclusion.
+- **Developing interactive visualizations** for discovered topics to enhance
+ accessibility and further engage stakeholders.
+
+---
+
+## 🔍 NLP Team's Approach
+
+### A Quick Overview (Non-Technical)
+
+Think of our NLP team as detectives using a "Smart Topic Machine." First, we
+prepare all the 'clues' (documents) by cleaning them up. Then, our machine
+"tastes" each clue to understand its unique 'flavor' or meaning. It groups
+similar-flavored clues together, names these groups to reveal hidden topics, and
+ shows us the best examples from each group. This helps us uncover exactly how
+digital tech and AI create barriers for self-employed people with disabilities.
 
 Our research on how digital technology and AI exclude self-employed people with
 disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
@@ -266,33 +336,33 @@ disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
 
 ---
 
-## 🔍 NLP Team's Approach
-<!-- markdownlint-disable MD033 MD013 MD041-->
 The NLP team's work began with meticulous **Data Preparation**. Raw PDF files
 were extracted, thoroughly cleaned, and preprocessed using Python libraries like
- [**PyMuPDF**](https://pymupdf.readthedocs.io/en/latest/) and [**spaCy**](https://spacy.io/).
-  This involved removing stopwords, punctuation, and non-relevant tokens to
-  create a clean, structured [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv) – our foundational input for
-   all subsequent NLP tasks.
-<!-- markdownlint-enable MD033 MD013 MD041-->
+ [**PyMuPDF**](https://pymupdf.readthedocs.io/en/latest/) and
+ [**spaCy**](https://spacy.io/).
+ This involved removing stopwords, punctuation, and non-relevant tokens to create
+ a clean, structured [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv)
+ – our foundational input for all subsequent NLP tasks.
+
 Following data preparation, our analysis employed a multi-faceted approach
 leveraging Natural Language Processing (NLP) and statistical methods:
 
 ---
 
-### 1.  [Data Exploration and Initial Analysis](./3_data_exploration/README.md)
+### 1. [Data Exploration and Initial Analysis](./3_data_exploration/README.md)
 
-We started by inspecting the structure and quality of the [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv)
-, checking for completeness and relevance to ensure a solid analytical foundation.
+We started by inspecting the structure and quality of the
+[`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv),
+checking for completeness and relevance to ensure a solid analytical foundation.
 
 ---
 
-### 2.  [Keyword in Context (KWIC) Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+### 2. [Keyword in Context (KWIC) Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
 
 This qualitative technique allowed us to pinpoint direct mentions and understand
- the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,
-  **'disability'**, **'self-employed'**) within the text. This provided granular
-  , sentence-level evidence for our hypothesis.
+the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,
+**'disability'**, **'self-employed'**) within the text. This provided granular,
+sentence-level evidence for our hypothesis.
 
 ---
 
@@ -307,21 +377,14 @@ We used TF-IDF to quantitatively identify the most statistically significant and
 
 ### 4. [Topic Modeling Analysis (BERTopic)](./4_data_analysis/Topic_Modeling.ipynb)
 
-As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERTopic/index.html)
- was crucial for moving beyond pre-assigned categories. It utilized document
- embeddings and clustering to uncover latent, naturally emerging conceptual
- themes within the entire dataset. This provided a holistic and semantically rich
-  understanding of the various facets of exclusion.
+As an advanced neural technique,
+[**BERTopic**](https://maartengr.github.io/BERTopic/index.html) was crucial for
+moving beyond pre-assigned categories. It utilized document embeddings and
+clustering to uncover latent, naturally emerging conceptual themes within the
+entire dataset. This provided a holistic and semantically rich understanding of
+the various facets of exclusion.
 
 ---
-
-## ✅ Conclusion
-
-Through these combined NLP methods, the team systematically examined the
-unstructured text data. The output provided both **robust qualitative evidence**
- and a **structured, semantic understanding** of how digital technologies and
- AI contribute to exclusion for self-employed people with disabilities in
- Sub-Saharan Africa.
 
 ## 📁 Repository Structure
 
