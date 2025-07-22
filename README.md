@@ -4,14 +4,13 @@
 </div>
 <!-- markdownlint-enable MD033 MD013 MD041-->
 
+<!-- markdownlint-disable MD013-->
+
 # Welcome to CrystalPearl Rising
 
-Like crystals formed under pressure and
-pearls created through transformation, We combine the clarity and strength of
+We combine the clarity and strength of
 crystal with the wisdom and hidden beauty of pearl to tackle real-world problems
 through innovative data-driven insights and cross-cultural collaboration.
-
-🌟 We don't just polish data, we transform raw potential into brilliant insights.
 
 ## 🎯 Project Overview
 
@@ -20,9 +19,14 @@ project, from initial problem identification to final presentation. Our work
 emphasizes collaborative problem-solving, rigorous analysis, and effective
 communication of findings to drive actionable insights.
 
+## Research Conclusions
+
+**Digital exclusion for entrepreneurs with disabilities in Sub-Saharan Africa** is driven by intersecting structural, technological, and systemic barriers such as affordability, inaccessible design, and weak policy enforcement.  
+Yet local innovation and peer networks show powerful resilience that deserves support—not substitution for reform
+
 ## 📋 Project Milestones
 
-### Milestone 0: Cross-Cultural Collaboration 🤝🏻
+### Milestone 0: Cross-Cultural Collaboration
 
 **Status**: Complete ✅
 
@@ -33,7 +37,7 @@ communication of findings to drive actionable insights.
 - Defined group norms and working agreements
 - Established individual and team learning goals
 
-### Milestone 1: Problem Identification 🔍
+### Milestone 1: Problem Identification
 
 Status: Complete ✅
 
@@ -73,8 +77,8 @@ cultural barriers.
 
 ### Actionable Research Question
 
-**"How do digital and AI technologies exclude disabled self-employers  
-in Sub-Saharan Africa?"**
+**How do digital and AI technologies exclude disabled self-employers  
+in Sub-Saharan Africa?**
 
 ---
 
@@ -130,7 +134,7 @@ fairness, and building platforms that scale ethically.*
 
 ---
 
-### Milestone 2: Data Collection 🗂
+### Milestone 2: Data Collection
 
 Status: Complete ✅
 
@@ -233,15 +237,11 @@ granular experiences of exclusion.
    or in-depth interviews. This practical limitation shaped the scope of our methodology.
 
 ---
-
+<!-- markdownlint-disable MD013-->
 ### The Value: A Navigational Map
 
-Our dataset serves as a detailed map, not a perfect mirror. It helps
-pinpoint **where digital and AI technologies create barriers and crucial gaps
- for self employed people with disabilities in SSA**. This framework lays the
- groundwork for future research, policy development, and *interventions aimed
-  at mitigating exclusion and fostering truly inclusive tech innovation, truly
-  embodying the*‘Rising’ spirit of our team’s objectives.
+Our dataset helps pinpoint **where digital and AI technologies create barriers and crucial gaps for self employed people with disabilities in SSA**. This framework lays the groundwork for future research, policy development, and *interventions aimed at mitigating exclusion and fostering truly inclusive tech innovation, truly
+embodying the*‘Rising’ spirit of our team’s objectives.
 
 ---
 
@@ -253,136 +253,120 @@ Each row represents a specific story of exclusion, a barrier, or an innovation's
 
 ---
 
-### 📊 Milestone 3: Data Analysis  
+### Milestone 3: Data Analysis  
 
 Status: Complete ✅
 
-### Research Conclusions
+## Hybrid Analysis Summary
 
-Through these combined NLP methods, we systematically examined the unstructured
-text data. The output provided both **robust qualitative evidence** and a
-**structured, semantic understanding** of how digital technologies and AI
-contribute to exclusion for self-employed people with disabilities in
-Sub-Saharan Africa.
+Our research combined manual qualitative analysis and machine-assisted natural language processing (NLP) to explore barriers to digital inclusion for persons with disabilities (PWDs), with an emphasis on understanding how these barriers may impact economic participation.
 
-## Executive Summary
+### Manual Analysis
 
-Our research on how digital technology and AI exclude self-employed people with
-disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
- and the **Manual Coding Team**. The NLP team employed a comprehensive,
- multi-faceted text analysis approach to systematically examine unstructured data.
+We conducted a structured manual review of 7 documents using a collaboratively developed codebook centered around themes such as access, design, policy, and systemic exclusion.
 
-## NLP Team's Methodology: Understanding Digital Exclusion
+Due to limited direct data on PWD entrepreneurs, we relied heavily on **proxy data**—examining recurring patterns of exclusion, accessibility gaps, and institutional neglect. This allowed us to infer likely challenges to PWD participation in digital economies, including entrepreneurship. Our thematic coding approach enabled detailed qualitative insights from a relatively small sample.
 
-### Analysis Approach (Short Summary)
+### NLP-Assisted Analysis
 
-Think of our NLP team as detectives using a "Smart Topic Machine." We started by
- meticulously preparing and cleaning our 'clues' (documents). Then, our machine
- "tasted" each clue to understand its unique 'flavor' or meaning. It grouped
- similar-flavored clues to reveal hidden topics, using techniques like Keyword
- in Context (KWIC) for granular evidence, TF-IDF for key thematic vocabulary,
- and BERTopic for uncovering natural, latent themes through advanced document
- embeddings and clustering.
+We applied a suite of natural language processing techniques to complement and scale our manual review:
 
-### Confidence in Results
+- **Keyword-in-Context (KWIC)** to analyze how key terms were used in surrounding context
+- **BERTopic** to generate embeddings and cluster documents into latent themes using unsupervised learning
 
-We hold **moderate confidence** in the foundational steps (Data Preparation,
-Data Exploration) and the statistical reliability of KWIC and TF-IDF for
-identifying relevant documents and distinctive terms. For BERTopic, our
-confidence is **moderate to high**, significantly bolstered by the manual review
- of representative documents, ensuring the interpretability and relevance of the
-  emergent topics to our research question.
+This machine-assisted layer aimed at validating and extending our manual findings, especially by revealing patterns not immediately visible through close reading.
+
+Together, the hybrid method provided a more robust understanding of exclusion in the digital ecosystem and its implications for economic inclusion.
+
+---
+
+## Thematic Insights – Findings
+
+For a full view of our thematic insights, see [`manual_analysis_insights.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/blob/main/4_data_analysis/manual_analysis_insights.md)
+
+### 1. Access to digital technology is constrained by overlapping structural barriers
+
+Affordability, device access, and poor connectivity emerged as the most prevalent access issues, particularly in rural or underserved areas. Many PWDs are economically excluded from purchasing smartphones or data plans, while telecom providers often fail to stock accessible devices.
+
+### 2. Skills gaps magnify access gaps
+
+Lack of digital literacy and minimal training opportunities, both for users and telecom staff, were widespread. These gaps limit PWDs' ability to meaningfully engage with available tools or services, creating an *"access illusion."*
+
+### 3. Inclusive design is the exception, not the norm
+
+Poor interface design and non-inclusive tools often made existing technology unusable. However, a few inclusive tech efforts, like screen readers or voice control, showed how design can be a gateway to inclusion if prioritized.
+
+### 4. Policies exist, but enforcement is weak
+
+While many countries have regulations supporting digital inclusion, most were inconsistently applied or unknown to staff. The private sector plays a critical role—some firms like Safaricom and Vodacom have inclusion strategies, while others lag behind.
+
+### 5. Social and systemic exclusion reinforce digital barriers
+
+Stigma, representation gaps, and data invisibility emerged as deeper forces behind exclusion. Without disaggregated data and participatory design, many PWDs remain unseen, and thus underserved.
+
+### 6. PWDs build workarounds, but these shouldn’t replace systemic change
+
+Peer networks and local solutions show strong community resilience, but they often arise from necessity rather than choice. Their existence points to system failure, not success.
+
+---
+
+## Confidence in Results
+
+### Manual Analysis Confidence
+
+We have **high confidence** in the core findings of our manual analysis. Multiple coders reviewed the data and consistently identified recurring patterns such as affordability barrier, policy neglect and digital literacy gaps. These themes appeared across different documents and were frequently supported by direct excerpts.
+
+However, confidence is **moderate to lower** for subthemes with fewer mentions (e.g., physical inaccessibility, AI bias) or where coding required interpretation of ambiguous language. The small sample size (7 documents) and use of proxy data (documents not directly focused on entrepreneurs with disabilities) also limit the generalizability of the results.
+
+### NLP Analysis Confidence
+
+The NLP findings provide **exploratory insights** rather than definitive conclusions. Topic modeling and KWIC helped us identify patterns and validate qualitative themes, but the results depend on:
+
+- The quality of pre-cleaned text inputs
+- The interpretability of clustered topics
+- Keyword selection for KWIC
+
+Topic labels were manually interpreted, and as with all unsupervised models, there's a risk of overfitting or thematic overlap.
+
+### Overall Confidence
+
+We are confident that our **core conclusions are grounded in evidence** and reflect real, recurring forms of exclusion. However, we acknowledge the **limitations of small datasets, proxy populations**, and the need for future work with more representative and direct participant data.
+
+---
 
 ### Limitations
 
-A primary challenge encountered was our initial **novelty with unstructured text
- analysis**, which led to early delays in figuring out how to approach the
- analysis itself, instead causing us to spend disproportionate time on dataset
- filtering. Methodologically, limitations include KWIC's dependence on chosen
- keywords, TF-IDF's lack of inherent semantic understanding, and BERTopic's
- computational intensity, parameter sensitivity, and some 'black box' aspects of
-  its underlying models.
+While our hybrid analysis offers both depth and breadth, several limitations should be acknowledged:
+
+1. **Small and Uneven Sample Size**  
+   Our dataset consisted of only 11 documents, with varying lengths, formats, and levels of detail. Some documents were rich in qualitative content, while others offered only surface-level insights. This may limit the generalizability of our findings.
+
+2. **Limited Direct Data on PWD Entrepreneurs**  
+   Much of our analysis relied on proxy indicators—barriers to access, inclusion, and infrastructure—which we used to infer the likely experiences of entrepreneurs with disabilities. However, the absence of focused data on this specific population introduces an interpretive layer that may not capture the full picture.
+
+3. **Manual Coding Subjectivity**  
+   Although we used a shared codebook and cross-validated coding decisions, manual analysis is inherently interpretive. Researcher bias, background, or framing could influence how codes were applied or how themes were interpreted.
+
+4. **NLP Context Limitations**  
+   While BERTopic helped scale analysis, these models treat documents as linguistic patterns, not lived experiences. As such, NLP tools may underrepresent contextual nuance, cultural specificity, or implicit meaning, especially in advocacy or policy texts.
+
+5. **Lack of Disaggregated Data**  
+   Many documents failed to disaggregate findings by gender, age, or rural-urban divides. This constrained our ability to draw intersectional insights, particularly around issues like compounded exclusion or localized barriers.
+
+6. **Time Constraints**  
+   Given the time-sensitive nature of the analysis, we prioritized high-frequency and co-occurring themes. Deeper narrative synthesis or stakeholder validation was not possible within the project timeline.
+
+---
 
 ### Ideas for Future Research
 
-Future research could explore:
+- Deep-dive studies on underrepresented groups (e.g., women with disabilities, rural micro-entrepreneurs).
 
-- **Expanding the dataset** to include more diverse geographical contexts or
-  additional document types.
-- **Experimenting with different NLP model configurations** or newer pre-trained
-   language models to refine topic granularity and interpretability.
-- **Integrating findings with quantitative socio-economic data** to build more
-   comprehensive models of digital exclusion.
-- **Developing interactive visualizations** for discovered topics to enhance
- accessibility and further engage stakeholders.
+- Longitudinal or case-based analysis to examine how inclusion efforts evolve over time.
 
----
+- Exploring AI Bias and automation risks in more detail, especially in platform-based or informal digital work.
 
-## NLP Team's Approach
-
-### A Quick Overview (Non-Technical)
-
-Think of our NLP team as detectives using a "Smart Topic Machine." First, we
-prepare all the 'clues' (documents) by cleaning them up. Then, our machine
-"tastes" each clue to understand its unique 'flavor' or meaning. It groups
-similar-flavored clues together, names these groups to reveal hidden topics, and
- shows us the best examples from each group. This helps us uncover exactly how
-digital tech and AI create barriers for self-employed people with disabilities.
-
-Our research on how digital technology and AI exclude self-employed people with
-disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
- and the **Manual Coding Team**. This summary outlines the systematic process
- followed by the NLP Modeling Team.
-
----
-
-The NLP team's work began with meticulous **Data Preparation**. Raw PDF files
-were extracted, thoroughly cleaned, and preprocessed using Python libraries like
- [**PyMuPDF**](https://pymupdf.readthedocs.io/en/latest/) and
- [**spaCy**](https://spacy.io/).
- This involved removing stopwords, punctuation, and non-relevant tokens to create
- a clean, structured [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv)
- – our foundational input for all subsequent NLP tasks.
-
-Following data preparation, our analysis employed a multi-faceted approach
-leveraging Natural Language Processing (NLP) and statistical methods:
-
----
-
-### 1. [Data Exploration and Initial Analysis](./3_data_exploration/README.md)
-
-We started by inspecting the structure and quality of the
-[`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv),
-checking for completeness and relevance to ensure a solid analytical foundation.
-
----
-
-### 2. [Keyword in Context (KWIC) Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
-
-This qualitative technique allowed us to pinpoint direct mentions and understand
-the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,
-**'disability'**, **'self-employed'**) within the text. This provided granular,
-sentence-level evidence for our hypothesis.
-
----
-
-### 3. [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
-
-We used TF-IDF to quantitatively identify the most statistically significant and
- unique vocabulary associated with our predefined themes. This helped us
- highlight terms truly indicative of specific challenges and solutions,
- complementing the qualitative insights from KWIC.
-
----
-
-### 4. [Topic Modeling Analysis (BERTopic)](./4_data_analysis/Topic_Modeling.ipynb)
-
-As an advanced neural technique,
-[**BERTopic**](https://maartengr.github.io/BERTopic/index.html) was crucial for
-moving beyond pre-assigned categories. It utilized document embeddings and
-clustering to uncover latent, naturally emerging conceptual themes within the
-entire dataset. This provided a holistic and semantically rich understanding of
-the various facets of exclusion.
+- Training NLP models on this codebook to scale thematic insights across the full dataset.
 
 ---
 
@@ -441,4 +425,4 @@ for details.
 
 ---
 
-🗓 Last Updated: 30th June 2025
+🗓 Last Updated: 22 July 2025
