@@ -200,4 +200,33 @@ and confidence in using manual thematic coding.
 
 - Keep up the good work that is all.
 
+## **Omnia:**
+
+**What went well during this Data Analysis Milestone?**
+
+- We were collaborative and maintained good teamwork throughout the milestone.
+- We learned and increased our experience in data analysis and programming.
+Successfully applied both manual and NLP analysis approaches.
+
+**What could have gone better?**
+
+- There were some problems with time management and we finished too late.
+- The work overall was good, but there was an issue with coordination and
+understanding, which I believe was due to our lack of experience in the subject.
+
+**What did you learn or discover during this milestone?**
+
+- We learned more about data analysis and data cleaning techniques.
+- We gained experience working with Google Colab for collaborative data science work.
+- We developed a better understanding of Natural Language Processing (NLP)
+methods and applications.
+
+**One concrete action for the next milestone!**
+
+- Better time management and earlier planning to avoid last-minute rushes.
+
+**Additional thoughts:**
+
+- Despite the coordination challenges, the collaborative spirit of the team was
+maintained throughout the project.
 ---
