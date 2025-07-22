@@ -1,5 +1,7 @@
-<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD024 MD013 -->
 # Data Analysis
+
+We employed a hybrid analytical process: NLP Driven Analysis & Thematic Manual Coding.
 
 ## Topic Modeling with BERTopic
 
@@ -59,3 +61,17 @@ which each keyword appears within the documents.
 
 This analysis is useful for exploring how critical terms are framed across
 different topics.
+
+## Manual Coding Process
+
+Our manual analysis followed a structured qualitative coding workflow to extract insights from 7 documents, about 20% of our data pool. The goal was to identify exclusion patterns, thematic prevalence, and co-occurrence relationships between access-related issues.
+
+We developed a shared codebook, manually coded excerpts using top-level themes and subcodes, and cleaned the data for analysis. Pivot tables were used to calculate theme frequency and co-occurrence patterns. We then wrote memos to interpret key themes and relationships.
+
+See [`manual_analysis_technical_description.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis) for a full explanation of our coding process and rationale.
+
+---
+
+## 🗂 Related Files
+
+  [Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
