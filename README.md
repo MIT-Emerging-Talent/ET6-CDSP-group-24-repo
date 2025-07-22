@@ -257,7 +257,13 @@ Each row represents a specific story of exclusion, a barrier, or an innovation's
 
 Status: Complete ✅
 
-# NLP Team's Methodology: Understanding Digital Exclusion
+### Research Conclusions
+
+Through these combined NLP methods, we systematically examined the unstructured
+text data. The output provided both **robust qualitative evidence** and a
+**structured, semantic understanding** of how digital technologies and AI
+contribute to exclusion for self-employed people with disabilities in
+Sub-Saharan Africa.
 
 ## Executive Summary
 
@@ -265,6 +271,8 @@ Our research on how digital technology and AI exclude self-employed people with
 disabilities was tackled by two specialized sub-teams: the **NLP Modeling Team**
  and the **Manual Coding Team**. The NLP team employed a comprehensive,
  multi-faceted text analysis approach to systematically examine unstructured data.
+
+## NLP Team's Methodology: Understanding Digital Exclusion
 
 ### Analysis Approach (Short Summary)
 
@@ -275,14 +283,6 @@ Think of our NLP team as detectives using a "Smart Topic Machine." We started by
  in Context (KWIC) for granular evidence, TF-IDF for key thematic vocabulary,
  and BERTopic for uncovering natural, latent themes through advanced document
  embeddings and clustering.
-
-### Research Conclusions
-
-Through these combined NLP methods, we systematically examined the unstructured
-text data. The output provided both **robust qualitative evidence** and a
-**structured, semantic understanding** of how digital technologies and AI
-contribute to exclusion for self-employed people with disabilities in
-Sub-Saharan Africa.
 
 ### Confidence in Results
 
@@ -318,7 +318,7 @@ Future research could explore:
 
 ---
 
-## 🔍 NLP Team's Approach
+## NLP Team's Approach
 
 ### A Quick Overview (Non-Technical)
 
@@ -366,7 +366,7 @@ sentence-level evidence for our hypothesis.
 
 ---
 
-### 3. 📈 [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+### 3. [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
 
 We used TF-IDF to quantitatively identify the most statistically significant and
  unique vocabulary associated with our predefined themes. This helped us
