@@ -6,11 +6,13 @@
 
 <!-- markdownlint-disable MD013-->
 
-# Welcome to CrystalPearl Rising
+# Welcome to Crystal Pearl Rising
 
-We combine the clarity and strength of
-crystal with the wisdom and hidden beauty of pearl to tackle real-world problems
-through innovative data-driven insights and cross-cultural collaboration.
+Like crystals formed under pressure and pearls as hidden treasures revealed
+through care, we see people with disabilities as an undiscovered wealth of
+strength, wisdom, and beauty. At CrystalPearl Rising, we’re committed to
+transforming technology to be inclusive and empowering—combining clarity,
+resilience, and innovation to ensure no one is left behind.
 
 ## 🎯 Project Overview
 
