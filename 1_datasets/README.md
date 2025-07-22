@@ -39,7 +39,8 @@ This folder is divided into sub-files based on **thematic categories**, each in 
 - [inclusive_digital_technology](inclusive_digital_technology/README.md) – Accessibility features (or flaws), and AI-driven exclusion
 - [tech-ecosystem](tech_ecosystem/README.md) - Actor accountability (design, funding, policy, feedback loops)
 - [Irrelevant_datasets](irrelevant_datasets.md) - are no longer in use, as it is not suitable for our upcoming NLP analysis phase
-
+- `Processed_data` - is a folder that contains processed datasets
+  which are [`cleaned_datasets.csv`](../1_datasets/processed_data/cleaned_datasets.csv) and the [`per_theme_top_keywords.csv`](./processed_data/per_theme_top_keywords.csv)
 Each theme folder contains list of pdfs with a README.md file that describes a summarized description of the datasets inside the theme.
 
 ---
