@@ -9,7 +9,7 @@ growth opportunities discovered by each of us during this phase.
 
 ## **Jola:**
 
-**What went well during this Data Collection Milestone?**
+**What went well during this Data Analysis Milestone?**
 
 - We were able to successfully adopt a hybrid analytical approach that
   complemented each other well and enriched our insights.
@@ -51,7 +51,7 @@ growth opportunities discovered by each of us during this phase.
 
 ## **Karim:**
 
-**What went well during this Data Collection Milestone?**
+**What went well during this Data Analysis Milestone?**
 
 - Applying different NLP techniques to analyze the data.
 - Able to do two different analysis approaches, manual and automated analysis.
@@ -85,7 +85,7 @@ growth opportunities discovered by each of us during this phase.
 
 ## **Muqadsa:**
 
-**What went well during this Data Collection Milestone?**
+**What went well during this Data Analysis Milestone?**
 
 - Splitting our work into manual coding and automated analysis was highly
   effective, providing both in-depth detail and broad understanding.
@@ -139,7 +139,7 @@ particularly when engaging with human stories.
 
 ## **Omer:**
 
-**What went well during this Data Collection Milestone?**
+**What went well during this Data Analysis Milestone?**
 
 - During this milestone, I worked on manual coding and successfully learned how
   to apply the manual codebook. One achievement was improving my understanding
@@ -176,7 +176,7 @@ and confidence in using manual thematic coding.
 
 ## **Robel:**
 
-**What went well during this Data Collection Milestone?**
+**What went well during this Data Analysis Milestone?**
 
 - Identified and confirmed the utility of our datasets.
 - Gained a deeper understanding of our NLP planning and how it directly
@@ -199,5 +199,35 @@ and confidence in using manual thematic coding.
 **Additional thoughts:**
 
 - Keep up the good work that is all.
+
+## **Omnia:**
+
+**What went well during this Data Analysis Milestone?**
+
+- We were collaborative and maintained good teamwork throughout the milestone.
+- We learned and increased our experience in data analysis and programming.
+Successfully applied both manual and NLP analysis approaches.
+
+**What could have gone better?**
+
+- There were some problems with time management and we finished too late.
+- The work overall was good, but there was an issue with coordination and
+understanding, which I believe was due to our lack of experience in the subject.
+
+**What did you learn or discover during this milestone?**
+
+- We learned more about data analysis and data cleaning techniques.
+- We gained experience working with Google Colab for collaborative data science work.
+- We developed a better understanding of Natural Language Processing (NLP)
+methods and applications.
+
+**One concrete action for the next milestone!**
+
+- Better time management and earlier planning to avoid last-minute rushes.
+
+**Additional thoughts:**
+
+- Despite the coordination challenges, the collaborative spirit of the team was
+maintained throughout the project.
 
 ---
