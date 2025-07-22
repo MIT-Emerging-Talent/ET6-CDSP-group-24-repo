@@ -79,20 +79,32 @@ As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERT
 
 **Key Visualizations for Topic Modeling:**
 
-![Topic Word Scores Bar Chart](./Visual_01.jpg)
+## Topic Word Scores
+
+![Topic Word Scores Bar Chart](./visuals/topic_word_scores.jpg)
+
 *Purpose: This visualization shows the most important words for each topic and
 their relative importance scores, helping understand what characterizes each topic.*
 
-![Topic Similarity Heatmap](./Visual_02.jpg)
+## Similarity Matrix
+
+![Topic Similarity Heatmap](./visuals/similarity_matrix.jpg)
+
 *Purpose: This heatmap shows how similar each topic is to every other topic.
 Darker colors indicate higher similarity, helping identify potentially redundant
  topics or topic clusters.*
 
-![2D Topic Space](./Visual_03.jpg)
+## 2D Topic Space
+
+![2D Topic Space](./visuals/2d_topic_space.jpg)
+
 *Purpose: This plot shows topics as circles in 2D space where distance
 represents similarity. Topics that are close together are more semantically related.*
 
-![Hierarchical Clustering Dendrogram](./Visual_04.jpg)
+## Hierarchical Clustering
+
+![Hierarchical Clustering Dendrogram](./visuals/hierarchical_clustering.jpg)
+
 *Purpose: This dendrogram shows how topics can be merged at different similarity
  levels, revealing the hierarchical structure of the topic space and which
  topics are most closely related.*
