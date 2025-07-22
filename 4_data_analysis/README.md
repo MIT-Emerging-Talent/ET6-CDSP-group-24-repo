@@ -1,21 +1,69 @@
-<!-- markdownlint-disable MD024 MD013 -->
 # Data Analysis
 
-We employed a hybrid analytical process: NLP Driven Analysis & Thematic Manual Coding.
+Our analytical process followed a sequential flow, beginning with the
+**NLP-driven analysis**, which provided a broad, data-driven understanding of
+the text. This was then complemented by a more focused **manual coding process**
+, allowing for deeper qualitative insights into specific patterns of exclusion.
 
-## Topic Modeling with BERTopic
+---
 
-### [`Topic_Modeling_BERTopic.ipynb`](Topic_Modeling_BERTopic.ipynb)
+## 🔍 NLP Team's Approach
 
-This notebook applies **BERTopic**, a transformer-based topic modeling approach,
-to analyze a text dataset focused on themes. The analysis helps uncover
-**hidden themes or patterns** in the text and visualize them interactively.
+The NLP team's work began with meticulous **Data Preparation**. Raw PDF files
+were extracted, thoroughly cleaned, and preprocessed using Python libraries like
+ [**PyMuPDF**](https://pymupdf.readthedocs.io/en/latest/) and
+ [**spaCy**](https://spacy.io/). This involved removing stopwords, punctuation,
+ and non-relevant tokens to create a clean, structured
+ [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv) –
+ our foundational input for all subsequent NLP tasks.
 
-### Datasets used
+Following data preparation, our analysis employed a multi-faceted approach
+leveraging Natural Language Processing (NLP) and statistical methods:
 
-* `cleaned_datasets.csv`
+### 1. [Data Exploration and Initial Analysis](./3_data_exploration/README.md)
 
-### Key Features
+We started by inspecting the structure and quality of the
+[`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv),
+checking for completeness and relevance to ensure a solid analytical foundation.
+
+---
+
+### 2. [Keyword in Context (KWIC) Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+
+This qualitative technique allowed us to pinpoint direct mentions and understand
+ the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,**'disability'**,
+  **'self-employed'**)
+  within the text. This provided granular, sentence-level evidence for our hypothesis.
+
+**Goals for KWIC Analysis:**
+
+* Understand how key terms are framed within their thematic contexts.
+* Support qualitative interpretation of textual data.
+* Enable exploratory and descriptive insights across themes.
+
+This analysis is useful for exploring how critical terms are framed across
+different topics.
+
+---
+
+### 3. 📈 [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](./4_data_analysis/keywords_in_context_analysis.ipynb)
+
+We used TF-IDF to quantitatively identify the most statistically significant and
+ unique vocabulary associated with our predefined themes. This helped us
+ highlight terms truly indicative of specific challenges and solutions,
+ complementing the qualitative insights from KWIC.
+
+---
+
+### 4. [Topic Modeling Analysis (BERTopic)](./4_data_analysis/Topic_Modeling.ipynb)
+
+As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERTopic/index.html)
+ was crucial for moving beyond pre-assigned categories. It utilized document
+ embeddings and clustering to uncover latent, naturally emerging conceptual
+ themes within the entire dataset. This provided a holistic and semantically
+ rich understanding of the various facets of exclusion.
+
+**Key Features of BERTopic Analysis:**
 
 * Loads pre-cleaned text data and filters by predefined thematic categories.
 * Defines domain-specific stopwords to reduce noise and enhance topic clarity.
@@ -23,55 +71,57 @@ to analyze a text dataset focused on themes. The analysis helps uncover
 * Applies BERTopic to generate interpretable topics.
 * Visualizes topics through bar charts and interactive plots.
 
-### Goals
+**Goals for BERTopic Analysis:**
 
 * Identify key discussion patterns and shared language across themes.
 * Explore how different topics cut across thematic boundaries.
 * Support exploratory qualitative and thematic research.
 
+**Key Visualizations for Topic Modeling:**
+
+#### Visualization 1: Topic Frequency Bar Chart
+
+![Topic Word Scores Bar Chart](./Visual_1.jpg)
+*Purpose: This visualization shows the most important words for each topic and
+their relative importance scores, helping understand what characterizes each topic.*
+
+#### Visualization 2: Topic Similarity Heatmap
+
+![Topic Similarity Heatmap](./Visual_2.jpg)
+*Purpose: This heatmap shows how similar each topic is to every other topic.
+Darker colors indicate higher similarity, helping identify potentially redundant
+ topics or topic clusters.*
+
+#### Visualization 3: 2D Topic Space
+
+![2D Topic Space](./Visual_3.jpg)
+*Purpose: This plot shows topics as circles in 2D space where distance
+represents similarity. Topics that are close together are more semantically related.*
+
+#### Visualization 4: Hierarchical Topic Clustering
+
+![Hierarchical Clustering Dendrogram](./Visual_4.jpg)
+*Purpose: This dendrogram shows how topics can be merged at different similarity
+ levels, revealing the hierarchical structure of the topic space and which
+ topics are most closely related.*
+
 ---
-
-## Keywords-in-Context (KWIC) Analysis by Theme
-
-### [`keywords_in_context_analysis.ipynb`](keywords_in_context_analysis.ipynb)
-
-This notebook performs a **Keywords-in-Context (KWIC)** analysis on a collection
-of PDF documents organized by thematic categories. Using a set of pre-extracted
-top keywords for each theme, the notebook extracts the surrounding context in
-which each keyword appears within the documents.
-
-### Datasets used
-
-* All raw PDF files
-* `per_theme_top_keywords.csv`
-
-### Key Features
-
-* Loads and extracts raw text from PDFs grouped by theme.
-* Cleans and preprocesses text to ensure clean tokenization.
-* Uses spaCy to tokenize text and identify keyword matches.
-* Extracts and displays left and right context windows around each keyword.
-* Provides structured, theme-specific outputs to support qualitative analysis.
-
-### Goals
-
-* Understand how key terms are framed within their thematic contexts.
-* Support qualitative interpretation of textual data.
-* Enable exploratory and descriptive insights across themes
-
-This analysis is useful for exploring how critical terms are framed across
-different topics.
 
 ## Manual Coding Process
 
-Our manual analysis followed a structured qualitative coding workflow to extract insights from 7 documents, about 20% of our data pool. The goal was to identify exclusion patterns, thematic prevalence, and co-occurrence relationships between access-related issues.
+Our manual analysis followed a structured qualitative coding workflow to extract
+ insights from 7 documents, about 20% of our data pool. The goal was to identify
+  exclusion patterns, thematic prevalence, and co-occurrence relationships
+  between access-related issues.
 
-We developed a shared codebook, manually coded excerpts using top-level themes and subcodes, and cleaned the data for analysis. Pivot tables were used to calculate theme frequency and co-occurrence patterns. We then wrote memos to interpret key themes and relationships.
+We developed a shared codebook, manually coded excerpts using top-level themes
+and subcodes, and cleaned the data for analysis. Pivot tables were used to
+calculate theme frequency and co-occurrence patterns. We then wrote memos to
+interpret key themes and relationships.
 
-See [`manual_analysis_technical_description.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis) for a full explanation of our coding process and rationale.
+See [`manual_analysis_technical_description.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis)
+ for a full explanation of our coding process and rationale.
 
 ---
 
-## 🗂 Related Files
-
-  [Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
+[Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
