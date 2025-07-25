@@ -119,7 +119,7 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 📅 Monday, July 28 (Morning)
 
-### Mugedda
+### Muqadsa
 
 - Clean up the repository and ensure documentation
 
