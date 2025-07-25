@@ -15,6 +15,7 @@
 - Omer Dafaalla
 
 **Apologies:**
+
 - Muqadsa Tahir (will send feedback after watching the meeting recording)
 
 ---
@@ -49,7 +50,7 @@ proactive approach for Milestone 4.
 
 Everyone will reread the **main README file**
 and provide feedback in the WhatsApp group.
-📅 **Deadline:** Saturday, July 26 (night)
+**Deadline:** Saturday, July 26 (night)
 
 ---
 
@@ -66,14 +67,14 @@ delivering our peer feedback.
 - A discussion on refining the research question was initiated.
 
 All members are expected to share their opinion on Omnia's suggestion.
-📅 **Deadline for opinions:** Friday, July 25 at 1:00 AM EST
+**Deadline for opinions:** Friday, July 25 at 1:00 AM EST
 
 ---
 
 ## 6. Milestone 4 Planning
 
 Planning for Milestone 4 tasks and structure was postponed to:
-📅 **Monday, July 28**
+**Monday, July 28**
 
 ---
 
@@ -83,11 +84,11 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 - Prepare presentation draft and share with team
   
-**📅 Friday, July 25, 4:00 AM EST**
+**Friday, July 25, 4:00 AM EST**
 
 - Collect team feedback and finalize for MIT team
   
-**📅 Feedback due by 8:00 AM EST**
+**Feedback due by 8:00 AM EST**
 
 ### **Robel:**
 
@@ -97,33 +98,31 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 - Revalidate NLP findings (with Karim)
   
-**📅 Monday, July 28 (Morning)**
+**Monday, July 28 (Morning)**
   
 ### **Karim:** 
 
 - Revalidate NLP findings (with Robel)
   
-**📅 Monday, July 28 (Morning)**
+**Monday, July 28 (Morning)**
   
 ### **Jola:** 
 
 - Revalidate manual coding (with Omer)
   
-**📅 Monday, July 28 (Morning)**
-
+**Monday, July 28 (Morning)**
 
 ### **Omer:** 
 
 - Revalidate manual coding (with Jola)
   
-**📅 Monday, July 28 (Morning)**
+**Monday, July 28 (Morning)**
 
 ### **Muqadsa:**
 
 - Clean up the repository and ensure documentation
   
 **Will review recording before**
-
 
 ---
 
@@ -135,3 +134,4 @@ Planning for Milestone 4 tasks and structure was postponed to:
 - Team feedback due by 8:00 AM EST on July 25
 - Revalidation and milestone planning on July 28
 - Clean repo before next presentation
+- 
