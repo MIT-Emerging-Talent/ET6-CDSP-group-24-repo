@@ -1,4 +1,4 @@
-# Meeting Minutes #15 - Milestone 4 Kickoff
+# Meeting Minutes #19 - Milestone 4 Kickoff
 
 **Date:** Thursday, July 24, 2025
 **Time:** 11:00 AM - 12:30 PM EST
