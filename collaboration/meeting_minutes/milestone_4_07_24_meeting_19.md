@@ -1,22 +1,22 @@
-# 📝 Meeting Minutes #19 – Milestone 4 Kickoff
+# Meeting Minutes #15 - Milestone 4 Kickoff
 
 **Date:** Thursday, July 24, 2025
-**Time:** 11:00 AM – 12:30 PM EST
-**Link:** [Google Meet](https://meet.google.com/wdg-swcr-dxa)
+**Time:** 11:00 AM - 12:30 PM EST
+**Link:** [Google Meet](https://meet.google.com/adg-xgci-dsa)
 
 ---
 
-## 👥 Attendees
+## Attendees
 
 - Omnia Mustafa Abdulgadir
-- Robel Mengsteab
-- Jola-Moses
-- Karim Makie
-- Omer Dafaalla
+- Robel Mengistab
+- Jola-Moez
+- Karim Makik
+- Omer Defoalla
 
-**Apologies:**
+### Apologies
 
-- Muqadsa Tahir (will send feedback after watching the meeting recording)
+- Mugedda Tahir (will send feedback after watching the meeting recording)
 
 ---
 
@@ -50,13 +50,14 @@ proactive approach for Milestone 4.
 
 Everyone will reread the **main README file**
 and provide feedback in the WhatsApp group.
+
 **Deadline:** Saturday, July 26 (night)
 
 ---
 
 ## 4. Feedback for Group 3
 
-Robel will coordinate with Group 3 and decide the best format and method for 
+Robel will coordinate with Group 3 and decide the best format and method for
 delivering our peer feedback.
 
 ---
@@ -78,60 +79,59 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 ---
 
-## 🛠 Tasks & Responsibilities
+## Tasks & Responsibilities
 
-### **Omnia:**
+### Omnia
 
 - Prepare presentation draft and share with team
-  
+
 **Friday, July 25, 4:00 AM EST**
 
 - Collect team feedback and finalize for MIT team
-  
+
 **Feedback due by 8:00 AM EST**
 
-### **Robel:**
+### Robel
 
 - Coordinate feedback with Group 3
-  
-### **Ongoing**
 
-- Revalidate NLP findings (with Karim)
-  
-**Monday, July 28 (Morning)**
-  
-### **Karim:** 
+### Ongoing
 
-- Revalidate NLP findings (with Robel)
-  
-**Monday, July 28 (Morning)**
-  
-### **Jola:** 
+- Reevaluate NLP findings (with Karim)
 
-- Revalidate manual coding (with Omer)
-  
 **Monday, July 28 (Morning)**
 
-### **Omer:** 
+### Karim
 
-- Revalidate manual coding (with Jola)
-  
+- Reevaluate NLP findings (with Robel)
+
 **Monday, July 28 (Morning)**
 
-### **Muqadsa:**
+### Jola
+
+- Reevaluate manual coding (with Omer)
+
+**Monday, July 28 (Morning)**
+
+### Omer
+
+- Reevaluate manual coding (with Jola)
+
+**Monday, July 28 (Morning)**
+
+### Mugedda
 
 - Clean up the repository and ensure documentation
-  
+
 **Will review recording before**
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 
 - Finalize README feedback by July 26
 - Share opinions on project name and research focus by July 25 at 1:00 AM EST
 - Presentation draft due July 25 at 4:00 AM EST
 - Team feedback due by 8:00 AM EST on July 25
-- Revalidation and milestone planning on July 28
+- Reevaluation and milestone planning on July 28
 - Clean repo before next presentation
-- 
