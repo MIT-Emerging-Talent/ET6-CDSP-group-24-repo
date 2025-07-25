@@ -20,15 +20,19 @@
 
 ## 1. Meeting Purpose & Structure  
 
-This meeting marked the official start of **Milestone 4**. The team reflected on the previous milestone,
-identified areas for improvement, and began laying the groundwork for current deliverables,
-including our communication artifact, feedback to Group 3, and the upcoming presentation.
+This meeting marked the official start of **Milestone 4**.
+The team reflected on the previous milestone, identified areas for improvement,
+and began laying the groundwork for current deliverables,
+including our communication artifact,
+feedback to Group 3, and the upcoming presentation.
 
 ---
 
 ## 2. Reflection on Milestone 3  
 
-Each member shared their perspective on what went wrong. Common themes identified included:
+Each member shared their perspective on what went wrong.
+Common themes identified included:
+
 - Lack of clear planning  
 - Weak coordination  
 - Rushed execution  
@@ -48,7 +52,8 @@ Everyone will reread the **main README file** and provide feedback in the WhatsA
 
 ## 4. Feedback for Group 3  
 
-Robel will coordinate with Group 3 and decide the best format and method for delivering our peer feedback.
+Robel will coordinate with Group 3 and decide the best
+format and method for delivering our peer feedback.
 
 ---
 
@@ -70,16 +75,16 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 ## 🛠 Tasks & Responsibilities
 
-| Member         | Task                                                        | Deadline/Note                           |
-|----------------|-------------------------------------------------------------|-----------------------------------------|
-| **Omnia**      | Prepare presentation draft and share with team              | 📅 Friday, July 25, 4:00 AM EST         |
-|                | Collect team feedback and finalize for MIT team             | 🕗 Feedback due by 8:00 AM EST          |
-| **Robel**      | Coordinate feedback with Group 3                            | Ongoing                                 |
-|                | Revalidate NLP findings (with Karim)                        | 📅 Monday, July 28 (Morning)            |
-| **Karim**      | Revalidate NLP findings (with Robel)                        | 📅 Monday, July 28 (Morning)            |
-| **Jola**       | Revalidate manual coding (with Omer)                        | 📅 Monday, July 28 (Morning)            |
-| **Omer**       | Revalidate manual coding (with Jola)                        | 📅 Monday, July 28 (Morning)            |
-| **Muqadsa**    | Clean up the repository and ensure documentation accuracy   | Will review recording before proceeding |
+| Member      | Task                                                        | Deadline/Note                           |
+|-------------|-------------------------------------------------------------|-----------------------------------------|
+| **Omnia**   | Prepare presentation draft and share with team              | 📅 Friday, July 25, 4:00 AM EST         |
+|             | Collect team feedback and finalize for MIT team             | 🕗 Feedback due by 8:00 AM EST          |
+| **Robel**   | Coordinate feedback with Group 3                            | Ongoing                                 |
+|             | Revalidate NLP findings (with Karim)                        | 📅 Monday, July 28 (Morning)            |
+| **Karim**   | Revalidate NLP findings (with Robel)                        | 📅 Monday, July 28 (Morning)            |
+| **Jola**    | Revalidate manual coding (with Omer)                        | 📅 Monday, July 28 (Morning)            |
+| **Omer**    | Revalidate manual coding (with Jola)                        | 📅 Monday, July 28 (Morning)            |
+| **Muqadsa** | Clean up the repository and ensure documentation accuracy   | Will review recording before proceeding |
 
 ---
 
