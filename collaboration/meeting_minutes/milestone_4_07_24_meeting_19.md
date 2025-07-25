@@ -85,11 +85,11 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 - Prepare presentation draft and share with team
 
-**Friday, July 25, 4:00 AM EST**
+📅 Friday, July 25, 4:00 AM EST
 
 - Collect team feedback and finalize for MIT team
 
-**Feedback due by 8:00 AM EST**
+📅 Feedback due by 8:00 AM EST
 
 ### Robel
 
@@ -99,31 +99,31 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 - Reevaluate NLP findings (with Karim)
 
-**Monday, July 28 (Morning)**
+📅 Monday, July 28 (Morning)
 
 ### Karim
 
 - Reevaluate NLP findings (with Robel)
 
-**Monday, July 28 (Morning)**
+📅 Monday, July 28 (Morning)
 
 ### Jola
 
 - Reevaluate manual coding (with Omer)
 
-**Monday, July 28 (Morning)**
+📅 Monday, July 28 (Morning)
 
 ### Omer
 
 - Reevaluate manual coding (with Jola)
 
-**Monday, July 28 (Morning)**
+📅 Monday, July 28 (Morning)
 
 ### Mugedda
 
 - Clean up the repository and ensure documentation
 
-**Will review recording before**
+📅 Will review recording before
 
 ---
 
