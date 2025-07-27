@@ -33,8 +33,8 @@ and recurring challenges surfaced during our literature review.
 
 ## Actionable Research Question
 
-**How do digital technologies exclude self-employed people with disabilities
-in Sub-Saharan Africa?**
+**How do digital technologies exclude self-employed people with disabilities in
+Sub-Saharan Africa (SSA)?**
 
 ---
 
@@ -58,12 +58,21 @@ It has to be built in from the start.
 
 ---
 
-## Strategic Value
+## Driving Systemic Change
 
-This research offers tech companies, policymakers, and advocates a chance to:
+This research offers tech companies, policymakers, advocates, and
+other stakeholders a chance to:
 
 * Redesign tools to better support self-employed people with disabilities
-  using inclusive AI and mobile-first solutions
-* Unlock underserved markets by understanding a resourceful and resilient user base
-* Incorporate more diverse, real-world data in their models
+  using inclusive digital and mobile-first solutions.
+* Unlock underserved markets by understanding a resourceful and resilient user base.
+* Incorporate more diverse, real-world data in digital product development and models.
 * Advance ESG goals through authentic inclusion practices
+* Highlight regulatory gaps and policy opportunities to foster a more
+  inclusive digital ecosystem.
+* Provide data and compelling narratives to strengthen advocacy efforts for
+  digital rights and equitable access for persons with disabilities.
+* Equip organizations with actionable insights to influence corporate social
+  responsibility and drive inclusive design practices.
+* Contribute to achieving broader socio-economic development goals related to
+  disability inclusion and equitable digital participation in SSA.
