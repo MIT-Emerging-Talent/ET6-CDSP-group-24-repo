@@ -26,10 +26,9 @@ significant disability (WHO, 2023).
 
 ### 2.2 Economic Inclusion  
 
-Full participation in labor markets, entrepreneurship, and
-financial systems participation in economic activities, including access to labor
-markets, entrepreneurship, financial services, and social protection—to enable
-sustainable livelihoods and empowerment beyond basic subsistence.
+Full participation in economic activities, including access to labor
+markets, entrepreneurship, financial services, and social protection—to
+enable sustainable livelihoods and empowerment beyond basic subsistence.
 
 - **Entrepreneurship as a Pathway**: Offers PWDs an essential alternative pathway
 to overcome barriers in traditional employment. It provides flexibility, autonomy,
@@ -63,7 +62,7 @@ challenges.
   accessibility and equal participation for persons with disabilities, emphasizing
   the removal of barriers and the promotion of full inclusion in society. It defines
   disability as resulting from the interaction between impairments and attitudinal
-/environmental barriers.
+/ environmental barriers.
 
   - **The Americans with Disabilities Act (ADA), USA**   prohibits discrimination
   based on disability and enforces accessibility requirements, including for digital
@@ -75,7 +74,7 @@ challenges.
 
 Historically, tech companies have often approached accessibility reactively,
 implementing changes mainly after legal challenges or regulatory pressure rather
-than proactively embedding inclusion34. This reactive stance highlights the gap
+than proactively embedding inclusion. This reactive stance highlights the gap
 between legal compliance and genuine, proactive disability inclusion.
 
 ---
@@ -152,6 +151,24 @@ success.
   - Many accessibility features remain underutilized due to lack of awareness
   - Lack of training programs for assistive technologies  
 
+### 6.3 Iceberg Model of Digital Exclusion
+
+To better visualize the layered and often hidden barriers facing self-employed
+people with disabilities in digital spaces, we developed an
+**Iceberg Model of Digital Exclusion**.
+
+This model highlights how visible challenges (e.g., inaccessible apps or lack
+of captioning) are just the tip—beneath the surface lie deeper structural,
+cultural, and institutional forces that shape digital exclusion.
+
+<div align="center">
+
+  ![Iceberg Model](https://github.com/user-attachments/assets/921a07d6-2d27-4cec-9c6a-25ba66b15529)
+
+   **Figure:** Iceberg Model of Digital Exclusion  
+  *This model illustrates the visible and invisible layers of digital exclusion.*
+</div>
+
 ---
 
 ## 7. Opportunities and Innovations
@@ -196,7 +213,7 @@ success.
 
 - **Disability Justice**: Centers intersectional inclusion, recognizing the diverse
 experiences of disabled people, including marginalized identities.
-- **Intesectionality**: Highlights how disability intersects with gender, race,
+- **Intersectionality**: Highlights how disability intersects with gender, race,
 geography (e.g., rural users), and socio-economic status.
 - **Techno-Solutionism Critique**: Cautions against one-size-fits-all tech fixes
 without involving disabled users in design.
@@ -269,6 +286,8 @@ biases.
 Addressing these challenges requires systemic change, including proactive design,
 investment in disability-led innovation, inclusive hiring, and broader cultural
 shifts toward disability justice.
+
+---
 
 ### References  
 
