@@ -31,7 +31,7 @@ and recurring challenges surfaced during our literature review.
 
 ---
 
-## Actionable Research Question
+## Our Research Question
 
 **How do digital technologies exclude self-employed people with disabilities in
 Sub-Saharan Africa (SSA)?**
