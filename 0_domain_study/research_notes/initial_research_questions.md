@@ -157,7 +157,7 @@ equity-focused interventions for disabled entrepreneurs.
 **Beyond Access: Can AI Spot the Next Successful Women-Led Microbusiness in
 Pakistan or Kenya, etc.?**  
 
-*A Predictive Model on Digital Tools, Mobile Money & Inclusion Outcomes
+*A Predictive Model on Digital Tools, Mobile Money & Inclusion Outcomes*
 
 ### **Option 2: Research Question**  
 
