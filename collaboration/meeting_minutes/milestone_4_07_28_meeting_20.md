@@ -1,4 +1,4 @@
-# Meeting Minutes #20 – Progress & Milestone Planing
+# Meeting Minutes #20 – Progress & Milestone Planning
 
 **Date:** Monday, July 28, 2025  
 **Time:** 9:30 AM – 12:30 PM EST  
