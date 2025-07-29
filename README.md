@@ -343,5 +343,5 @@ Key docs (coming soon):
 [MIT License](LICENSE)
 
 ---
-
-*Last updated: 29 July 2025*
+<!-- markdownlint-disable MD036 MD049-->
+_Last updated: 29 July 2025_
