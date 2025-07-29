@@ -1,9 +1,7 @@
 # Meeting Minutes #17 – Sub-Team Roles & Workflow Coordination
 
-**Date:** Thursday, July 10, 2025
-
-**Time:** 9:30 AM – 10:30 AM EST
-
+**Date:** Thursday, July 10, 2025  
+**Time:** 9:30 AM – 10:30 AM EST  
 **Link:** [Google Meet](https://meet.google.com/thw-hymo-eah)
 
 ## Attendees

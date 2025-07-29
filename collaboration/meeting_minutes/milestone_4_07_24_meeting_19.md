@@ -1,22 +1,22 @@
 # Meeting Minutes #19 - Milestone 4 Kickoff
 
-**Date:** Thursday, July 24, 2025
-**Time:** 11:00 AM - 12:30 PM EST
+**Date:** Thursday, July 24, 2025  
+**Time:** 11:00 AM - 12:30 PM EST  
 **Link:** [Google Meet](https://meet.google.com/adg-xgci-dsa)
 
 ---
 
 ## Attendees
 
-- Omnia Mustafa Abdulgadir
-- Robel Mengistab
-- Jola-Moez
-- Karim Makik
-- Omer Defoalla
+- Jola-Moses  
+- Karim Makie  
+- Omer Dafaalla  
+- Omnia Mustafa Abdulgadir  
+- Robel Mengsteab  
 
 ### Apologies
 
-- Mugedda Tahir (will send feedback after watching the meeting recording)
+- Muqadsa Tahir (will send feedback after watching the meeting recording)
 
 ---
 
@@ -83,12 +83,9 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 ### Omnia
 
-- Prepare presentation draft and share with team
-
-📅 Friday, July 25, 4:00 AM EST
-
-- Collect team feedback and finalize for MIT team
-
+- Prepare presentation draft and share with team  
+📅 Friday, July 25, 4:00 AM EST  
+- Collect team feedback and finalize for MIT team  
 📅 Feedback due by 8:00 AM EST
 
 ### Robel
@@ -97,32 +94,27 @@ Planning for Milestone 4 tasks and structure was postponed to:
 
 ### Ongoing
 
-- Reevaluate NLP findings (with Karim)
-
+- Reevaluate NLP findings (with Karim)  
 📅 Monday, July 28 (Morning)
 
 ### Karim
 
-- Reevaluate NLP findings (with Robel)
-
+- Reevaluate NLP findings (with Robel)  
 📅 Monday, July 28 (Morning)
 
 ### Jola
 
-- Reevaluate manual coding (with Omer)
-
+- Reevaluate manual coding (with Omer)  
 📅 Monday, July 28 (Morning)
 
 ### Omer
 
-- Reevaluate manual coding (with Jola)
-
+- Reevaluate manual coding (with Jola)  
 📅 Monday, July 28 (Morning)
 
 ### Muqadsa
 
-- Clean up the repository and ensure documentation
-
+- Clean up the repository and ensure documentation  
 📅 Will review recording before
 
 ---

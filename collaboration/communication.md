@@ -27,7 +27,7 @@ Understanding when each team member is available helps us schedule meetings and
 | **Robel**   | ✅     | ✅      | ✅        | ✅       | ✅     | ✅       | ✅     | 6–8 hours     |                       |
 | **Omer**    | ❌     | ✅      | ✅        | ✅       | ✅     | ✅       | ❌     | 3–5 hours     |                       |
 | **Omnia**   | ✅     | ✅      | ✅        | ✅       | ✅     | ✅       | ✅     | 3–4 hours     |                       |
-| **Muqadsa** | ✅     | ❌      | ✅        | ✅       | ❌     | ✅       | ✅     | 3–4 hours     | 14 hrs ahead – Sydney |
+| **Muqadsa** | ✅     | ❌      | ✅        | ✅       | ❌     | ✅       | ✅     | 3–4 hours     |  |
 <!-- markdownlint-enable MD013 -->
 
 ---

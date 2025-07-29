@@ -1,11 +1,8 @@
 # Meeting Minutes #9 – Research Question
 
-**Date:** Saturday, June 14, 2025
-
-**Time:** 9:00 AM – 1:00 PM EST
-
-**Duration:** 4 hours
-
+**Date:** Saturday, June 14, 2025  
+**Time:** 9:00 AM – 1:00 PM EST  
+**Duration:** 4 hours  
 **Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
 
 **Google Meet:** [Join the meeting here](https://meet.google.com/egf-szax-mei)
