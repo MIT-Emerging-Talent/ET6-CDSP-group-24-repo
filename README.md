@@ -39,7 +39,7 @@ You’ll find:
 
 ## Our Research Question
 
-**How do digital technologies exclude self-employed individuals with disabilities in Sub-Saharan Africa (SSA)?**
+**How do digital technologies exclude self-employed people with disabilities in Sub-Saharan Africa (SSA)?**
 
 We're asking this to understand not just the tech, but the human experience behind the interface: What works, what doesn't, and why?  This focused approach was carefully shaped by our project's defined research scope, the nature of available qualitative data, and the practical operational constraints detailed in our [Constraints](collaboration/constraints.md) document.
 
