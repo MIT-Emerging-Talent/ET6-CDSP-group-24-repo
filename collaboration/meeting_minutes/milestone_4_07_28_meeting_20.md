@@ -32,7 +32,7 @@ The purpose of this meeting was to:
 
 Each team member shared updates on their assigned tasks:
 
-- **Jola, Rob, Karim**: Revalidated outputs and discussed key findings  
+- **Jola, Robel, Karim**: Revalidated outputs and discussed key findings  
 - **Muqadsa**: Shared progress on repository cleanup
 - **Omnia**: Continued work on the presentation slides  
 
@@ -44,7 +44,7 @@ on **Wednesday** to help finalize the presenter.
 ### Action Points
 
 - Jola to prepare one consolidated set of findings will be produced, combining
-  triangulated insights (from Rob’s document) and divergence
+  triangulated insights (from Robel’s document) and divergence
   (from the manual coding analysis)
 - Karim and Jola will complete detailed notes for the “Results and Findings”
   slide, aligning it with the presentation guide and Evan’s feedback, enabling  
@@ -53,7 +53,7 @@ on **Wednesday** to help finalize the presenter.
   expected to make at least one suggestion in the [“Communicating Results” document](https://docs.google.com/document/d/1JSCdl9igOfjjDm2-Rjlf4L705YOR_THg5vKwLt25fK4/edit?tab=t.0)
 - Muqadsa will complete repository cleanup by Tuesday, ahead of the July 31  
   presentation  
-- Rob and Jola will prepare for a mock presentation on Wednesday, during which
+- Robel and Jola will prepare for a mock presentation on Wednesday, during which
   the final presenter will be selected  
 
 ---
@@ -62,7 +62,7 @@ on **Wednesday** to help finalize the presenter.
 
 - **Karim & Jola**: Finalize notes for the “Results and Findings” slide  
 - **Omnia**: Complete the slide deck once notes are in  
-- **All Members**: Add at least one suggestion to the [“Communicating Results” doc]((https://docs.google.com/document/d/1JSCdl9igOfjjDm2-Rjlf4L705YOR_THg5vKwLt25fK4/edit?tab=t.0))
+- **All Members**: Add at least one suggestion to the ["Communicating Results" doc](https://docs.google.com/document/d/1JSCdl9igOfjjDm2-Rjlf4L705YOR_THg5vKwLt25fK4/edit?tab=t.0)
 - **Muqadsa**: Finalize repo cleanup by Tuesday  
-- **Jola & Rob**: Lead preparation for Wednesday’s mock presentation  
+- **Jola & Robel**: Lead preparation for Wednesday’s mock presentation  
 - ⏳ **Team**: Decide on final presenter during mock session  
