@@ -1,4 +1,3 @@
-<!--markdownlint-disable MD013 -->
 # Meeting Minutes #20 – Progress & Milestone Planing
 
 **Date:** Monday, July 28, 2025  
@@ -37,17 +36,25 @@ Each team member shared updates on their assigned tasks:
 - **Muqadsa**: Shared progress on repository cleanup
 - **Omnia**: Continued work on the presentation slides  
 
-The team discussed the potential value of a **mock presentation**, proposing a session on **Wednesday** to help finalize the presenter.
+The team discussed the potential value of a **mock presentation**, proposing a session
+on **Wednesday** to help finalize the presenter.
 
 ---
 
 ### Action Points
 
-- Jola to prepare one consolidated set of findings will be produced, combining triangulated insights (from Rob’s document) and divergence (from the manual coding analysis)  
-- Karim and Jola will complete detailed notes for the “Results and Findings” slide, aligning it with the presentation guide and Evan’s feedback, enabling Omnia to finalize the slide today  
-- Karim will present during Tuesday’s Milestone 4 check-in; all team members are expected to make at least one suggestion in the [“Communicating Results” document](https://docs.google.com/document/d/1JSCdl9igOfjjDm2-Rjlf4L705YOR_THg5vKwLt25fK4/edit?tab=t.0)
-- Muqadsa will complete repository cleanup by Tuesday, ahead of the July 31 presentation  
-- Rob and Jola will prepare for a mock presentation on Wednesday, during which the final presenter will be selected  
+- Jola to prepare one consolidated set of findings will be produced, combining
+  triangulated insights (from Rob’s document) and divergence
+  (from the manual coding analysis)
+- Karim and Jola will complete detailed notes for the “Results and Findings”
+  slide, aligning it with the presentation guide and Evan’s feedback, enabling  
+  Omnia to finalize the slide today
+- Karim will present during Tuesday’s Milestone 4 check-in; all team members are
+  expected to make at least one suggestion in the [“Communicating Results” document](https://docs.google.com/document/d/1JSCdl9igOfjjDm2-Rjlf4L705YOR_THg5vKwLt25fK4/edit?tab=t.0)
+- Muqadsa will complete repository cleanup by Tuesday, ahead of the July 31  
+  presentation  
+- Rob and Jola will prepare for a mock presentation on Wednesday, during which
+  the final presenter will be selected  
 
 ---
 
