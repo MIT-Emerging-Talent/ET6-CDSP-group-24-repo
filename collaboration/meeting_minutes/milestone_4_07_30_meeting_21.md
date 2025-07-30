@@ -6,7 +6,7 @@
 
 **Platform:** Google Meet
 
-**Attendees:** Jola, Karim, Omnia, Omer, Muqadsa, Robel
+**Attendees:** Jola, Karim, Omnia, Robel
 
 ## 1. Check-ins (10 minutes)
 
