@@ -1,14 +1,13 @@
 # Milestone Retrospective: Data Analysis
 
-This milestone was all about **diving deep into data** and making sense of the
-raw material for our project. From meticulously identifying diverse sources to
-wrestling with qualitative nuances, this phase tested our adaptability and
-critical thinking. It established a vital foundation that deepened our
-collective understanding of the research landscape.
+This milestone focused on making meaning from complexity. From interpreting
+patterns in narrative-rich data to scaling insights through NLP, it challenged
+us to think critically and collaboratively. It also deepened our shared
+understanding of how exclusion shows up across digital systems.
 
-The intricacies of our collective activities are captured within the individual
-team reflections, illustrating how we addressed challenges and advanced our
-learning.These were based on the shared prompt and offer insight into their unique
+Individual reflections capture how each team member navigated uncertainty,
+built new skills, and contributed to our process. These were based on the shared
+prompt and offer insight into their unique
 experiences.  
 👉 _[Read Individual Reflections – Milestone 3](./3_data_analysis_individual_reflections.md)_
 
@@ -20,13 +19,16 @@ experiences.
   coding with automated (NLP) analysis proved highly successful. This strategy
   provided us with both granular, in-depth detail and a broader understanding of
   the data, significantly enriching our insights.
+
 - **Strong Internal Sub-team Collaboration & Calibration**: Within our manual
   coding sub-team, we established a great rhythm, efficiently navigating
   ambiguities and ensuring consistent interpretation through effective
   calibration sessions. Similarly, the NLP sub-team successfully applied
   various techniques to extract meaning from the data.
+  
 - **Effective Tool Utilization**: Shared documents and GitHub issues helped
   coordinate asynchronous work.
+
 - **Deepened Research Methods Understanding**: Team members gained valuable
   practical experience and confidence in applying qualitative analytical
   methodologies, including manual thematic coding, and various NLP techniques

@@ -1,3 +1,11 @@
 ignore:
   - venv
   - .github
+
+MD033: # Rule for 'Inline HTML'
+  allowed_elements: # List the HTML elements that are allowed
+    - div
+    - img
+    - p
+    - figure
+    - figcaption

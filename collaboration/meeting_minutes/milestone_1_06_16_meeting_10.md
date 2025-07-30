@@ -1,13 +1,11 @@
-# Meeting Minutes #10
-
-## Milestone 1 Deliverables
+# 📋 Meeting Minutes #10 - Milestone 1 Deliverables
 
 ## Domain Study & README Planning
 
-## Meeting Recap – June 16, 2025
+### **Meeting Recap – June 16, 2025**
 
-**Time:** 9:00 AM – 10:30 AM EST
-**Platform:** [Google Meet](https://meet.google.com/thw-hymo-eah)
+**Time:** 9:00 AM – 10:30 AM EST  
+**Platform:** [Google Meet](https://meet.google.com/thw-hymo-eah)  
 **Syllabus:** [View Syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0)
 
 ---

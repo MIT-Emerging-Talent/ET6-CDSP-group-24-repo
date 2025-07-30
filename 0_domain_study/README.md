@@ -18,23 +18,36 @@ Each team member conducted an independent literature review
 Synthesis revealed shared interest in how tech shapes access and opportunity for
 marginalized entrepreneurs, especially those with disabilities.
 
-Conceptual Flow:
+<div align="center">
 
-Tech Ecosystems
-↓
+**🔄 Conceptual Flow**  
+*How digital systems shape economic outcomes for marginalized entrepreneurs*  
 
-Accessibility & Representation
-↓
+Tech Ecosystems  
+↓  
+Accessibility & Representation  
+↓  
+Economic Participation  
+↓  
+Livelihood Outcomes
 
-Economic Participation
-↓
+</div>
 
-Entrepreneurial Success
+## Our Research Question
 
-## Our research question
+How do digital technologies exclude self-employed people with
+disabilities in Sub-Saharan Africa (SSA)?
 
-How does digital technology—especially mobile tools and AI—support
-or exclude entrepreneurs with disabilities in underserved regions?
+### Defining Our Scope
+
+For this project, “self-employed people” refers broadly to those who
+generate income independently—freelancers, gig workers, small traders, and
+owners of small businesses, both formal and informal.
+
+We recognize that many such individuals also identify as entrepreneurs building
+growth-oriented ventures. Both terms appear in our materials, but
+“self-employed people” serves as our core focus throughout the project when
+analyzing digital inclusion and exclusion in Sub-Saharan Africa (SSA).
 
 ## Purpose
 
@@ -51,24 +64,36 @@ The domain study aims to:
 
 ### 📁 Research Notes
 
-**Location:** `./0_domain_study/research_notes/`
+**Location:** `./research_notes/`
 
 Central hub for our research process documentation and findings.
 
 ### 📁 Literature Reviews
 
-**Location:** `./0_domain_study/research_notes/literature_review/`
+**Location:** `./research_notes/literature_review/`
 
 Collection of systematic literature reviews covering different aspects of our domain.
 
-- Individual literature review files organized by topic/theme
+- Individual literature review files, contributed by each team member
+  (e.g., `jola.md`).
 - Each review follows a consistent format for easy comparison
 - Includes academic papers, industry reports, and technical documentation
 - Cross-referenced with research questions and background review
 
+### 📄 Problem Statement
+
+**Location:** `./problem_statement.md`
+
+Definitive problem framing for the project, including the final research
+question and its rationale.
+
+- Root cause analysis of digital exclusion barriers
+- Justification for the project's focus and significance
+- Informed by personal experiences and early case studies
+
 ### 📄 Initial Research Questions
 
-**Location:** `./0_domain_study/research_notes/initial_research_questions.md`
+**Location:** `./research_notes/initial_research_questions.md`
 
 Foundational research questions that guide our investigation.
 
@@ -78,7 +103,7 @@ Foundational research questions that guide our investigation.
 
 ### 📄 Background Review
 
-**Location:** `./0_domain_study/background_review.md`
+**Location:** `./background_review.md`
 
 Comprehensive background analysis of the domain.
 
@@ -95,14 +120,24 @@ barriers, and cultural challenges
 disability-led innovation movements
 - **Success Stories:** Real-world examples of disabled entrepreneurs leveraging
 digital tools
+- **The Iceberg Model of Digital Exclusion:** A systems-level view of
+underlying structural barriers.
 
 ## How to Navigate This Study
 
-1. **Start Here:** Begin with this README for structure overview
-2. **Foundation:** Read `initial_research_questions.md` to understand our inquiry
-focus
-3. **Context:** Explore `background_review.md` for comprehensive domain context
-4. **Deep Dive:** Browse `./research_notes/literature_review/` for specific
-topics analysis
+1. **Start Here:** This README gives an overview of the structure and purpose.
+2. **Foundation:** Read our [Problem Statement](./problem_statement.md) to
+   understand the project's core problem and research question.
+3. **Context:** Explore our [Background Review](./background_review.md) for
+   comprehensive domain context, including the Iceberg Model.
+4. **Inquiry Evolution:** Review our
+   [Initial Research Questions](./research_notes/initial_research_questions.md)
+   to see how our inquiry evolved.
+5. **Deep Dive:** Browse our
+   [Literature Reviews folder](./research_notes/literature_review/) for
+   specific topics analysis.
 
----
+For any updates or notes during the domain research process, refer to our
+`research_notes` folder.
+
+[← Back to Project Overview](../README.md)

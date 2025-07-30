@@ -1,9 +1,7 @@
 # Meeting Minutes #13 - Datasets Synch & Deliverable Planning
 
 *Date*: June 26, 2025  
-
-*Time*: 9:30 AM - 11:30 AM EST
-
+*Time*: 9:30 AM - 11:30 AM EST  
 *Location*: Google Meet
 
 *Attendees*: Robel, Karim, Muqadsa, Omnia, Jola, Omer  

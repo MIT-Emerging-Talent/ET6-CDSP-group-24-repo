@@ -5,470 +5,349 @@
 <!-- markdownlint-enable MD033 MD013 MD041-->
 
 <!-- markdownlint-disable MD013-->
+<div align="center">
 
-# Welcome to Crystal Pearl Rising
-
-Like crystals formed under pressure and pearls as hidden treasures revealed
-through care, we see people with disabilities as an undiscovered wealth of
-strength, wisdom, and beauty. At Crystal Pearl Rising, we’re committed to
-transforming technology to be inclusive and empowering—combining clarity,
-resilience, and innovation to ensure no one is left behind.
-
-## 🎯 Project Overview
-
-This repository documents our journey through a comprehensive data science
-project, from initial problem identification to final presentation. Our work
-emphasizes collaborative problem-solving, rigorous analysis, and effective
-communication of findings to drive actionable insights.
-
-## Research Conclusions
-
-**Digital exclusion for entrepreneurs with disabilities in Sub-Saharan Africa** is driven by intersecting structural, technological, and systemic barriers such as affordability, inaccessible design, and weak policy enforcement.  
-Yet local innovation and peer networks show powerful resilience that deserves support—not substitution for reform
-
-## 📋 Project Milestones
-
-### Milestone 0: Cross-Cultural Collaboration
-
-**Status**: Complete ✅
-
-- Established team communication frameworks
-- Set up collaborative workflows and tools
-- Set up communication channels for team coordination
-- Agreed upon and established project constraints
-- Defined group norms and working agreements
-- Established individual and team learning goals
-
-### Milestone 1: Problem Identification
-
-Status: Complete ✅
-
-### Problem Statement
-
-Despite the growing importance of digital technology in driving economic
-inclusion, persistent barriers continue to prevent the 1 in 6 people living
-with significant disabilities from fully leveraging these tools to pursue
-self-employment, achieve self-reliance, and participate meaningfully in the
-economy. While self-employment provides a crucial route for persons with
-disabilities (PWDs) to bypass traditional labor market barriers and create
-income-generating opportunities, the current digital technology ecosystem often
- adopts a reactive stance on accessibility — resulting in systemic exclusion
- rather than proactive inclusion.
-
-This is more than a design flaw — it’s a missed market. Millions of potential
-self-employed individuals with disabilities are being left out.
-
-This project explores how digital and AI technologies impact the ability of
-self-employed people with disabilities in Sub-Saharan Africa to access and
-benefit from the digital economy.
-
-Our aim is not only to identify barriers but also to inform more inclusive
-design, highlight untapped opportunities, and support innovation that truly
-reflects the needs and potential of people with disabilities pursuing self-employment.
-
- ⁠🔍 *See our [Background Review](0_domain_study/background_review.md) for
-detailed insights*
-
-#### From Struggle to System: The Iceberg of Self Employed People with Disabilities
-
-Iceberg model showing the systemic challenges people with disabilities face when
-launching online businesses, from visible struggles to underlying structural and
-cultural barriers.
-
-![Iceberg Model](https://github.com/user-attachments/assets/921a07d6-2d27-4cec-9c6a-25ba66b15529)
-
-### Actionable Research Question
-
-**How do digital and AI technologies exclude disabled self-employers  
-in Sub-Saharan Africa?**
+# Offline by Design  
+<!-- markdownlint-disable MD001-->
+### *How digital systems exclude by default*
+<!-- markdownlint-enable MD001-->
+</div>
 
 ---
 
-#### Overview
+### Crystal Pearl – Project Team  
 
-This research explores whether the ongoing wave of digital innovation—spanning
-AI, mobile platforms, and fintech—is truly inclusive of self employed people with
-disabilities, particularly in SSA(Sub-Saharan Africa).
+*Disability. Design. Digital Inclusion.*
 
-While these technologies are often celebrated for democratizing access
-and opportunity, many remain inaccessible by design, unintentionally
-excluding a vast segment of Self employed people with disabilities.
+Like crystals formed under pressure and pearls revealed through care, people with disabilities hold strength, creativity, and resilience that's too often overlooked. This project investigates how digital technologies are shaping economic opportunities—and exclusions—for self-employed people with disabilities in Sub-Saharan (SSA).
 
 ---
 
-#### Purpose
+## What This Repository Covers
 
-By examining the lived experiences of Self employed people with disabilities in
-SSA, this study aims to uncover:
+This repo documents our full project journey, milestone by milestone. From defining a problem close to home, to collecting real-world data, to analyzing where digital tools help or hinder, we trace the full arc of a data science research project.
 
-- Where digital inclusion efforts are working?
-- Where they fall short?
-- What usability, access, and systemic barriers persist?
+You’ll find:
 
----
-
-#### Strategic Value for Big Tech
-
-This research offers Big Tech companies a chance to:
-
-- ⁠*Redesign digital tools* to better support self-employed people with
-  disabilities through inclusive AI and mobile-first solutions  
-- ⁠*Unlock underserved markets* by reaching a resilient and resourceful user
- group often excluded by default design  
-- ⁠*Enhance model relevance* by incorporating more diverse, real-world data
-  that reflects the experiences of disabled users  
-- ⁠*Strengthen ESG impact* by advancing inclusive innovation and contributing
-  to global digital equity goals  
+* Our research question and background
+* A structured dataset built from qualitative sources
+* Analysis using both manual coding and NLP tools
+* Insights into how exclusion happens—and what can be done
+* Communication and collaboration materials
 
 ---
 
-#### Why It Matters
+## Our Research Question
 
-This isn’t just about accessibility—it’s about shaping the **next generation of
-intelligent, ethical, and scalable platforms** across the world’s
-fastest-growing digital economies. Inclusion becomes not just a social good, but
-a business imperative.
+**How do digital technologies exclude self-employed people with disabilities in Sub-Saharan Africa (SSA)?**
 
----
+We're asking this to understand not just the tech, but the human experience behind the interface: What works, what doesn't, and why?  This focused approach was carefully shaped by our project's defined research scope, the nature of available qualitative data, and the practical operational constraints detailed in our [Constraints](collaboration/constraints.md) document.
 
-> 📈 *Inclusive design is smart design—unlocking new markets, improving AI
-fairness, and building platforms that scale ethically.*
+>*See our definition of self-employment within the [domain study](0_domain_study/README.md#defining-our-scope).*
 
 ---
 
-### Milestone 2: Data Collection
+## Research Conclusion
 
-Status: Complete ✅
+The digital divide is the central driver of exclusion for self-employed people with disabilities in Sub-Saharan Africa. This divide is not just about connectivity gaps—it’s the result of overlapping structural, technological, and systemic barriers: unaffordable services, inaccessible design, weak policy enforcement, and pervasive stigma.
 
-## Building Insights from Stories: Our Data Approach
+Our hybrid analysis shows that exclusion is not just about lack of access—it’s about how systems are built, who they are built for, and who gets left out. Resilience through local innovation and peer networks is real, but these efforts often arise from necessity—not choice—and should not substitute for systemic change.
 
-Understanding how technology can inadvertently leave people behind.
-
----
-
-### The Challenge: Beyond Simple Numbers
-
-Answering our question required more than a few structured spreadsheets. No tidy
- file captures how voice recognition might fail a blind entrepreneur in rural
- Kenya; *exclusion is too nuanced. Furthermore, this specific intersection
-  —disability, digital tech, and entrepreneurship in Sub-Saharan Africa — is
-  largely underexplored. As a result, comprehensive structured datasets are
-  scarce. Given this scarcity and the nuanced nature of exclusion, traditional
- quantitative approaches were insufficient to capture the depth required. Thus,
- we chose to model our problem using qualitative text data*.
+We also found that disability-led innovation is both feasible and underutilized. There is a powerful opportunity here: to shift from workarounds to co-designed, inclusive systems that prioritize accessibility from the start.
 
 ---
 
-### Our Approach: Turning Rich Text into Structured Insights
+## Milestones Overview
+<!-- markdownlint-disable MD033 MD013-->
+<details>
+<summary><strong>Milestone 0: Cross-Cultural Collaboration – <em>Complete</em></strong></summary>
 
-We collect real-world stories from diverse sources: *NGO reports, news
-articles, policy documents, blog posts, and corporate announcements*. These texts
- offer rich human insights into approaches, strategies, and disabled
- entrepreneurs' voices. Our task: transform these unstructured narratives into
-  an organized dataset, much like weaving individual threads into a
-  cohesive tapestry.
+We kicked off the project by aligning how we work as a team:
 
-![Modelflowrepresentation](https://github.com/user-attachments/assets/a62fcd5c-7543-4f23-a1de-6e680e89e9c8)
+* Defined group norms and communication plans
+* Set clear constraints and goals
+* Built our project board and repo structure
 
----
+Key docs:
 
-### How We Structured Our Data
-
-To analyze these stories, we designed custom "data tables" around key research
-themes. Each entry in our dataset, a "case," captures a micro-story illustrating
- a **point of exclusion, a barrier encountered, or an innovation's failure to be
-  inclusive**.
-
-Here’s a glimpse of the information we meticulously captured:
-<!-- markdownlint-disable MD013 -->
-
-| Theme                     | What We Captured                                                                                                                                                                                                                                                                          |
-| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inclusive Tech Tools | Platforms (e.g., M-Pesa, WhatsApp), accessibility features (or crucial lack thereof), and how AI's design can lead to exclusion.                                                                                                                                                                |
-| Tech Ecosystem & Feedback | Actors (e.g., MTN, CBM), their inclusion efforts (or failures in design, hiring, funding, policy), and how insufficient PwD feedback mechanisms or ignored feedback leads to exclusion.                                                                                               |
-| Digital Infrastructure | Gaps in internet/mobile coverage, unreliable power access, and other persistent infrastructure barriers that create exclusion.                                                                                                                                                          |
-| Entrepreneurship Case Studies | Stories of disabled entrepreneurs facing digital barriers, challenges in accessing tools, or instances where digital systems hinder their livelihoods.                                                                                                                            |
-| Barriers to Access | Specific UX problems, affordability issues, societal stigma manifesting digitally, or policy gaps limiting inclusion and fostering exclusion.                                                                                                                                            |
-<!-- markdownlint-enable MD013 -->
-For instance, a single row might detail how even initiatives like *MTN piloting
- voice banking in Nigeria* could inadvertently *exclude users without specific
- device compatibility;
- how CBM's mentoring programs might face barriers in
- scaling digital access; or how**Safaricom's M-Pesa redesign, despite good
- intentions*, still leaves gaps for certain assistive technology users.
+* [Group Norms](collaboration/README.md)
+* [Constraints](collaboration/constraints.md)
+* [Learning Goals](collaboration/learning_goals.md)
+* [Retrospective](collaboration/retrospectives/0_cross_cultural_collaboration.md)
 
 ---
 
-### Why This Approach Works
+</details>
 
-We chose this method because key exclusion patterns are often *non-numerical.
- Insights lie in detailed accounts, lived experiences, and specific
- shortcomings in innovations. This qualitative-first approach allows us to
- follow the real signals of change and challenges that quantitative data alone
- might miss.
+<details>
+<summary><strong>Milestone 1: Problem Identification – <em>Complete</em></strong></summary>
 
----
+In this milestone, we explored our problem domain through systems thinking and human-centered framing. We clarified what digital exclusion really means for self-employed people with disabilities in Sub-Saharan Africa.
 
-### Understanding Our Data: What It Reveals and Its Limitations
+Our research question:
 
-Our modeling provides rich, real-world examples of *how exclusion manifests and
-where digital technologies fall short. It primarily identifies **shortcomings,
- barriers, and patterns of exclusion. It reveals
-gaps in feedback loops** and highlights stories of exclusion and the **challenges
-faced**. It offers a structured lens to compare actors and spot patterns in
-accessibility, AI, infrastructure, and policy that lead to exclusion.
+> **How do digital technologies exclude self-employed people with disabilities in Sub-Saharan Africa (SSA)?**
 
-However, like any robust research method, it comes with limitations, often due
-to the novel nature of our research area and practical constraints:
-
-- Visibility Bias: Relies on publicly available reports; might underrepresent
-  grassroots efforts or less documented instances of exclusion.
-- ⁠Qualitative Ambiguity: Interpreting narratives can be subjective;
-  pinpointing exact causes or comparative "levels" of exclusion is challenging.
-- ⁠Lack of Direct User Data: Most insights are secondhand from reports, not
-  direct PwD (People with Disabilities) interviews, potentially missing
-granular experiences of exclusion.
-- ⁠No Statistical Generalizability: Captures specific cases and patterns, not
-  broad statistical representation across Sub-Saharan Africa.
-- ⁠Inconsistent Depth: Detail levels vary across sources.
-- ⁠Manual Structuring in Underexplored Domains: Given the largely
-  unresearched nature of this specific intersection, the process of manually
-  structuring this qualitative data was extensive and resource-intensive.
-- ⁠Time and Financial Constraints: Limited time and funding prevented us from
-   conducting more structured data collection methods, such as original surveys
-   or in-depth interviews. This practical limitation shaped the scope of our methodology.
-
----
-<!-- markdownlint-disable MD013-->
-### The Value: A Navigational Map
-
-Our dataset helps pinpoint **where digital and AI technologies create barriers and crucial gaps for self employed people with disabilities in SSA**. This framework lays the groundwork for future research, policy development, and *interventions aimed at mitigating exclusion and fostering truly inclusive tech innovation, truly
-embodying the*‘Rising’ spirit of our team’s objectives.
+This question emerged from a careful review of structural, design, and systemic barriers, and is grounded in both lived experience and policy blind spots.
+<!-- markdownlint-disable MD059-->
+* Dive into the [full problem framing and rationale](0_domain_study/problem_statement.md)
+* See why this research matters, beyond just accessibility [here](0_domain_study/problem_statement.md#why-this-research-matters)
+* Explore our [background domain review](0_domain_study/background_review.md)
+* Track how our [initial research questions evolved](0_domain_study/research_notes/initial_research_questions.md)
+* Understand the [Iceberg Model of Digital Exclusion](0_domain_study/background_review.md#63-iceberg-model-of-digital-exclusion)
+  that complements our research question by revealing how much exclusion is structural,
+  not just technical.
+* Milestone 1 → ✓ [Retrospective](collaboration/retrospectives/1_problem_identification.md)
 
 ---
 
-### Want to See It?
+</details>
 
-Explore our datasets here → [🔗 View the Datasets](1_datasets)
-Each row represents a specific story of exclusion, a barrier, or an innovation's
- failure in action.
+</details>
 
----
+<details>
+<summary><strong>Milestone 2: Data Collection – <em>Complete</em></strong></summary>
 
-### Milestone 3: Data Analysis  
+### Our Qualitative-First Approach to Understanding Digital Exclusion
 
-Status: Complete ✅
+To truly understand the **digital exclusion of self-employed people with disabilities in Sub-Saharan Africa**, we adopted a **qualitative-first approach**. Existing quantitative data in this space is limited—and often fails to capture the nuanced, lived realities of exclusion.
 
-## Hybrid Analysis Summary
+To address this, we centered our methodology on a qualitative data model, moving beyond simple numbers. We meticulously collected *38 narrative-rich documents*—ranging from NGO reports to policy briefs to media stories—and structured them into a custom dataset for both manual and automated analysis.
 
-Our research combined manual qualitative analysis and machine-assisted natural language processing (NLP) to explore barriers to digital inclusion for persons with disabilities (PWDs), with an emphasis on understanding how these barriers may impact economic participation.
+> 📌 This approach helped us uncover patterns of exclusion that are contextual, subtle, and often missing from traditional datasets.
 
-### Manual Analysis
+**Our process involved:**
 
-We conducted a structured manual review of 7 documents using a collaboratively developed codebook centered around themes such as access, design, policy, and systemic exclusion.
+* Developing a **structured dataset** from real-world narratives  across five core themes
+* Implementing robust **cleaning and extraction scripts** to transform raw PDFs into a unified, analyzable format.
+* **Cleaning, labeling, and documenting all sources**, explaining **flaws, gaps, and decisions** transparently in our metadata.
 
-Due to limited direct data on PWD entrepreneurs, we relied heavily on **proxy data**—examining recurring patterns of exclusion, accessibility gaps, and institutional neglect. This allowed us to infer likely challenges to PWD participation in digital economies, including entrepreneurship. Our thematic coding approach enabled detailed qualitative insights from a relatively small sample.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a62fcd5c-7543-4f23-a1de-6e680e89e9c8" alt="Qualitative Modeling Flowchart" width="600"/>
+  <br><em>Visualizing our qualitative data modeling pipeline</em>
+</div>
 
-### NLP-Assisted Analysis
+Key docs:
 
-We applied a suite of natural language processing techniques to complement and scale our manual review:
-
-- **Keyword-in-Context (KWIC)** to analyze how key terms were used in surrounding context
-- **BERTopic** to generate embeddings and cluster documents into latent themes using unsupervised learning
-
-This machine-assisted layer aimed at validating and extending our manual findings, especially by revealing patterns not immediately visible through close reading.
-
-Together, the hybrid method provided a more robust understanding of exclusion in the digital ecosystem and its implications for economic inclusion.
-
----
-
-## Thematic Insights – Findings
-
-For a full view of our thematic insights, see [`manual_analysis_insights.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/blob/main/4_data_analysis/manual_analysis_insights.md)
-
-### 1. Access to digital technology is constrained by overlapping structural barriers
-
-Affordability, device access, and poor connectivity emerged as the most prevalent access issues, particularly in rural or underserved areas. Many PWDs are economically excluded from purchasing smartphones or data plans, while telecom providers often fail to stock accessible devices.
-
-### 2. Skills gaps magnify access gaps
-
-Lack of digital literacy and minimal training opportunities, both for users and telecom staff, were widespread. These gaps limit PWDs' ability to meaningfully engage with available tools or services, creating an *"access illusion."*
-
-### 3. Inclusive design is the exception, not the norm
-
-Poor interface design and non-inclusive tools often made existing technology unusable. However, a few inclusive tech efforts, like screen readers or voice control, showed how design can be a gateway to inclusion if prioritized.
-
-### 4. Policies exist, but enforcement is weak
-
-While many countries have regulations supporting digital inclusion, most were inconsistently applied or unknown to staff. The private sector plays a critical role—some firms like Safaricom and Vodacom have inclusion strategies, while others lag behind.
-
-### 5. Social and systemic exclusion reinforce digital barriers
-
-Stigma, representation gaps, and data invisibility emerged as deeper forces behind exclusion. Without disaggregated data and participatory design, many PWDs remain unseen, and thus underserved.
-
-### 6. PWDs build workarounds, but these shouldn’t replace systemic change
-
-Peer networks and local solutions show strong community resilience, but they often arise from necessity rather than choice. Their existence points to system failure, not success.
-
-## NLP Key patterns
-
-For a full view of our thematic insights, see [`NLP_analysis.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis).
-
-### 1. Digital divides persist as foundational barriers requiring coordinated response
-
-Digital access and connectivity challenges dominate across all analyses, with affordability, device access, and poor connectivity particularly acute in rural areas.
-Many PWDs face economic exclusion from purchasing smartphones or data plans, while basic infrastructure gaps continue to limit meaningful participation despite existing technological capacity.
-
-### 2. Skills gaps create "access illusions" that magnify structural barriers
-
-Lack of digital literacy and minimal training opportunities for both users and service providers create situations where theoretical access fails to translate into meaningful engagement.
-These gaps limit PWDs' ability to engage with available tools, creating an "access illusion" where technology exists but remains unusable.
-
-### 3. Inclusive design remains exceptional despite demonstrated potential
-
-While assistive technologies like screen readers and voice control show transformative potential, inclusive design principles are inconsistently applied. Poor interface design often makes
-existing technology unusable, yet these accessibility solutions remain separate from mainstream technology discussions rather than integrated standards.
-
-### 4. Policy frameworks exist but enforcement mechanisms are weak
-
-National policies supporting digital inclusion are present but inconsistently applied and often unknown to frontline staff. While some private sector firms have developed inclusion strategies,
-variable commitment across the sector highlights the critical need for stronger policy enforcement mechanisms.
-
-### 5. Economic barriers demand integration with broader social protection systems
-
-Mobile internet costs and device affordability cannot be addressed through technology solutions alone. The intersection of cost-related challenges with social protection needs suggests digital
-inclusion initiatives must be embedded within comprehensive economic support systems rather than treated as standalone interventions.
-
-### 6. Organizational partnerships show promise but operate in silos
-
-Collaborative approaches and PWD-focused programs demonstrate growing recognition of disability needs, but these efforts often remain isolated from mainstream development initiatives.
-Case studies show active innovation, but their concentration in specific organizations suggests scaling and systematic adoption remain significant challenges.
-
-### 7. Social exclusion reinforces digital barriers through invisibility and stigma
-
-Stigma, representation gaps, and data invisibility perpetuate exclusion beyond technical constraints. Without disaggregated data and participatory design, many PWDs remain unseen and underserved.
-While community solutions show resilience, they often arise from system failure rather than success.
-
-### 8. Youth and financial inclusion represent untapped pathways for systemic change
-
-Digital financial services and youth entrepreneurship initiatives highlight significant opportunities, with employment and skills development emerging as critical leverage points.
-However, separation of these opportunities from disability-focused discussions indicates substantial untapped potential for cross-sector collaboration.
+* [Explore Our Datasets](1_datasets/) — Access thematic folders, source documents, and processed data.
+* [Understand Our Data Modeling Approach](1_datasets/modeling_approach.md) — Learn how and why we structured our qualitative data, including its rationale and limitations.
+* [Recreate Our Processed Dataset](1_datasets/README.md#-recreating-our-processed-dataset) — Follow steps to regenerate the cleaned and structured data from raw sources.
+* [View Our Processed Data Directly](1_datasets/processed_data/) — Access the final, cleaned CSV files for immediate review.
+* [See the Group Retrospective for Data Collection](collaboration/retrospectives/2_data_collection_group_retrospective.md) — Insights and learnings from our data collection process.
 
 ---
 
-## Confidence in Results
+</details>
 
-### Manual Analysis Confidence
+<details>
+<summary><strong>Milestone 3: Data Analysis – <em>Complete</em></strong></summary>
 
-We have **high confidence** in the core findings of our manual analysis. Multiple coders reviewed the data and consistently identified recurring patterns such as affordability barrier, policy neglect and digital literacy gaps. These themes appeared across different documents and were frequently supported by direct excerpts.
+### Mixed Methods Analysis Summary
 
-However, confidence is **moderate to lower** for subthemes with fewer mentions (e.g., physical inaccessibility, AI bias) or where coding required interpretation of ambiguous language. The small sample size (7 documents) and use of proxy data (documents not directly focused on entrepreneurs with disabilities) also limit the generalizability of the results.
+To explore digital exclusion and its economic impacts on persons with
+disabilities (PWDs), we used a **hybrid method** combining manual
+qualitative coding with automated natural language processing (NLP). This let
+us surface both **fine-grained patterns** and **emergent themes** across our dataset that might be overlooked in close reading alone.
 
-### NLP Analysis Confidence
+### Methods at a Glance
 
-The NLP findings provide **exploratory insights** rather than definitive conclusions. Topic modeling and KWIC helped us identify patterns and validate qualitative themes, but the results depend on:
+* **Manual Coding**:
 
-- The quality of pre-cleaned text inputs
-- The interpretability of clustered topics
-- Keyword selection for KWIC
+    We manually analyzed a subset of 7 documents (roughly 20% of our corpus), employing a **hybrid deductive–inductive thematic coding approach** with a collaboratively developed codebook centered on key themes: access, design, policy, and systemic exclusion. While direct data on PWD entrepreneurs was limited, **proxy indicators** (e.g., digital literacy gaps, telecom inaccessibility) allowed us to infer challenges relevant to self-employed individuals with disabilities. This rigorous process, including **intercoder calibration**, yielded rich thematic insights and co-occurrence patterns.
 
-Topic labels were manually interpreted, and as with all unsupervised models, there's a risk of overfitting or thematic overlap.
+  >*For a full technical explanation of our manual qualitative coding methodology, see our [Manual Coding Technical Description](./4_data_analysis/manual_analysis_technical_description.md).*  
+  >*Dive deeper into insights from manual analysis: [Manual Coding Insights](./4_data_analysis/manual_analysis_insights.md)*  
 
-### Overall Confidence
+* **NLP-Assisted Analysis**:
 
-We are confident that our **core conclusions are grounded in evidence** and reflect real, recurring forms of exclusion. However, we acknowledge the **limitations of small datasets, proxy populations**, and the need for future work with more representative and direct participant data.
+    To complement the manual coding and expand our reach, we applied several NLP techniques:
+
+  * [Keyword-in-Context (KWIC)](./4_data_analysis/keywords_in_context_analysis.ipynb) — to understand how key terms like "AI", "self-employed", or "exclusion" appear in narrative context
+  * [TF-IDF Keyword Analysis](./3_data_exploration/top_keywords_per_theme.ipynb) — to extract statistically important keywords by theme
+  * [BERTopic Modeling](./4_data_analysis/Topic_Modeling.ipynb) — to discover latent topic clusters and relationships using neural embeddings
+
+  >*Access all analytical scripts and Jupyter notebooks used in the data analysis phase [here](./4_data_analysis).*  
+  >*Explore NLP-driven visualizations and overview: [NLP Analysis Visuals](./4_data_analysis/README.md#-visual-outputs)*  
+  
+These approaches let us move beyond pre-coded themes and uncover hidden signals across the full dataset.
 
 ---
 
-### Limitations
+### Key Findings
+
+Here are the primary insights derived from our mixed-methods analysis:
+
+> *For a more detailed breakdown of all findings, including evidence and methodology, see our [Full Findings Document (Coming Soon!)](./4_data_analysis/full_findings.md).*
+
+1. **Access Barriers**: Affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
+
+2. **Digital Skills Gaps**: Despite tool availability, gaps in skills and training—surfaced through hybrid analysis—create the illusion of inclusion without true usability.
+
+3. **Design Fragmentation**: Manual coding showed that inclusive tools (e.g., JAWS, Be My Eyes) exist but remain isolated exceptions, not the norm in digital design.
+
+4. **Policy–Practice Gap**: Hybrid findings highlighted a disconnect between strong legal frameworks (e.g., Rwanda) and weak implementation, with NLP linking policy language to reports of poor follow-through.
+
+5. **Social & Systemic Exclusion**: Our hybrid analysis traced digital exclusion to deeper forces—stigma, invisibility, and top-down design—that marginalize PWDs in both data and decision-making.
+
+6. **Peer Networks**: Manual coding found peer-led solutions to be the most consistent and effective form of resilience, often compensating for systemic neglect.
+
+7. **Siloed Collaborations**: NLP surfaced patterns of collaboration that remain fragmented, limiting their reach and potential for systemic change.
+
+---
+
+### Confidence in Results
+
+#### Manual Analysis Confidence
+
+* **High confidence** in dominant patterns (e.g., affordability, literacy gaps),
+    as they appeared across documents and coders.
+* **Moderate confidence** in less frequent or inferred patterns due to
+    subjectivity, sample size (7 docs), and reliance on proxy data.
+
+#### NLP Confidence
+
+* **Exploratory value only.** NLP helped affirm and expand our findings. But it is limited by:
+  * Text quality and preprocessing
+  * Interpretability of unsupervised topic clusters
+  * Manual labeling of topics and keyword choices
+  * Potential for overfitting or thematic overlap.
+
+---
+
+### Known Limitations
 
 While our hybrid analysis offers both depth and breadth, several limitations should be acknowledged:
 
-1. **Small and Uneven Sample Size**  
-   Our dataset consisted of only 11 documents, with varying lengths, formats, and levels of detail. Some documents were rich in qualitative content, while others offered only surface-level insights. This may limit the generalizability of our findings.
-
-2. **Limited Direct Data on PWD Entrepreneurs**  
-   Much of our analysis relied on proxy indicators—barriers to access, inclusion, and infrastructure—which we used to infer the likely experiences of entrepreneurs with disabilities. However, the absence of focused data on this specific population introduces an interpretive layer that may not capture the full picture.
-
-3. **Manual Coding Subjectivity**  
-   Although we used a shared codebook and cross-validated coding decisions, manual analysis is inherently interpretive. Researcher bias, background, or framing could influence how codes were applied or how themes were interpreted.
-
-4. **NLP Context Limitations**  
-   While BERTopic helped scale analysis, these models treat documents as linguistic patterns, not lived experiences. As such, NLP tools may underrepresent contextual nuance, cultural specificity, or implicit meaning, especially in advocacy or policy texts.
-
-5. **Lack of Disaggregated Data**  
-   Many documents failed to disaggregate findings by gender, age, or rural-urban divides. This constrained our ability to draw intersectional insights, particularly around issues like compounded exclusion or localized barriers.
-
-6. **Time Constraints**  
-   Given the time-sensitive nature of the analysis, we prioritized high-frequency and co-occurring themes. Deeper narrative synthesis or stakeholder validation was not possible within the project timeline.
+* **Small & Uneven Dataset**: Our analysis relied on only 38 documents of varying depth and format, potentially limiting the generalizability of our findings.
+* **Reliance on Proxy Data**: Direct insights into PWD entrepreneurs' experiences were limited, requiring inferences from broader indicators of access and inclusion.
+* **Manual Coding Subjectivity**: Despite a shared codebook and cross-validation, manual analysis inherently involves interpretive subjectivity from researchers.
+* **NLP Context Limitations**: NLP models captured linguistic patterns but often underrepresented contextual nuance, cultural specificity, or implicit meaning from lived experiences.
+* **Lack of Disaggregated Data**: Absence of demographic breakdowns (e.g., gender, age, rural-urban) in documents constrained our ability to draw intersectional insights.
+* **Time Constraints**: Project timelines limited deeper narrative synthesis and external stakeholder validation of findings.
 
 ---
 
-### Ideas for Future Research
+### 🔮 Ideas for Future Research
 
-- Deep-dive studies on underrepresented groups (e.g., women with disabilities, rural micro-entrepreneurs).
-
-- Longitudinal or case-based analysis to examine how inclusion efforts evolve over time.
-
-- Exploring AI Bias and automation risks in more detail, especially in platform-based or informal digital work.
-
-- Training NLP models on this codebook to scale thematic insights across the full dataset.
+* Focused studies on underrepresented groups (e.g., women with disabilities)
+* Longitudinal or case-based studies to examine how inclusion efforts evolve over time.
+* Audits of algorithmic bias especially in platform-based or informal digital work.
+* Training NLP models using this codebook to scale future thematic analysis across the full dataset.
 
 ---
 
-## 📁 Repository Structure
+See Also:
+
+* [Group Retrospective for Data Analysis](collaboration/retrospectives/3_data_analysis_group_retrospective.md) — Insights and learnings from our data analysis process.
+  
+---
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Milestone 4: Communicating Results – <em>In Progress</em></strong></summary>
+
+We're working on a communication strategy aimed at:
+
+* Translating our insights into accessible, actionable messages
+* Choosing the right format for impact
+* Tailoring to our intended audience (e.g., policy, industry, disabled entrepreneurs)
+
+Key docs (WIP):
+
+* [Communication Plan](5_communication_strategy/4_communicating_results_group.md)
+
+---
+
+</details>
+
+<details>
+<summary><strong>Milestone 5: Final Presentation – <em>Pending</em></strong></summary>
+
+Final showcase will include:
+
+* A 1-minute project pitch
+* A 3-minute walkthrough of our process and findings
+* Slide deck or presentation artifact
+
+Key docs (coming soon):
+
+* [Final Presentation Materials](6_final_presentation/)
+
+</details>
+
+---
+
+## Repository Structure
 
 ```text
-├── README.md                           # This file
-├── 0_domain_study/                    # Initial domain research and exploration
-├── 1_datasets/                        # Data storage and management
-├── 2_data_preparation/                # Data cleaning and preprocessing
-├── 3_data_exploration/                # Exploratory data analysis
-├── 4_data_analysis/                   # Advanced analysis and modeling
-├── 5_communication_strategy/          # Communication strategy for research findings
-├── 6_final_presentation/              # Final deliverables and presentations
-├── collaboration/                     # Team collaboration documents
-├── notes/                             # Team notes on project process and learnings
-└── requirements.txt                   # Project dependencies
+├── README.md                    # This file
+├── 0_domain_study/              # Domain research
+│   ├── problem_statement.md     # Problem framing + final research question + rationale
+│   ├── background_review.md     # Domain scan: inclusion gaps, tech actors, iceberg model
+│   ├── guide.md                 # Navigation aid
+│   └── research_notes/          # Early-stage thinking and team contributions
+├── 1_datasets/                  # Data collection
+│   ├── barriers_to_access/      # Raw documents related to access barriers
+│   ├── case_studies/            # Raw documents containing case studies
+│   ├── digital_infrastructure/  # Raw documents related to digital infrastructure
+│   ├── inclusive_digital_technology/ # Raw documents on inclusive digital technology
+│   ├── processed_data/          # Cleaned and structured data (CSV files)
+│   ├── tech_ecosystem/          # Raw documents related to the tech ecosystem
+│   ├── guide.md                 # Navigation aid for the datasets directory
+│   ├── modeling_approach.md     # Explanation of the qualitative data modeling approach
+│   └── README.md                # Overview of the data collection strategy
+├── 2_data_preparation/          # Cleaning + structuring
+│   ├── cleaning_and_formatting_datasets.ipynb # Jupyter notebook for data cleaning and formatting
+│   ├── guide.md                 # Navigation aid for data preparation files
+│   └── README.md                # Overview of the data preparation process
+├── 3_data_exploration/          # Early NLP + keyword analysis
+│   ├── guide.md                 # Navigation aid for data exploration files
+│   ├── README.md                # Overview of the data exploration strategy
+│   └── top_keywords_per_theme.ipynb # Jupyter notebook for TF-IDF keyword analysis
+├── 4_data_analysis/             # Manual & NLP analysis results
+│   ├── visuals/                 # Visualizations from NLP topic modeling & clustering
+│   ├── guide.md                 # Navigation aid for the analysis directory
+│   ├── keywords_in_context_analysis.ipynb # Jupyter notebook for KWIC analysis
+│   ├── manual_analysis_insights.md    # Summary of insights from manual coding
+│   ├── manual_analysis_technical_description.md # Detailed methodology for manual coding
+│   ├── README.md                      # Overview of the data analysis strategy
+│   └── Topic_Modeling.ipynb           # Jupyter notebook for BERTopic modeling
+├── 5_communication_strategy/   # Messaging and impact plan (in progress)
+├── 6_final_presentation/       # Final pitch and summary (pending)
+├── collaboration/              # Norms, goals, retrospectives
+├── notes/                      # Scratchpad + extra thinking
+└── requirements.txt            # Dependencies
+
 ```
-
-## 👥 Team Members
-
-| Name | GitHub |
-|------|--------|
-| Jola-Moses | [@jola-ds](https://github.com/jola-ds) |
-| Karim Makie | [@KarimMakki](https://github.com/KarimMakki) |
-| Muqadsa Tahir | [@MuqadsaT](https://github.com/MuqadsaT) |
-| Omer Dafaalla | [@omerdafaalla](https://github.com/omerdafaalla) |
-| Omnia Mustafa Abdulgadir | [@Omnia-Agabani](https://github.com/Omnia-Agabani) |
-| Robel Mengsteab | [@robi-mengs](https://github.com/robi-mengs) |
-
-### 📍 Getting Started
-
-For setup instructions and contribution guidelines, please see our
-[CONTRIBUTING.md](/CONTRIBUTING.md) file.
-
-### 🤝🏻 Collaboration Framework
-
-- 📋 [Our Group Norms](collaboration/README.md)
-- 🎯 [Learning Goals](collaboration/learning_goals.md)
-- 💬 [Communication](collaboration/communication.md)
-- 🚧 [Constraints](collaboration/constraints.md)
-- 🔍 [Retrospectives](collaboration/retrospectives)
-
-## 🏆 Success Metrics
-
-- *Technical Excellence*: Robust analysis with appropriate methods
-- *Collaboration Quality*: Effective cross-cultural teamwork
-- *Communication Impact*: Clear, actionable insights for target audience
-- *Learning Outcomes*: Demonstrated growth in data science skills
-- *Innovation Potential*: Identification of future opportunities
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
-for details.
 
 ---
 
-🗓 Last Updated: 22 July 2025
+## Team
+
+| Name                     | GitHub                                             |
+| ------------------------ | -------------------------------------------------- |
+| Jola-Moses               | [@jola-ds](https://github.com/jola-ds)             |
+| Karim Makie              | [@KarimMakki](https://github.com/KarimMakki)       |
+| Muqadsa Tahir            | [@MuqadsaT](https://github.com/MuqadsaT)           |
+| Omer Dafaalla            | [@omerdafaalla](https://github.com/omerdafaalla)   |
+| Omnia Mustafa Abdulgadir | [@Omnia-Agabani](https://github.com/Omnia-Agabani) |
+| Robel Mengsteab          | [@robi-mengs](https://github.com/robi-mengs)       |
+
+---
+
+### How to Contribute
+
+* Fork this repo and open a pull request
+* See [CONTRIBUTING.md](CONTRIBUTING.md)
+* Use issues or discussions to flag bugs, questions, or ideas
+
+## License
+
+[MIT License](LICENSE)
+
+---
+<!-- markdownlint-disable MD036 MD049-->
+_Last updated: 30 July 2025_

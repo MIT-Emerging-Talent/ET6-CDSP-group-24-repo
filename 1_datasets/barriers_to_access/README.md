@@ -252,3 +252,6 @@ follow-up on policy impact.
 [Link to Dataset](https://link.springer.com/article/10.1007/s44282-025-00189-2)
 
 ---
+
+🔍 [Explore all datasets](../README.md)  
+[← Back to Project Overview](../../README.md)

@@ -200,3 +200,6 @@ A blog post discussing how smart technologies, including AI and digital tools, c
 [Link to Dataset](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/wp-content/uploads/2023/05/Empowering-persons-with-disabilities-through-digital-innovation.pdf)
 
 ---  
+
+🔍 [Explore all datasets](../README.md)  
+[← Back to Project Overview](../../README.md)

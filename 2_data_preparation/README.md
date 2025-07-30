@@ -21,5 +21,6 @@ the `/1_datasets` directory.
 
 ### 📤 Output
 
-- `/1_datasets/cleaned_datasets.csv` – Cleaned and structured text ready for
+- `/1_datasets/processed_data/cleaned_datasets.csv` – Cleaned and structured
+  text ready for
 downstream NLP tasks such as keyword extraction or topic modeling.

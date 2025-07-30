@@ -1,11 +1,12 @@
 # Individual Retrospectives – Milestone 3: Data Analysis
 
-This document compiles the individual reflections from each team member for the
-Data Analysis Milestone. These personal retrospectives offer diverse insights
-into what went well, the unique challenges encountered, key learnings, and
-individual action plans. They serve as valuable context, complementing our
-collective group retrospective by highlighting the distinct experiences and
-growth opportunities discovered by each of us during this phase.
+Each team member brought a different lens to the data analysis journey.
+These personal retrospectives highlight the diverse ways we engaged with the
+work—what clicked, what stretched us, and what we took away. Together, they
+offer a grounded glimpse into the learning, challenges, and growth behind
+the final results.
+
+---
 
 ## **Jola:**
 
@@ -49,6 +50,8 @@ growth opportunities discovered by each of us during this phase.
 - With better structure and early convergence, I believe we can produce
   even more refined and impactful results.
 
+---
+
 ## **Karim:**
 
 **What went well during this Data Analysis Milestone?**
@@ -82,6 +85,8 @@ growth opportunities discovered by each of us during this phase.
   regular check-ins and clearer communication. Aligning early on roles, goals
   and expectations could help us avoid missteps and distribute the workload
   more efficiently.
+
+---
 
 ## **Muqadsa:**
 
@@ -137,6 +142,8 @@ particularly when engaging with human stories.
 - Overall, the team handled a complex task with care, integrity, and a shared
   sense of purpose.
 
+---
+
 ## **Omer:**
 
 **What went well during this Data Analysis Milestone?**
@@ -174,6 +181,8 @@ and confidence in using manual thematic coding.
 - However, it would be helpful if we can schedule brief check-ins more
   frequently to catch issues earlier and align more consistently.
 
+---
+
 ## **Robel:**
 
 **What went well during this Data Analysis Milestone?**
@@ -199,6 +208,8 @@ and confidence in using manual thematic coding.
 **Additional thoughts:**
 
 - Keep up the good work that is all.
+
+---
 
 ## **Omnia:**
 

@@ -50,7 +50,7 @@ growth opportunities discovered by each of us during this phase.
 **Additional thoughts:**
 
 - Keep up the open, collaborative and learning spirit! It’s been a strong
-- foundation for our progress so far.
+  foundation for our progress so far.
 
 ---
 

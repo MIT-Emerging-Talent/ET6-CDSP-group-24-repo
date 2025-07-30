@@ -2,14 +2,14 @@
 
 # Project Constraints
 
-Some boundaries around our project.
+Some boundaries around our project are:
 
 ## External Constraints
 
 ### 1. Time Zone Differences
 
 **Impact**: Difficulty scheduling live meetings and coordinating work across
- different time zones.
+ different time zones.  
 **Mitigation**: Use flexible meeting times,
 asynchronous communication tools
 (e.g., Slack, email), and record meetings

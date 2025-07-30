@@ -1,41 +1,40 @@
 # Data Analysis
 
-Our analytical process followed a sequential flow, beginning with the
-**NLP-driven analysis**, which provided a broad, data-driven understanding of
-the text. This was then complemented by a more focused **manual coding process**
-, allowing for deeper qualitative insights into specific patterns of exclusion.
+We combined **natural language processing (NLP)** and **manual qualitative
+coding** to uncover patterns of exclusion from a text-based dataset.
+This hybrid approach enabled us to scale insights, validate patterns across
+methods, and balance exploratory techniques with close thematic reading.
 
 ---
 
-## 🔍 NLP Team's Approach
+## NLP-Driven Computational Analysis
 
-The NLP team's work began with meticulous **Data Preparation**. Raw PDF files
-were extracted, thoroughly cleaned, and preprocessed using Python libraries like
- [**PyMuPDF**](https://pymupdf.readthedocs.io/en/latest/) and
- [**spaCy**](https://spacy.io/). This involved removing stopwords, punctuation,
- and non-relevant tokens to create a clean, structured
- [`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv) –
- our foundational input for all subsequent NLP tasks.
+Our computational workflow began with **data cleaning and preprocessing** using
+Python libraries like [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) and
+[spaCy](https://spacy.io/). This transformed raw PDFs into a clean, structured
+corpus:  
+📄 [`cleaned_datasets.csv`](../1_datasets/processed_data/cleaned_datasets.csv)
 
-Following data preparation, our analysis employed a multi-faceted approach
-leveraging Natural Language Processing (NLP) and statistical methods:
-
-### 1. [Data Exploration and Initial Analysis](../3_data_exploration/README.md)
-
-We started by inspecting the structure and quality of the
-[`cleaned_datasets.csv`](./1_datasets/processed_data/cleaned_datasets.csv),
-checking for completeness and relevance to ensure a solid analytical foundation.
+We applied several NLP techniques to analyze the data:
 
 ---
 
-### 2. [Keyword in Context (KWIC) Analysis](./keywords_in_context_analysis.ipynb)
+### 1. [Data Exploration](../3_data_exploration/README.md)
+
+We began by validating our dataset for completeness, theme coverage, and text
+quality—ensuring a solid foundation for downstream analysis.
+
+---
+
+### 2. 🔍 [Keyword-in-Context (KWIC)](./keywords_in_context_analysis.ipynb)
 
 This qualitative technique allowed us to pinpoint direct mentions and understand
- the nuanced context of key terms (e.g., **'digital'**, **'AI'**, **'exclude'**,**'disability'**,
-  **'self-employed'**)
-  within the text. This provided granular, sentence-level evidence for our hypothesis.
+ the nuanced context of key terms (e.g., **'digital'**, **'AI'**,
+**'exclude'**,**'disability'**,
+**'self-employed'**)
+within the text. This provided granular, sentence-level evidence for our hypothesis.
 
-**Goals for KWIC Analysis:**
+**Why KWIC?**
 
 * Understand how key terms are framed within their thematic contexts.
 * Support qualitative interpretation of textual data.
@@ -46,86 +45,62 @@ different topics.
 
 ---
 
-### 3. 📈 [TF-IDF (Term Frequency-Inverse Document Frequency) Keyword Analysis](../3_data_exploration/top_keywords_per_theme.ipynb)
+### 3. [📈 Term Frequency-Inverse Document Frequency (TF-IDF) Keyword Analysis](../3_data_exploration/top_keywords_per_theme.ipynb)
 
-We used TF-IDF to quantitatively identify the most statistically significant and
- unique vocabulary associated with our predefined themes. This helped us
- highlight terms truly indicative of specific challenges and solutions,
- complementing the qualitative insights from KWIC.
-
----
-
-### 4. [Topic Modeling Analysis (BERTopic)](./Topic_Modeling.ipynb)
-
-As an advanced neural technique, [**BERTopic**](https://maartengr.github.io/BERTopic/index.html)
- was crucial for moving beyond pre-assigned categories. It utilized document
- embeddings and clustering to uncover latent, naturally emerging conceptual
- themes within the entire dataset. This provided a holistic and semantically
- rich understanding of the various facets of exclusion.
-
-**Key Features of BERTopic Analysis:**
-
-* Loads pre-cleaned text data and filters by predefined thematic categories.
-* Defines domain-specific stopwords to reduce noise and enhance topic clarity.
-* Uses **UMAP** for dimensionality reduction and **HDBSCAN** for clustering.
-* Applies BERTopic to generate interpretable topics.
-* Visualizes topics through bar charts and interactive plots.
-
-**Goals for BERTopic Analysis:**
-
-* Identify key discussion patterns and shared language across themes.
-* Explore how different topics cut across thematic boundaries.
-* Support exploratory qualitative and thematic research.
-
-**Key Visualizations for Topic Modeling:**
-
-## Topic Word Scores
-
-![Topic Word Scores Bar Chart](./visuals/topic_word_scores.jpg)
-
-*Purpose: This visualization shows the most important words for each topic and
-their relative importance scores, helping understand what characterizes each topic.*
-
-## Similarity Matrix
-
-![Topic Similarity Heatmap](./visuals/similarity_matrix.jpg)
-
-*Purpose: This heatmap shows how similar each topic is to every other topic.
-Darker colors indicate higher similarity, helping identify potentially redundant
- topics or topic clusters.*
-
-## 2D Topic Space
-
-![2D Topic Space](./visuals/2d_topic_space.jpg)
-
-*Purpose: This plot shows topics as circles in 2D space where distance
-represents similarity. Topics that are close together are more semantically related.*
-
-## Hierarchical Clustering
-
-![Hierarchical Clustering Dendrogram](./visuals/hierarchical_clustering.jpg)
-
-*Purpose: This dendrogram shows how topics can be merged at different similarity
- levels, revealing the hierarchical structure of the topic space and which
- topics are most closely related.*
+TF-IDF helped surface the most **statistically significant and distinctive**
+words per theme. This provided a quantitative view of language patterns,
+complementing our KWIC analysis and supporting cross-theme comparison.
 
 ---
 
-## Manual Coding Process
+### 4. [Topic Modeling with BERTopic](./Topic_Modeling.ipynb)
 
-Our manual analysis followed a structured qualitative coding workflow to extract
- insights from 7 documents, about 20% of our data pool. The goal was to identify
-  exclusion patterns, thematic prevalence, and co-occurrence relationships
-  between access-related issues.
+We used [**BERTopic**](https://maartengr.github.io/BERTopic/index.html) as an
+advanced neural technique to discover **latent, naturally emerging conceptual
+themes** within our dataset, moving beyond predefined categories. It achieves
+this by generating document embeddings and clustering similar passages into
+semantically rich topic groups.
 
-We developed a shared codebook, manually coded excerpts using top-level themes
-and subcodes, and cleaned the data for analysis. Pivot tables were used to
-calculate theme frequency and co-occurrence patterns. We then wrote memos to
-interpret key themes and relationships.
+**Key Features & Process:**
 
-See [`manual_analysis_technical_description.md`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-24-repo/tree/main/4_data_analysis)
- for a full explanation of our coding process and rationale.
+* Custom stopwords for noise reduction and enhanced clarity
+* **UMAP** for dimensionality reduction and **HDBSCAN** for clustering
+* Interactive visualizations showcasing topic relationships and hierarchy
 
 ---
+
+### 📊 Visual Outputs
+
+Explore key insights from our topic modeling through these visualizations:
+<!-- markdownlint-disable MD033 MD013 MD041-->
+|                                          |                                          |
+| :--------------------------------------- | :--------------------------------------- |
+| <div style="text-align: center;">           | <div style="text-align: center;">           |
+|   ![Topic Word Scores Bar Chart](./visuals/topic_word_scores.jpg)<br> |   ![Hierarchical Clustering Dendrogram](./visuals/hierarchical_clustering.jpg)<br> |
+|   <strong>Topic Word Scores</strong>: <span style="font-style: italic;">Shows most important words and their scores per topic.</span> |   <strong>Hierarchical Clustering</strong>: <span style="font-style: italic;">Reveals the hierarchical structure of topics and their relationships.</span> |
+| </div>                                   | </div>                                   |
+| <div style="text-align: center;">           | <div style="text-align: center;">           |
+|   ![Similarity Matrix](./visuals/similarity_matrix.jpg)<br> |   ![2D Topic Space](./visuals/2d_topic_space.jpg)<br> |
+|   <strong>Similarity Matrix</strong>: <span style="font-style: italic;">Illustrates topic similarity; darker colors indicate higher resemblance.</span> |   <strong>2D Topic Space</strong>: <span style="font-style: italic;">Plots topics as circles in 2D space where proximity indicates semantic relatedness.</span> |
+| </div>                                   | </div>                                   |
+
+---
+
+## 📝 Manual Coding Process
+
+In parallel, we conducted a **structured manual coding** of 7 documents (~20%
+of our dataset), guided by a collaboratively developed codebook covering core
+themes and subcodes.
+See [Manual Coding Technical Write-up](./manual_analysis_technical_description.md)
+for a full explanation of our coding process and rationale.  
+
+**Our process involved:**
+
+* Applying top-level theme codes, subcodes and shared tags to excerpts using
+  our codebook.
+* Utilizing pivot tables to examine theme frequency and co-occurrence.
+* Writing coding memos to interpret both expected and surprising findings.
 
 [Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
+
+[← Back to Project Overview](./../README.md)
