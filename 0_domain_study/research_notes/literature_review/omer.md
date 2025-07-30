@@ -1,6 +1,7 @@
 # Overview of the theme: Economic Inclusion
 
-Lack of funding and financial services for entrepreneurs, especially SMEs,
+Lack of funding and financial services for entrepreneurs, especially
+**Small and Medium-sized Enterprises (SMEs)**,
 creates a major barrier to economic inclusion. It limits the ability of
 individuals—particularly from underserved populations—to start, sustain,
 or grow businesses.

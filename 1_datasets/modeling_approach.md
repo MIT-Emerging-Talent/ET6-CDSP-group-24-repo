@@ -96,7 +96,7 @@ helps pinpoint **where digital and AI technologies create barriers and crucial g
 
 ### **Want to See It?**
 
-Explore our datasets here → [**🔗 View the Datasets**](./README.md#directory-guide)  
+Explore our datasets here → [**🔗 View the Datasets**](README.md#-directory-guide)  
 Each row represents a specific story of exclusion, a barrier, or an innovation's failure in action.
 
 [← Back to Project Overview](../README.md)

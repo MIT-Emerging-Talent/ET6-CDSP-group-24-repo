@@ -131,7 +131,7 @@ Key docs:
 
 * [Explore Our Datasets](1_datasets/) — Access thematic folders, source documents, and processed data.
 * [Understand Our Data Modeling Approach](1_datasets/modeling_approach.md) — Learn how and why we structured our qualitative data, including its rationale and limitations.
-* [Recreate Our Processed Dataset](1_datasets/README.md#recreating-our-processed-dataset) — Follow steps to regenerate the cleaned and structured data from raw sources.
+* [Recreate Our Processed Dataset](1_datasets/README.md#-recreating-our-processed-dataset) — Follow steps to regenerate the cleaned and structured data from raw sources.
 * [View Our Processed Data Directly](1_datasets/processed_data/) — Access the final, cleaned CSV files for immediate review.
 * [See the Group Retrospective for Data Collection](collaboration/retrospectives/2_data_collection_group_retrospective.md) — Insights and learnings from our data collection process.
 
@@ -155,19 +155,29 @@ us surface both **fine-grained patterns** and **emergent themes** across our dat
 
     We manually analyzed a subset of 7 documents (roughly 20% of our corpus), employing a **hybrid deductive–inductive thematic coding approach** with a collaboratively developed codebook centered on key themes: access, design, policy, and systemic exclusion. While direct data on PWD entrepreneurs was limited, **proxy indicators** (e.g., digital literacy gaps, telecom inaccessibility) allowed us to infer challenges relevant to self-employed individuals with disabilities. This rigorous process, including **intercoder calibration**, yielded rich thematic insights and co-occurrence patterns.
 
+  >*For a full technical explanation of our manual qualitative coding methodology, see our [Manual Coding Technical Description](./4_data_analysis/manual_analysis_technical_description.md).*  
+  >*Dive deeper into insights from manual analysis: [Manual Coding Insights](./4_data_analysis/manual_analysis_insights.md)*  
+
 * **NLP-Assisted Analysis**:
 
     To complement the manual coding and expand our reach, we applied several NLP techniques:
 
-  * [Keyword-in-Context (KWIC)](./4_data_analysis/keywords_in_context_analysis.ipynb) — to understand how key terms like *"AI"*, *"self-employed"*, or *"exclusion"* appear in narrative context
+  * [Keyword-in-Context (KWIC)](./4_data_analysis/keywords_in_context_analysis.ipynb) — to understand how key terms like "AI", "self-employed", or "exclusion" appear in narrative context
   * [TF-IDF Keyword Analysis](./3_data_exploration/top_keywords_per_theme.ipynb) — to extract statistically important keywords by theme
   * [BERTopic Modeling](./4_data_analysis/Topic_Modeling.ipynb) — to discover latent topic clusters and relationships using neural embeddings
 
+  >*Access all analytical scripts and Jupyter notebooks used in the data analysis phase [here](./4_data_analysis).*  
+  >*Explore NLP-driven visualizations and overview: [NLP Analysis Visuals](./4_data_analysis/README.md#-visual-outputs)*  
+  
 These approaches let us move beyond pre-coded themes and uncover hidden signals across the full dataset.
 
 ---
 
 ### Key Findings
+
+Here are the primary insights derived from our mixed-methods analysis:
+
+> *For a more detailed breakdown of all findings, including evidence and methodology, see our [Full Findings Document (Coming Soon!)](./4_data_analysis/full_findings.md).*
 
 1. **Access Barriers**: Affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
 
@@ -226,13 +236,9 @@ While our hybrid analysis offers both depth and breadth, several limitations sho
 
 ---
 
-Key docs:
+See Also:
 
-* [See full technical explanation here](https://www.google.com/search?q=./4_data_analysis/manual_analysis_technical_description.md) — Detailed explanation of the manual qualitative coding methodology.
-* [See Manual Analysis Insights](https://www.google.com/search?q=./4_data_analysis/manual_analysis_insights.md) — Key findings and insights derived from manual qualitative analysis.
-* [See NLP Analysis Visuals](https://www.google.com/search?q=./4_data_analysis/README.md) — Visualizations and an overview of the NLP-assisted analysis results.
-* [All notebooks/scripts](https://www.google.com/search?q=./4_data_analysis) — Access all analytical scripts and Jupyter notebooks used in the data analysis phase.
-* [See the Group Retrospective for Data Analysis](collaboration/retrospectives/3_data_analysis_group_retrospective.md) — Insights and learnings from our data analysis process.
+* [Group Retrospective for Data Analysis](collaboration/retrospectives/3_data_analysis_group_retrospective.md) — Insights and learnings from our data analysis process.
   
 ---
 
@@ -344,4 +350,4 @@ Key docs (coming soon):
 
 ---
 <!-- markdownlint-disable MD036 MD049-->
-_Last updated: 29 July 2025_
+_Last updated: 30 July 2025_
