@@ -49,7 +49,7 @@ We're asking this to understand not just the tech, but the human experience behi
 
 ## Research Conclusion
 
-Digital exclusion for self-employed people with disabilities in Sub-Saharan Africa is shaped by overlapping structural, technological, and systemic barriers—from unaffordable services and inaccessible design to weak policy enforcement and pervasive stigma.
+The digital divide is the central driver of exclusion for self-employed people with disabilities in Sub-Saharan Africa. This divide is not just about connectivity gaps—it’s the result of overlapping structural, technological, and systemic barriers: unaffordable services, inaccessible design, weak policy enforcement, and pervasive stigma.
 
 Our hybrid analysis shows that exclusion is not just about lack of access—it’s about how systems are built, who they are built for, and who gets left out. Resilience through local innovation and peer networks is real, but these efforts often arise from necessity—not choice—and should not substitute for systemic change.
 
