@@ -6,7 +6,7 @@
 
 **Platform:** Google Meet
 
-## Attendees:
+## Attendees
 
 - Jola-Moses  
 - Karim Makie  
