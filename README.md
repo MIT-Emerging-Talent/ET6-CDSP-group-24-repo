@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD013 MD041-->
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91680756/472637238-24d2de24-9744-4ef4-9acc-f63c77b54601.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250730%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250730T174723Z&X-Amz-Expires=300&X-Amz-Signature=22d0cc78a9b2125cc634ca8d637371da690ba008225e7bc42e004dcc4668f495&X-Amz-SignedHeaders=host" alt="CrystalPearl Team Logo" width="450"/>
+  <img src="https://github.com/user-attachments/assets/93b63859-526b-4aa2-ad23-e02d8b6b89da" alt="CrystalPearl Team Logo" width="450"/>
 </div>
 <!-- markdownlint-enable MD033 MD013 MD041-->
 
