@@ -158,6 +158,7 @@ us surface both **fine-grained patterns** and **emergent themes** across our dat
     We manually analyzed a subset of 7 documents (roughly 20% of our corpus), employing a **hybrid deductive–inductive thematic coding approach** with a collaboratively developed codebook centered on key themes: access, design, policy, and systemic exclusion. While direct data on PWD entrepreneurs was limited, **proxy indicators** (e.g., digital literacy gaps, telecom inaccessibility) allowed us to infer challenges relevant to self-employed individuals with disabilities. This rigorous process, including **intercoder calibration**, yielded rich thematic insights and co-occurrence patterns.
 
   **Detailed manual qualitative coding methodology**: [Manual Coding Technical Description](./4_data_analysis/manual_analysis_technical_description.md)  
+  **Access the Raw Coding Data**: [Manual Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)  
   **Dive deeper into insights from manual coding**: [Manual Coding Insights](./4_data_analysis/manual_analysis_insights.md)
 
 * **NLP-Assisted Analysis**:

@@ -105,6 +105,11 @@ structured fields:
 > This structure enabled *traceability* and streamlined the **review &
 > synthesis phase**.
 
+**Access the Manual Coding Sheet:**
+For full transparency and to examine the raw codes applied during our manual
+analysis, please refer to our collaborative Google Sheet:
+**[Manual Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)**
+
 ---
 
 ### 5. Cross-Review & Reconciliation
