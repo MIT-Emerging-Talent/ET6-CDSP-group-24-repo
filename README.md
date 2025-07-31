@@ -49,9 +49,9 @@ We're asking this to understand not just the tech, but the human experience behi
 
 ## Research Conclusion
 
-The digital divide is the central driver of exclusion for self-employed people with disabilities in Sub-Saharan Africa. This divide is not just about connectivity gaps—it’s the result of overlapping structural, technological, and systemic barriers: unaffordable services, inaccessible design, weak policy enforcement, and pervasive stigma.
+The digital divide is the central driver of exclusion for self-employed people with disabilities in Sub-Saharan Africa. But this divide runs deeper than connectivity gaps—it stems from overlapping structural, technological, and systemic barriers: unaffordable services, inaccessible design, weak policy enforcement, and pervasive stigma.
 
-Our hybrid analysis shows that exclusion is not just about lack of access—it’s about how systems are built, who they are built for, and who gets left out. Resilience through local innovation and peer networks is real, but these efforts often arise from necessity—not choice—and should not substitute for systemic change.
+Our hybrid analysis shows that exclusion is deeply embedded in how systems are built—who they’re designed for, and who gets left out. Resilience through local innovation and peer networks is real, but these efforts often arise from necessity—not choice—and should not substitute for systemic change.
 
 We also found that disability-led innovation is both feasible and underutilized. There is a powerful opportunity here: to shift from workarounds to co-designed, inclusive systems that prioritize accessibility from the start.
 
@@ -149,14 +149,16 @@ disabilities (PWDs), we used a **hybrid method** combining manual
 qualitative coding with automated natural language processing (NLP). This let
 us surface both **fine-grained patterns** and **emergent themes** across our dataset that might be overlooked in close reading alone.
 
+---
+
 ### Methods at a Glance
 
 * **Manual Coding**:
 
     We manually analyzed a subset of 7 documents (roughly 20% of our corpus), employing a **hybrid deductive–inductive thematic coding approach** with a collaboratively developed codebook centered on key themes: access, design, policy, and systemic exclusion. While direct data on PWD entrepreneurs was limited, **proxy indicators** (e.g., digital literacy gaps, telecom inaccessibility) allowed us to infer challenges relevant to self-employed individuals with disabilities. This rigorous process, including **intercoder calibration**, yielded rich thematic insights and co-occurrence patterns.
 
-  >*For a full technical explanation of our manual qualitative coding methodology, see our [Manual Coding Technical Description](./4_data_analysis/manual_analysis_technical_description.md).*  
-  >*Dive deeper into insights from manual analysis: [Manual Coding Insights](./4_data_analysis/manual_analysis_insights.md)*  
+  **Detailed manual qualitative coding methodology**: [Manual Coding Technical Description](./4_data_analysis/manual_analysis_technical_description.md)  
+  **Dive deeper into insights from manual coding**: [Manual Coding Insights](./4_data_analysis/manual_analysis_insights.md)
 
 * **NLP-Assisted Analysis**:
 
@@ -165,33 +167,26 @@ us surface both **fine-grained patterns** and **emergent themes** across our dat
   * [Keyword-in-Context (KWIC)](./4_data_analysis/keywords_in_context_analysis.ipynb) — to understand how key terms like "AI", "self-employed", or "exclusion" appear in narrative context
   * [TF-IDF Keyword Analysis](./3_data_exploration/top_keywords_per_theme.ipynb) — to extract statistically important keywords by theme
   * [BERTopic Modeling](./4_data_analysis/Topic_Modeling.ipynb) — to discover latent topic clusters and relationships using neural embeddings
-
-  >*Access all analytical scripts and Jupyter notebooks used in the data analysis phase [here](./4_data_analysis).*  
-  >*Explore NLP-driven visualizations and overview: [NLP Analysis Visuals](./4_data_analysis/README.md#-visual-outputs)*  
   
+  **Access all analytical scripts and notebooks**: [Data Analysis Phase Scripts](./4_data_analysis)  
+  **Explore NLP-driven visualizations & overview**: [NLP Analysis README](./4_data_analysis/README.md#-nlp-driven-computational-analysis)
+
 These approaches let us move beyond pre-coded themes and uncover hidden signals across the full dataset.
 
 ---
 
-### Key Findings
+### Key Contributions & Findings
 
-Here are the primary insights derived from our mixed-methods analysis:
+Our "Offline by Design" project employed a hybrid computational and qualitative analysis to uncover multifaceted barriers to digital inclusion for self-employed people with disabilities in Sub-Saharan Africa. Key findings highlight:
 
-> *For a more detailed breakdown of all findings, including evidence and methodology, see our [Full Findings Document (Coming Soon!)](./4_data_analysis/full_findings.md).*
+* **Persistent Digital Divide:** Affordability and connectivity issues remain foundational.
+* **"Access Illusions" from Skills Gaps:** Theoretical access doesn't equate to practical usage due to literacy and training deficits.
+* **Limited Inclusive Design:** Despite potential, inclusive design remains an exception, leading to interface barriers and AI bias.
+* **Weak Policy Implementation:** Existing policies often fail to translate into real-world change without accountability.
+* **Reinforcing Social Exclusion:** Data invisibility, representation gaps, and stigma perpetuate systemic barriers.
+* **Informal Networks as Vital Bridges:** Community-led initiatives play a critical role in filling formal system gaps.
 
-1. **Access Barriers**: Affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
-
-2. **Digital Skills Gaps**: Despite tool availability, gaps in skills and training—surfaced through hybrid analysis—create the illusion of inclusion without true usability.
-
-3. **Design Fragmentation**: Manual coding showed that inclusive tools (e.g., JAWS, Be My Eyes) exist but remain isolated exceptions, not the norm in digital design.
-
-4. **Policy–Practice Gap**: Hybrid findings highlighted a disconnect between strong legal frameworks (e.g., Rwanda) and weak implementation, with NLP linking policy language to reports of poor follow-through.
-
-5. **Social & Systemic Exclusion**: Our hybrid analysis traced digital exclusion to deeper forces—stigma, invisibility, and top-down design—that marginalize PWDs in both data and decision-making.
-
-6. **Peer Networks**: Manual coding found peer-led solutions to be the most consistent and effective form of resilience, often compensating for systemic neglect.
-
-7. **Siloed Collaborations**: NLP surfaced patterns of collaboration that remain fragmented, limiting their reach and potential for systemic change.
+For a detailed breakdown of these findings, including implications and supporting evidence, please see our [**Detailed Findings Document**](./4_data_analysis/mixed_methods_findings.md).
 
 ---
 
@@ -311,10 +306,11 @@ Key docs (coming soon):
 │   ├── visuals/                 # Visualizations from NLP topic modeling & clustering
 │   ├── guide.md                 # Navigation aid for the analysis directory
 │   ├── keywords_in_context_analysis.ipynb # Jupyter notebook for KWIC analysis
-│   ├── manual_analysis_insights.md    # Summary of insights from manual coding
+│   ├── manual_analysis_insights.md      # Summary of insights from manual coding
 │   ├── manual_analysis_technical_description.md # Detailed methodology for manual coding
-│   ├── README.md                      # Overview of the data analysis strategy
-│   └── Topic_Modeling.ipynb           # Jupyter notebook for BERTopic modeling
+│   ├── README.md                          # Overview of the data analysis strategy
+│   ├── Topic_Modeling.ipynb               # Jupyter notebook for BERTopic modeling
+│   └── mixed_methods_findings.md          # Triangulated insights
 ├── 5_communication_strategy/   # Messaging and impact plan (in progress)
 ├── 6_final_presentation/       # Final pitch and summary (pending)
 ├── collaboration/              # Norms, goals, retrospectives
