@@ -7,7 +7,7 @@ methods, and balance exploratory techniques with close thematic reading.
 
 ---
 
-## NLP-Driven Computational Analysis
+## 💻 NLP-Driven Computational Analysis
 
 Our computational workflow began with **data cleaning and preprocessing** using
 Python libraries like [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) and
@@ -26,7 +26,7 @@ quality—ensuring a solid foundation for downstream analysis.
 
 ---
 
-### 2. 🔍 [Keyword-in-Context (KWIC)](./keywords_in_context_analysis.ipynb)
+### 2. [Keyword-in-Context (KWIC)](./keywords_in_context_analysis.ipynb)
 
 This qualitative technique allowed us to pinpoint direct mentions and understand
  the nuanced context of key terms (e.g., **'digital'**, **'AI'**,
@@ -45,7 +45,7 @@ different topics.
 
 ---
 
-### 3. [📈 Term Frequency-Inverse Document Frequency (TF-IDF) Keyword Analysis](../3_data_exploration/top_keywords_per_theme.ipynb)
+### 3. [Term Frequency-Inverse Document Frequency (TF-IDF) Keyword Analysis](../3_data_exploration/top_keywords_per_theme.ipynb)
 
 TF-IDF helped surface the most **statistically significant and distinctive**
 words per theme. This provided a quantitative view of language patterns,
@@ -102,5 +102,29 @@ for a full explanation of our coding process and rationale.  
 * Writing coding memos to interpret both expected and surprising findings.
 
 [Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
+
+---
+
+## 💡 Key Findings and Insights
+
+Our mixed-methods analysis, combining computational patterns with in-depth qualitative interpretation, yielded critical insights into digital exclusion and its impacts.
+
+> *For a more detailed breakdown of all findings and their evidence: [**Detailed Findings Document**](./mixed_methods_findings.md)*
+
+1. **Access Barriers**: Affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
+
+2. **Digital Skills Gaps**: Despite tool availability, gaps in skills and training—surfaced through hybrid analysis—create the illusion of inclusion without true usability.
+
+3. **Design Fragmentation**: Manual coding showed that inclusive tools (e.g., JAWS, Be My Eyes) exist but remain isolated exceptions, not the norm in digital design.
+
+4. **Policy–Practice Gap**: Hybrid findings highlighted a disconnect between strong legal frameworks (e.g., Rwanda) and weak implementation, with NLP linking policy language to reports of poor follow-through.
+
+5. **Social & Systemic Exclusion**: Our hybrid analysis traced digital exclusion to deeper forces—stigma, invisibility, and top-down design—that marginalize PWDs in both data and decision-making.
+
+6. **Peer Networks**: Manual coding found peer-led solutions to be the most consistent and effective form of resilience, often compensating for systemic neglect.
+
+7. **Siloed Collaborations**: NLP surfaced patterns of collaboration that remain fragmented, limiting their reach and potential for systemic change.
+
+---
 
 [← Back to Project Overview](./../README.md)
