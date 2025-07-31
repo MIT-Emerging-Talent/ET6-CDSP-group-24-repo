@@ -100,9 +100,10 @@ for a full explanation of our coding process and rationale.  
   our codebook.
 * Utilizing pivot tables to examine theme frequency and co-occurrence.
 * Writing coding memos to interpret both expected and surprising findings.
-
-[Coding Sheet (Google Sheet)](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)
-
+<!-- markdownlint-disable MD059-->
+**Access our Manual Coding Sheet**
+**[here](https://docs.google.com/spreadsheets/d/1ttROjrY1YECIfhm5oz4luWHxWq_MTShfQBsiFP1Pnvg/edit?gid=894372809#gid=894372809)**.
+<!-- markdownlint-enable MD059-->
 ---
 
 ## 💡 Key Findings and Insights
