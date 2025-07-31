@@ -8,7 +8,6 @@
 
 ## Attendees:
 
-
 - Jola-Moses  
 - Karim Makie  
 - Omnia Mustafa Abdulgadir  
