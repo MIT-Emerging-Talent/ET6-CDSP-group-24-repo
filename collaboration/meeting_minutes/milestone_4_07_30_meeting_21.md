@@ -22,7 +22,7 @@
 ## 1. Check-ins (10 minutes)
 
 * Some team members confirmed progress on their respective analysis tasks, with
-  data triangulation complete.
+data triangulation complete.
 * The team expressed readiness to move into final presentation and documentation
 stages along with slides editing.
 
@@ -44,8 +44,8 @@ stages along with slides editing.
 * Robel then presented his 90-second rehearsal. His explanation was fast but
  didn't end at the 90 seconds as well.
 * Jola delivered her 90-second presentation rehearsal. Her delivery was clear,
- and her points about Access Barriers and Access Illusions were well
- articulated. She was slightly over time but did very well without
+and her points about Access Barriers and Access Illusions were well
+articulated. She was slightly over time but did very well without
 training(approx. 98 seconds).
 * The overall flow and compelling nature of both presentations were noted.
 
