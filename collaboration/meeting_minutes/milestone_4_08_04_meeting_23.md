@@ -1,4 +1,4 @@
-# Meeting Minutes #22 - Reviewing Personas & Suggesting Artifacts
+# Meeting Minutes #23 - Reviewing Personas & Suggesting Artifacts
 
 **Date:** Monday, August 05, 2025
 
