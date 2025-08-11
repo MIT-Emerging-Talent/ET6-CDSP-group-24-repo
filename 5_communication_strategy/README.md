@@ -1,4 +1,4 @@
-# Summary of Strategy
+# Communication Strategy
 
 ## Who We Are Reaching
 
@@ -41,7 +41,7 @@ accessible, concise research she can share quickly. Building our strategy around
  people like her keeps our outreach practical, relevant, and grounded in lived
   realities.  
 
-[See the full personas file](https://docs.google.com/spreadsheets/d/1mXBrXFIjiWoPmoncIxT8Cb0hygaCoyf7FueW2WxPvKU/edit?gid=1146215922#gid=1146215922)
+[See the full personas file](https://docs.google.com/document/d/13Ex_6VEIECq3S0XThTfxFXjRhiDg--baENFzfdo-sec/edit?tab=t.0#heading=h.8nw50bor3621)
 
 ## What We Are Saying
 
