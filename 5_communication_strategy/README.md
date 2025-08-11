@@ -21,7 +21,7 @@ demand systemic change in accessibility and inclusion.
 
 ### Community & public stakeholders
 
-* Grassroots organisers
+* Grassroots organizers
 * Disabled persons’ organisations
 * Activists and campaigners
 * Concerned individuals working toward a more inclusive digital future
@@ -41,7 +41,7 @@ accessible, concise research she can share quickly. Building our strategy around
  people like her keeps our outreach practical, relevant, and grounded in lived
   realities.  
 
-[See the full personas file](https://docs.google.com/document/d/13Ex_6VEIECq3S0XThTfxFXjRhiDg--baENFzfdo-sec/edit?tab=t.0#heading=h.8nw50bor3621)
+[See the full personas file](./target_audience.md)
 
 ## What We Are Saying
 
