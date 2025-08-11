@@ -245,15 +245,27 @@ See Also:
 <details>
 <summary><strong>Milestone 4: Communicating Results – <em>In Progress</em></strong></summary>
 
-We're working on a communication strategy aimed at:
+After data analysis, this milestone was about sharing our findings in ways that move people to act. We shifted from research mode to communication mode—turning complex insights into stories, visuals, and clear calls to action that meet our audiences where they are.
 
-* Translating our insights into accessible, actionable messages
-* Choosing the right format for impact
-* Tailoring to our intended audience (e.g., policy, industry, disabled entrepreneurs)
+We built the Offline by Design landing page as the narrative gateway to our research. It pairs real human stories—like Vivian’s experience navigating inaccessible digital systems—with barrier-by-barrier evidence, and maps solutions to specific stakeholder roles so they can act immediately.
 
-Key docs (WIP):
+From there, our open repository offers full transparency methodology, [manual and NLP analysis outputs](./4_data_analysis/README.md), [datasets](./1_datasets/README.md), and detailed recommendations.
 
-* [Communication Plan](5_communication_strategy/4_communicating_results_group.md)
+We shaped this work with a clear communication strategy:
+
+* **Who we’re speaking to** – Coordinators in disability inclusion orgs, NGO program officers, philanthropic advocacy leads, and influencers or journalists amplifying marginalized voices.
+
+* **What we’re saying** – Digital systems must work for everyone, including disabled entrepreneurs in Sub-Saharan Africa.
+
+* **Why it matters** – Without inclusive design, policy follow-through, and affordable access, exclusion remains the norm.
+  
+Our aim was simple: turn awareness into action, and action into systemic change.
+
+Key docs:
+
+* [Offline by Design Landing Page](https://offlinebydesign.site/#)
+* [Communication Strategy](./5_communication_strategy/README.md)
+* [Milestone 4 Group Retrospective](./collaboration/retrospectives/4_communicating_results.md)
 
 ---
 
