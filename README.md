@@ -249,7 +249,7 @@ After data analysis, this milestone was about sharing our findings in ways that 
 
 We built the Offline by Design landing page as the narrative gateway to our research. It pairs real human stories—like Vivian’s experience navigating inaccessible digital systems—with barrier-by-barrier evidence, and maps solutions to specific stakeholder roles so they can act immediately.
 
-From there, our open repository offers full transparency methodology, [manual and NLP analysis outputs](./4_data_analysis/README.md), [datasets](./1_datasets/README.md), and detailed recommendations.
+From there, our open repository offers full transparency methodology, [Manual and NLP analysis outputs](./4_data_analysis/README.md), [datasets](./1_datasets/README.md), and detailed recommendations.
 
 We shaped this work with a clear communication strategy:
 
@@ -263,9 +263,9 @@ Our aim was simple: turn awareness into action, and action into systemic change.
 
 Key docs:
 
-* [Offline by Design Landing Page](https://offlinebydesign.site/#)
+* [Communication Artifact - Offline by Design Landing page](https://offlinebydesign.site/#)
 * [Communication Strategy](./5_communication_strategy/README.md)
-* [Milestone 4 Group Retrospective](./collaboration/retrospectives/4_communicating_results.md)
+* [Milestone 4 Group Retrospective](./collaboration/retrospectives/4_communicating_results_group_retrospective.md)
 
 ---
 
@@ -324,7 +324,10 @@ Key docs (coming soon):
 │   ├── README.md                          # Overview of the data analysis strategy
 │   ├── Topic_Modeling.ipynb               # Jupyter notebook for BERTopic modeling
 │   └── mixed_methods_findings.md          # Triangulated insights
-├── 5_communication_strategy/   # Messaging and impact plan (in progress)
+└── 5_communication_strategy/
+    ├── README.md               # Overview of Communication
+    ├── recommendations_document.md        # Tailored Solutions of Stakeholders
+    └── email_outreach.md       # Email outreach formats and Profile
 ├── 6_final_presentation/       # Final pitch and summary (pending)
 ├── collaboration/              # Norms, goals, retrospectives
 ├── notes/                      # Scratchpad + extra thinking
