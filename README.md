@@ -323,13 +323,14 @@ Key docs (coming soon):
 │   ├── keywords_in_context_analysis.ipynb # Jupyter notebook for KWIC analysis
 │   ├── manual_analysis_insights.md      # Summary of insights from manual coding
 │   ├── manual_analysis_technical_description.md # Detailed methodology for manual coding
-│   ├── README.md                          # Overview of the data analysis strategy
-│   ├── Topic_Modeling.ipynb               # Jupyter notebook for BERTopic modeling
-│   └── mixed_methods_findings.md          # Triangulated insights
-└── 5_communication_strategy/
-    ├── README.md               # Overview of Communication
-    ├── recommendations_document.md        # Tailored Solutions of Stakeholders
-    └── email_outreach.md       # Email outreach formats and Profile
+│   ├── README.md                        # Overview of the data analysis strategy
+│   ├── Topic_Modeling.ipynb             # Jupyter notebook for BERTopic modeling
+│   └── mixed_methods_findings.md        # Triangulated insights
+├── 5_communication_strategy/
+│   ├── README.md               # Overview of Communication
+│   ├── targeted-recommendations.md      # Tailored Solutions of Stakeholders
+│   ├── email_outreach.md       # Email outreach formats and Profile
+|   └── target_audience.md      # Detailed persona sheets and profiles
 ├── 6_final_presentation/       # Final pitch and summary (pending)
 ├── collaboration/              # Norms, goals, retrospectives
 ├── notes/                      # Scratchpad + extra thinking
