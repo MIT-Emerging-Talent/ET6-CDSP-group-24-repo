@@ -109,6 +109,7 @@ From there, people can explore our open repository, which houses:
 ## Our Sharing Strategy
 
 To reach those who can act on this, we're:
+
 → Beginning to share across professional and advocacy networks (LinkedIn,
 Twitter/X, Instagram)  
 → Planning targeted posts in disability inclusion, tech, and policy forums  
