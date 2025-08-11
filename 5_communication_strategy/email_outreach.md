@@ -17,7 +17,8 @@
 - **Inclusion Africa (Kenya)**  
   *Profile:* Digital Livelihoods Program Manager  
   *Why Interested:* Runs training programs for PWDs in informal sectors;
- research would reveal barriers in mobile money apps or online marketplaces blocking their participants.  
+ research would reveal barriers in mobile money apps or online marketplaces
+ blocking their participants.  
 
 - **Uhambo Foundation (South Africa)**  
   *Profile:* Inclusive Innovation Lead  
