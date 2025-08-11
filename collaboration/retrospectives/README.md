@@ -46,7 +46,8 @@ uncertainty by defining boundaries, and aligning expectations.
 
 ### **Milestone 4: Communicating Results**
 
-👥 [`4_communicating_results.md`](./4_communicating_results.md) – Lessons from designing communication artifacts and identifying the right audiences.
+👥 [`4_communicating_results_group_retrospective.md`](./4_communicating_results_group_retrospective.md) – Group reflections on designing communication artifacts and identifying the right audiences.  
+🧍 [`4_communicating_results_individual_reflections.md`](./4_communicating_results_individual_reflections.md) – Personal insights on creating narrative artifacts, adapting to an audience-first approach, and managing parallel tasks.
 
 ### **Milestone 5: Final Presentation**
 
