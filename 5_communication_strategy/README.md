@@ -41,7 +41,7 @@ accessible, concise research she can share quickly. Building our strategy around
  people like her keeps our outreach practical, relevant, and grounded in lived
   realities.  
 
-[See the full personas file](./target_audience.md)
+[See the full target personas file](./target_audience.md)
 
 ## What We Are Saying
 
