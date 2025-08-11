@@ -243,17 +243,31 @@ See Also:
 </details>
 
 <details>
-<summary><strong>Milestone 4: Communicating Results – <em>In Progress</em></strong></summary>
+<summary><strong>Milestone 4: Communicating Results – <em>Complete</em></strong></summary>
+  
+### Communications Strategy Summary
 
-We're working on a communication strategy aimed at:
+After data analysis, this milestone was about sharing our findings in ways that move people to act. We shifted from research mode to communication mode—turning complex insights into stories, visuals, and clear calls to action that meet our audiences where they are.
 
-* Translating our insights into accessible, actionable messages
-* Choosing the right format for impact
-* Tailoring to our intended audience (e.g., policy, industry, disabled entrepreneurs)
+We built the Offline by Design landing page as the narrative gateway to our research. It pairs real human stories—like Vivian’s experience navigating inaccessible digital systems—with barrier-by-barrier evidence, and maps solutions to specific stakeholder roles so they can act immediately.
 
-Key docs (WIP):
+From there, our open repository offers full transparency methodology, [Manual and NLP analysis outputs](./4_data_analysis/README.md), [datasets](./1_datasets/README.md), and detailed recommendations.
 
-* [Communication Plan](5_communication_strategy/4_communicating_results_group.md)
+We shaped this work with a clear communication strategy:
+
+* **Who we’re speaking to** – Coordinators in disability inclusion orgs, NGO program officers, philanthropic advocacy leads, and influencers or journalists amplifying marginalized voices.
+
+* **What we’re saying** – Digital systems must work for everyone, including disabled entrepreneurs in Sub-Saharan Africa.
+
+* **Why it matters** – Without inclusive design, policy follow-through, and affordable access, exclusion remains the norm.
+  
+Our aim was simple: turn awareness into action, and action into systemic change.
+
+Key docs:
+
+* [Communication Artifact - Offline by Design Landing page](https://offlinebydesign.site/#)
+* [Communication Strategy](./5_communication_strategy/README.md)
+* [Milestone 4 Group Retrospective](./collaboration/retrospectives/4_communicating_results_group_retrospective.md)
 
 ---
 
@@ -312,7 +326,10 @@ Key docs (coming soon):
 │   ├── README.md                          # Overview of the data analysis strategy
 │   ├── Topic_Modeling.ipynb               # Jupyter notebook for BERTopic modeling
 │   └── mixed_methods_findings.md          # Triangulated insights
-├── 5_communication_strategy/   # Messaging and impact plan (in progress)
+└── 5_communication_strategy/
+    ├── README.md               # Overview of Communication
+    ├── recommendations_document.md        # Tailored Solutions of Stakeholders
+    └── email_outreach.md       # Email outreach formats and Profile
 ├── 6_final_presentation/       # Final pitch and summary (pending)
 ├── collaboration/              # Norms, goals, retrospectives
 ├── notes/                      # Scratchpad + extra thinking
