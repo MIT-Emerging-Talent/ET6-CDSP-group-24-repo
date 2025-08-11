@@ -245,7 +245,7 @@ See Also:
 <details>
 <summary><strong>Milestone 4: Communicating Results – <em>Complete</em></strong></summary>
   
-## Communications Strategy Summary
+### Communications Strategy Summary
 
 After data analysis, this milestone was about sharing our findings in ways that move people to act. We shifted from research mode to communication mode—turning complex insights into stories, visuals, and clear calls to action that meet our audiences where they are.
 
