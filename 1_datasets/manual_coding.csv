@@ -1,0 +1,178 @@
+Coder Initials,Dataset ID,Page & Section/Paragraph,Text Excerpt,Code(s) Applied,Subcode Applied
+JM,This man's disability became a catalyst for innovation - Prime Progress NG,Section I,"""He volunteered for Bright Future Cornerstone, a social enterprise that provides learning services. It would be the beginning of a busy but fruitful journey of discovery, learning and helping others learn how technology can assist those with disabilities.""",Inclusive Digital Ecosystem,Private Sector Role
+JM,"""",,"""Volunteering opened doors for me to mentor young innovators and connect youth with disabilities to opportunities.”",Resilience & Coping Strategies,Peer Networks & Mentorship
+JM,"""",,"""Through entrepreneurship and ICT, I empower others to break barriers and pursue their dreams.”",Resilience & Coping Strategies,
+JM,"""",,"""Today, Sibomana has a smart phone as his constant companion. But this isn’t just any phone. With its built-in screen reader, the phone vocalises messages from various apps.""",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",,"""I reached every office on the campus seeking support, but no one told me there was an assistive technology that could help me.""",Access Barriers,Information Gap
+JM,"""",,"""According to the World Health Organisation (WHO), access to assistive technology in Africa is severely limited, with less than 25% of those who need AT having access to it.""",Access Barriers,Availability
+JM,"""",,"""According to Sibomana, many young Africans are only introduced to the technology after graduation rather than at a younger age, which hinders their ability to fully utilise it.""",Access Barriers,Late Exposure
+JM,"""",,"""Without early access to AT, African youth with disabilities risk being left behind in a world where the use of technology like the internet is associated with higher well-being.""",Access Barriers,Late Exposure
+JM,"""",,"""Young African women are falling behind when it comes to utilising digital technologies. Sibomana noted that African women, especially those with visual impairments, often lack confidence in using digital technologies.""",Access Barriers,Gender Gap
+JM,"""",,"""While visiting a resource room… he discovered JAWS, a screen-reading software tool.""",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",,"""Despite finding someone willing to teach him, the cost of the lessons (US$2–3 per hour), however, was difficult to afford.""",Access Barriers,Affordability
+JM,"""",Section II,"""Sibomana started mentoring visually impaired high school students and providing business training… interned at the Yego Centre in Kigali… joined DOT Rwanda as a startup facilitator and business coach.""",Inclusive Digital Ecosystem; Resilience & Coping Strategies,Private Sector Role; Peer Networks
+JM,"""",,"""Sibomana introduced her to assistive devices that have since allowed her to work as a freelance translator.""",Resilience & Coping Strategies,Peer Networks
+JM,"""",,"""He strengthened my ability to accomplish work on my own and use assistive devices like phones and computers,” Byukusenge explained.""",Resilience & Coping Strategies,Peer Networks
+JM,"""",,"""He founded the Urumuri Association to connect visually impaired youth with the Rwanda Union of the Blind.""",Resilience & Coping Strategies,Local Solutions
+JM,"""",,"""He mentored others in assistive technologies like smartphones with screen readers and Braille displays.""",Resilience & Coping Strategies,Peer Networks
+JM,"""",,"""He has since co-founded a consultancy firm that supports institutions in employing persons with disabilities by providing AT solutions.""",Inclusive Digital Ecosystem; Resilience & Coping Strategies,Private Sector Role; Local Solutions
+JM,"""",,"""His expertise also led him to join the Private Sector Federation (PSF) of Rwanda, which established a specialised cluster for persons with disabilities.""",Inclusive Digital Ecosystem,Private Sector Role
+JM,"""",Section III,"""Sibomana provided him with computer training and helped him successfully apply for the YALI 2022 cohort.""",Resilience & Coping Strategies,Peer Networks
+JM,"""",,"""…challenges persist, especially in making AT available in local languages such as Kinyarwanda.""",Access Barriers,Language
+JM,"""",,"""We must develop affordable solutions, remembering they often can’t afford many things.”",Access Barriers,Affordability
+JM,Usability testing and digital accessibility compliance testing of three key e-commerce platforms in Kenya,Pg 3,"""PigiaMe earned higher usability ratings than both Jiji and Jumia across all groups, but still presented some difficulties for sellers with disabilities (e.g., lack of labeled images, poor color contrast).""",Digital Technology & Design,Interface Barriers
+JM,"""",Pg 3,"""The digital accessibility assessment found that the three most challenging tasks for screen reader users are signing up or registering, uploading a product, and logging out from the platforms.""",Digital Technology & Design,Interface Barriers; Non-Inclusive Tools
+JM,"""",Pg 3,"""Icons could not be read by talkback software, swipe functions were not reading correctly, and screens were restricted to portrait orientation…""",Digital Technology & Design,Interface Barriers
+JM,"""",Pg 6,"""…none of the platforms were fully accessible, and the most difficult tasks… were uploading and posting items for sale.""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""Visually impaired users were the least supported due to the lack of screen-reading technology on the platforms.""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""Hearing-impaired users were the second least supported, with the main challenge being the language used by the platform.""",Digital Technology & Design; Access Barriers,Interface Barriers; Language
+JM,"""",Pg 8,"""The main challenge for the visually impaired participants… was poor or no support for screen readers…""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""The hearing-impaired sellers… main challenge was requirements for voice-only communication channels.""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""The two most difficult tasks… were uploading/listing a product and logging out…""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""Participants struggled… with uploading and posting an item for sale (listing)… describing, labeling, and categorizing their items…""",Digital Technology & Design,Interface Barriers
+JM,"""",Pg 9,"""…icons clearly labeled… proper color contrast… screen-reader compliant.""",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",,"""The most common key issues revealed during usability testing… unlabeled buttons… hard-to-identify fields… confusing navigation… poor screen-reader compatibility… poor contrast.""",Digital Technology & Design,Interface Barriers
+JM,"""",,"""The most usable e-commerce platform… had better navigation and an easier sign-up process.""",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",,"""Biggest challenges… no labeling, poor screenreader support, low contrast… complex language… difficult sign-up… complicated posting…""",Digital Technology & Design; Access Barriers,Interface Barriers; Language
+JM,"""",Pg 10,"""PigiaMe is much better because of usability… it also provided the user the ability to delete the product…""",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",,"""Jumia has a long list of requirements that’s hard to fill… giving up is the easier option.”",Digital Technology & Design,Interface Barriers
+JM,"""",,"""Jumialanguage barrier. JijiI was unable to sign in… PigiaMeI was unable to upload products and sign out.”",Digital Technology & Design; Access Barriers,Interface Barriers; Language
+JM,"""",,"""The digital platforms should… use well conversant languages to the user… label the form fields… select fields should be accessible.""",Digital Technology & Design; Access Barriers,Interface Barriers; Language
+JM,"""",,"“Include an SMS option on Jumia, and minimize some of the requirements on the long list.” – Hearing-impaired participant",Digital Technology & Design,Interface Barriers; Non-Inclusive Tools
+JM,"""",,“All the apps should have an option for saving the data before proceeding to the next page…” – Physically impaired participant,Digital Technology & Design,Interface Barriers; Non-Inclusive Tools
+JM,"""",Pg 14,"“All three applications have unlabeled or incorrectly marked elements and icons, which can be confusing to assistive technology users…”",Digital Technology & Design,Interface Barriers; Non-Inclusive Tools
+JM,"""",,"“However, when swiping on the left or on the right, the screen reader cannot read incorrectly marked content…”",Digital Technology & Design,Inclusive Tech Tools; Interface Barriers
+JM,"""",,“Content should not prevent the user from changing the display orientation…”,Digital Technology & Design,Interface Barriers; Non-Inclusive Tools
+JM,AT2030 Report on three roundtable discussions exploring the challenges of AI for Inclusive Development in Africa,,“Unreliable Internet and electricity supplies hinder the development and use of all digital technologies.”,Access Barriers,Connectivity; Electricity
+JM,"""",Pg 3,“Only around 37% of Africans have Internet access… so the reach of AI technology is severely limited.”,Access Barriers,Connectivity
+JM,"""",,"“There is an urban-rural divide which compounds the exclusion of disabled people in rural areas, particularly disabled women.”",Access Barriers,Intersectionality
+JM,"""",,“No matter how potentially liberating AI-driven ATs… they are of no use to people who cannot afford to use them.”,Access Barriers,Affordability
+JM,"""",,“Many Africans do not have access to the education and training they need to develop the skills to use or develop AI-driven… products and services.”,Digital Skills Gap,Digital Literacy; Training Needs
+JM,"""",,“Disabled people face additional educational and employment challenges… inaccessible built environments… digital environments can be inaccessible.”,Digital Skills Gap,Digital Literacy; Training Needs
+JM,"""",,"“Datasets for training AI-based applications are often biased… do not represent Africans, African languages, disabled people…”",Digital Technology & Design,AI Bias / Algorithmic Exclusion
+JM,"""",Pg 4,“Good governance can mediate conflicting interests around data… Few African countries have AI strategies in place.”,Social & Systemic Exclusion,Policy Neglect
+JM,"""",,“Implementation of existing digital accessibility policies is inconsistent…”,Social & Systemic Exclusion,Policy Neglect
+JM,"""",Pg 9,“Several innovative ATs have been developed… but local development of AI-based ATs is not widespread across Africa…”,Social & Systemic Exclusion,Representation Gaps
+JM,"""",,"“Large technology companies… These are accessed through smartphones. However, disabled people are less likely to own smartphones or have the necessary digital skills.”",Access Barriers; Digital Skills Gap,Digital Literacy
+JM,"""",Pg 10,“Unreliable and unstable internet connection and electricity supply… significant barriers to developing and adopting AI…”,Access Barriers,Connectivity
+JM,"""",,“Online services in many African countries still lack accessibility features…”,Digital Technology & Design,Interface Barriers
+JM,"""",,"“There is an intersection between poverty, equality of access and disability… Not many people can afford a smart mobile phone in Africa or the data to use it.”",Access Barriers; Social & Systemic Exclusion,Affordability; Intersectionality
+JM,"""",Pg 11,"“The gap in mobile internet use for persons with and without disabilities is around 70% in Algeria, 85% in Kenya, and 11% in Nigeria.”",Access Barriers,Connectivity
+JM,"""",,“AI technologies are already being deployed without consideration of the impact of those technologies on the lives of disabled people… they are broadening the divide even further.”,Digital Technology & Design,Non-Inclusive Tools
+JM,"""",,“The datasets that power AI cannot be representative while whole sections of the population remain offline…”,Access Barriers; Digital Technology & Design,Connectivity; AI Bias / Algorithmic Exclusion
+JM,"""",,"“Lack of accessibility and accommodation for disabilities in the built environment makes it harder for disabled people to access general educational, vocational, and digital skills training.”",Access Barriers; Digital Skills Gap,Physical Inaccessibility; Training Needs; Digital Literacy
+JM,"""",,"“A range of questions and challenges were posed regarding data ownership, including whether people understand the value of their data…”",Social & Systemic Exclusion,Data Invisibility
+JM,"""",Pg 14,"“It was noted that in many African countries, there is a lack of disability-specific policies to increase access to digital technologies.”",Social & Systemic Exclusion,Policy Neglect
+JM,"""",,“Accessibility policies tend to be very generalised… not directed at implementing solutions…”,Social & Systemic Exclusion,Policy Neglect
+JM,"""",,“Fewer than ten African countries have AI strategies or national AI policies in place…”,Social & Systemic Exclusion,Policy Neglect
+JM,"""",,"“In Kenya, for example… Rwanda has very good policies that ‘tick all the boxes’ but some of the lowest access…”",Social & Systemic Exclusion,Policy Neglect
+JM,"""",Pg 16,“Even when a policy has been made to protect the rights… there is often a gap between the policy and practical implementation.”,Social & Systemic Exclusion,Policy Neglect
+JM,"""",,"“New applications such as Google’s AI-driven AT product, Google Relate, for example, have been expertly developed and are slowly being rolled out in Africa.”",Digital Technology & Design,Inclusive Tech Tools
+JM,"""",Pg 18,“Disabled people are even more likely than others to be excluded from education and employment… lack the opportunities to develop the knowledge and skills…”,Digital Skills Gap,Training Needs
+M,Innovating Inclusion: Youth with Disabilities Leading the Future of Entrepreneurship,"Main Body, Para 1",“Young entrepreneurs with disabilities are transforming the landscape of entrepreneurship through inclusive innovation and accessible technology.”,Inclusive Digital Ecosystem; Digital Technology & Design,Inclusive Tech Tools
+M,"""",Para 2,"“Only 1% of startups are led by individuals with disabilities, despite their potential to reshape markets with unique perspectives.”",Social & Systemic Exclusion,Representation Gap
+M,"""",,"“Technology, from assistive tools to inclusive digital platforms, is dismantling these barriers… transformative role of tech… support frameworks…”",Digital Technology & Design; Inclusive Digital Ecosystem,Inclusive Tech Tools; Policy Environment
+M,"""","“Challenges” Section, Para 3","“Financially, access to capital is limitedonly 2% of venture capital globally supports disability-inclusive startups…”",Social & Systemic Exclusion,
+M,"""",,"“Structurally, inaccessible workspaces and lack of adaptive technologies hinder participation.”",Access Barriers; Digital Technology & Design,Non-Inclusive Tools; Physical Accessibility
+M,"""",,"“Socially, stigma persists: 60% of people with disabilities report workplace discrimination… amplified for women or those in rural areas.”",Social & Systemic Exclusion; Access Barriers,Stigma; Gender Gap; Intersectionality
+M,"""",,“Digital literacy gaps and high costs of assistive tech further complicate their journey.”,Digital Skills Gap; Access Barriers,Digital Literacy; Affordability
+M,"""","The Role of Technology, Para 4","“Assistive technologies, like screen readers (e.g., JAWS) and AI-driven apps (e.g., Microsoft’s Seeing AI, which describes environments for the visually impaired), empower entrepreneurs to navigate digital spaces.”",Digital Technology & Design; Inclusive Digital Ecosystem,Inclusive Tech Tools
+M,"""",,"“Inclusive design ensures accessibilitytake the Be My Eyes app, which connects blind users with sighted volunteers for real-time assistance, or websites adhering to Web Content Accessibility Guidelines (WCAG 2.1).”",Digital Technology & Design; Inclusive Digital Ecosystem,Inclusive Tech Tools; Policy Environment
+M,"""",,"“Digital platforms like Upwork and LinkedIn enable remote work, critical for the 15% of freelancers identifying as having disabilities.”",Inclusive Digital Ecosystem,Platform Economy
+M,"""",,"“Emerging innovations, such as virtual reality for accessibility training or 3D-printed prosthetics, are further expanding possibilities.”",Digital Technology & Design,Inclusive Tech Tools
+M,"""",,"“High costs of assistive tech (e.g., $1,000+ for advanced screen readers) and uneven internet access in the Global South limit adoption.”",Access Barriers,Affordability; Connectivity
+M,"""",,Blank Excerpt Cell,Inclusive Digital Ecosystem,
+M,"""","Global Support..., Para 5","“The UN Convention on the Rights of Persons with Disabilities (CRPD), particularly Article 27, emphasizes equal access to work and entrepreneurship… SDG 8… SDG 10…”",Inclusive Digital Ecosystem,Policy Environment
+M,"""",,“Programs like the ILO’s Disability Inclusion Strategy and UNESCO’s youth entrepreneurship initiatives further support these goals.”,Inclusive Digital Ecosystem,Policy Environment
+M,"""",,"“These frameworks underscore a global commitment, but implementation must accelerate to match the pace of youth ambition.”",Social & Systemic Exclusion,Policy Neglect
+M,"""",Success Stories (Story 1),“Blessing Timidi (Nigeria)… launched an e-commerce platform for handmade crafts using voice-activated software and social media marketing… employs other youth with disabilities…”,,Private Sector Role; Local Solutions; Inclusive Tech Tools; Peer Networks
+M,"""",Success Stories (Story 3),"“E-nable uses 3D printing to create affordable prosthetics… youth-led chapters in Kenya, India and Brazil…”",Digital Technology & Design; Resilience & Coping Strategies,Inclusive Digital Ecosystem; Digital Technology & Design
+M,"""",To amplify the impact...,"“Fund accessible startup incubators, modeled on the UK’s Disability Confident scheme, to provide tailored mentorship and grants.”",Social & Systemic Exclusion,Policy Neglect
+M,"""",,"“Subsidize assistive technologies, reducing costs for tools like screen readers or adaptive keyboards.”",Access Barriers,Affordability
+M,"""",,"“Enforce CRPD-aligned policies, ensuring public procurement prioritizes disability-inclusive businesses.”",Social & Systemic Exclusion,Policy Neglect
+M,"""",,"“Embed universal design in products, adhering to WCAG 2.1 and testing with disabled users.”",Inclusive Digital Ecosystem,Policy Environment
+M,"""",,"“Expand initiatives like Microsoft’s AI for Accessibility, which funds disability-focused tech innovations.”",Inclusive Digital Ecosystem,Private Sector Role
+M,"""",,“Offer free digital literacy programs to bridge skill gaps for disabled youth.”,Digital Skills Gap; Access Barriers,Digital Literacy; Training Needs
+M,"""",,“Support global platforms like the UN’s Youth4Inclusion network to share best practices.”,Inclusive Digital Ecosystem,Policy Environment
+M,GSMA – The Mobile Disability Gap Report 2021,,“90% do not have adequate access to assistive technologies (AT).”,Access Barriers,Affordability
+M,"""",,"“Less likely to own a mobile, especially a smartphone, and are even less likely to use, or be aware of, mobile internet.”",Access Barriers; Social & Systemic Exclusion; Digital Skills Gap,Device Access; Connectivity; Information Gap
+M,"""",P6 - Limitation,"“Fieldwork was not tailored to needs of persons with disabilities… no sign language interpreters, interviewers not trained… no quotas allocated.”",Social & Systemic Exclusion,Data Invisibility; Representation Gap; Policy Neglect
+M,"""",,"“Since fewer persons with disabilities own a mobile phone and use mobile internet, in some countries the sample size fell below the statistical threshold (n>30).”",Social & Systemic Exclusion; Access Barriers,Data Invisibility; Representation Gap; Connectivity; Device Access
+M,"""",,“Insufficient data to determine trends… comparison not recommended.”,Social & Systemic Exclusion,Data Invisibility
+M,"""",P7 - Key Finding,"“Lower levels of mobile ownership... Bangladesh widest gap (55% less likely), Kenya/Pakistan smallest (11%).”",Access Barriers; Social & Systemic Exclusion,Device Access
+M,"""",,“Significantly less likely to own a smartphone... gap is wider than overall mobile ownership.”,Access Barriers; Social & Systemic Exclusion,Device Access
+M,"""",,“Significant disability gap in mobile internet use... less likely to use mobile internet.”,Access Barriers,Connectivity; Service Availability
+M,"""",,“Fewer persons with disabilities are aware of mobile internet... significant barrier.”,Access Barriers; Digital Skills Gap,Information Gap; Digital Literacy
+M,"""",,"“Lack of literacy and skills is a main barrier... also perceived relevance, safety/security, affordability.”",Digital Skills Gap; Access Barriers,Digital Literacy; Affordability; Interface Barriers
+M,"""",P8 - Key Finding,“The disability gap typically widens at each stage of the mobile internet journey.”,Access Barriers; Social & Systemic Exclusion,Device Access
+M,"""",P8 - Kenya Example,"“In Kenya, PWDs are 11% less likely to own a mobile, 36% less likely to be aware of mobile internet, and 85% less likely to use it.”",Access Barriers,Device Access; Connectivity; Information Gap
+M,"""",P8 - Analytical Insight,"“Regression analysis shows disability is a ‘significant determining factor’ in mobile/smartphone ownership, even controlling for socio-economic traits, pointing to discrimination and social norms.”",Social & Systemic Exclusion,Stigma
+M,"""",P9 - Country Comparison,"“PWDs are significantly less likely to own a smartphone… Bangladesh (55% gap), Kenya/Pak (11%), Nigeria (14%)”",Access Barriers; Social & Systemic Exclusion,Device Access
+M,"""",P9 - Insight,"“Higher rates of mobile ownership do not necessarily translate into a smaller disability gap, and vice versa.”",Access Barriers; Social & Systemic Exclusion,
+M,"""",P10 - Para 1,"“Persons with disabilities are more likely to own basic phones, which have either no or fewer built-in accessibility features and may not be internet-enabled.”",Digital Technology & Design; Access Barriers,Non-Inclusive Tools; Device Access; Connectivity
+M,"""",,“Affordability is a key barrier to smartphone ownership... especially for persons with disabilities who tend to have lower incomes and less financial autonomy.”,Access Barriers,Affordability
+M,"""",P10 - Para 2,"“Smartphones have the ability to cluster multiple ATs… like screen readers, voice control, captioning… and enable universal design.”",Digital Technology & Design,Inclusive Tech Tools
+M,"""",P10 - Para 3,"“Widest gap in smartphone ownership is in Algeria (76% less), smallest in Nigeria (16%).”",Access Barriers,Device Access
+M,"""",P11 - Para 1,“Mobile internet can offer life-changing benefits… support daily tasks independently… use camera to identify faces.”,Digital Technology & Design,Inclusive Tech Tools
+M,"""",P11 - Para 2,“Mobile internet use is significantly lower among persons with disabilities than non-disabled persons.”,Access Barriers,Connectivity; Device Access
+M,"""",P12 - Para 1,“Due to low levels of mobile internet adoption… only India and Guatemala had sufficient sample sizes…”,Social & Systemic Exclusion; Access Barriers,Data Invisibility; Representation Gap; Connectivity
+M,"""",P13,“Women with disabilities… lower levels of mobile ownership and internet use…”,Social & Systemic Exclusion; Access Barriers,Gender Gap; Device Access; Stigma
+M,"""",P13,"“Women with disabilities in Guatemala, India, and Pakistan have the lowest levels of mobile ownership…”",Social & Systemic Exclusion; Access Barriers,Gender Gap; Device Access
+M,"""",P13,“Smartphone ownership is lowest among women with disabilities in India…”,Social & Systemic Exclusion; Access Barriers,Gender Gap; Stigma; Device Access
+M,"""",P13,“Mobile internet use is also lowest among women with disabilities…”,Social & Systemic Exclusion; Access Barriers,Connectivity; Gender Gap
+M,"""",P14 - Para 1,“Persons with disabilities are less likely to be aware of mobile internet…”,Access Barriers,Information Gap
+M,"""",P14 - Para 2,“Widest gaps in Bangladesh (48%) and Kenya (36%)…”,Access Barriers,Information Gap
+M,"""",P14 - Analytical Insight,“Countries with high awareness don’t necessarily have high usage…”,Social & Systemic Exclusion; Access Barriers,Connectivity; Service Availability
+M,"""",,“Children with disabilities face higher barriers to education… 40% excluded from primary school…”,Social & Systemic Exclusion; Digital Skills Gap; Access Barriers,
+M,"""",P17,“Accurate and reliable disability-disaggregated data is crucial…”,Social & Systemic Exclusion,Data Invisibility; Policy Neglect
+M,"""",,“Develop targeted campaigns for PWDs with OPDs to showcase benefits…”,Access Barriers,Information Gap
+M,"""",P18,“Ensure existing and new products are accessible…”,Digital Technology & Design; Access Barriers,Non-Inclusive Tools
+M,"""",,“Support mobile digital skills programmes… partner with OPDs…”,Digital Skills Gap; Social & Systemic Exclusion,Digital Literacy
+M,"""",,“Smartphones are often unaffordable… propose financing models and ‘data-light’ apps.”,Access Barriers,Affordability
+M,"""",P21,“Lack of third-party data on PWDs limits regional/global results…”,Social & Systemic Exclusion,Data Invisibility
+O,"Access Denied How Telecom Operators  in 
+ Africa Are Failing Person with Disabilities",P4 - Para 2,“PWDs unable to use tech due to lack of digital accessibility.”,Digital Technology & Design,Interface Barriers
+O,"""",P4 - Para 3,"“Calls for increasing access to ICT, disability-disaggregated data.”",Access Barriers; Social & Systemic Exclusion,Affordability; Connectivity; Data Invisibility
+O,"""",P5 - Para 1,“UN CRPD – Article on access to work and entrepreneurship.”,Inclusive Digital Ecosystem,Policy Environment
+O,"""",P5 - Para 1,“Governments must ensure private providers deliver accessible info/services.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P5 - Para 2,“Protocol to the African Charter on the Rights of PWDs.”,Inclusive Digital Ecosystem,Policy Environment
+O,"""",P9 - Para 2,“Handsets not available in MTN outlets.”,Access Barriers,Device Access
+O,"""",P9 - Para 3,“Vodacom outlets lacked accessible handsets.”,Access Barriers,Device Access
+O,"""",P9 - Para 4,"“Most handsets lacked screen readers, magnifiers, voice command…”",Digital Technology & Design,Non-Inclusive Tools
+O,"""",P10 - Para 1,“Operators not adhering to accessibility requirements.”,Social & Systemic Exclusion,Policy Neglect
+O,"""",P10 - Para 2,“MTN and Airtel had not taken deliberate efforts to stock accessible devices.”,Access Barriers,Service Availability
+O,"""",P10 - Para 3,“Minimal availability of devices with accessibility features.”,Access Barriers,Service Availability
+O,"""",P10 - Para 4,“Telecom staff were untrained and unaware of accessibility services.”,Digital Skills Gap,Training Needs
+O,"""",P11 - Para 2,“Vodacom had awareness alliances with DPOs…”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P11 - Para 2,“Safaricom’s website had font-size switching feature.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P11 - Para 3,“PWDs were generally unaware of accessible devices.”,Access Barriers,Information Gap
+O,"""",P11 - Para 4,“MTN Nigeria offered accessibility devices and scholarships.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P12 - Para 1,“Vodacom had an inclusive procurement policy…”,Digital Technology & Design,Inclusive Tech Tools
+O,"""",P12 - Para 2,"“Airtel, MTN, Orange, and Safaricom were silent on accessible procurement.”",Social & Systemic Exclusion,Representation Gap
+O,"""",P13 - Para 2,“Vodacom app offered email and messaging just for PWDs.”,Digital Technology & Design,Inclusive Tech Tools
+O,"""",P13 - Para 2,“Not all staff had requisite skills.”,Digital Skills Gap,Training Needs
+O,"""",P13 - Para 3,“Vodacom had 41 employees with disabilities in South Africa.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P13 - Para 4,“Companies expected staff to use knowledge when serving PWDs.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P14 - Para 1,“Safaricom aimed to reach 5% of employees being PWDs.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P14 - Para 2,“Staff advised visually impaired to buy feature phones.”,Access Barriers,Device Access
+O,"""",P15 - Para 2,“Safaricom introduced Interactive Voice Response in 2017.”,Digital Technology & Design,Inclusive Tech Tools
+O,"""",P15 - Para 3,"“Vodacom has HearZA, a national hearing test app.”",Digital Technology & Design,Inclusive Tech Tools
+O,"""",P15 - Para 4,“MTN South Africa had no specific tailor-made apps.”,Social & Systemic Exclusion,Representation Gap
+O,"""",P16 - Para 1,“Telecoms can offer discounted services like text-only plans.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P16 - Para 2,“Vodacom SA offered SMS/data-only contracts for hearing impaired.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P16 - Para 3,“Only Vodacom was compliant with the requirement [for accessible emergency comms].”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P16 - Para 4,“PWDs were not aware of accessible emergency services.”,Access Barriers,Information Gap
+O,"""",P16 - Para 5,“Knowledge not universal among DPOs and PWDs.”,Access Barriers,Information Gap
+O,"""",P17 - Para 2,“NCC Consumer Code of Practice regulations 2007…”,Inclusive Digital Ecosystem,Policy Environment
+O,"""",P17 - Para 3,“Code of Conduct for PWDs by ICASA (South Africa).”,Inclusive Digital Ecosystem,Policy Environment
+O,"""",P17 - Para 4,“Proposals to revise code… include subtitling.”,Inclusive Digital Ecosystem,Policy Environment
+O,"""",P19 - Para 3,“NCC noted credit check and website access issues.”,Digital Technology & Design,Interface Barriers
+O,"""",P20 - Para 1,“Safaricom and Vodacom lead in accessible services.”,Inclusive Digital Ecosystem,Private Sector Role
+O,"""",P20 - Para 2,“MTN and Airtel show low consideration for accessibility.”,Social & Systemic Exclusion,Policy Neglect
+O,"New insights on mobile internet connectivity
+ in Sub-Saharan Africa",P1 (New Insights),"“By end of 2021, 22% in SSA used mobile internet.”",Access Barriers,Connectivity
+O,"""",P2,“Coverage outpaces usage in SSA.”,Access Barriers,Device Access
+O,"""",P3,“Half of connections used less than 100MB/month.”,"Access Barriers, Digital Skills Gap","Affordability, Digital Literacy"
+O,"""",P4,“Women 37% less likely to use mobile internet.”,"Social & Systemic Exclusion, Access Barriers","Stigma, Gender Gap"
+O,"""",P5,"“Affordability, literacy, and skills = key barriers.”","Access Barriers, Digital Skills Gap","Affordability, Digital Literacy"
+O,"""",P6,“78% of population still unconnected.”,Access Barriers,Connectivity

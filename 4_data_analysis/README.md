@@ -112,7 +112,7 @@ Our mixed-methods analysis, combining computational patterns with in-depth quali
 
 > *For a more detailed breakdown of all findings and their evidence: [**Detailed Findings Document**](./mixed_methods_findings.md)*
 
-1. **Access Barriers**: Affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
+1. **Access Barriers**: Connectivity and affordability dominated manual coding, while NLP revealed distinct topics for affordability, device access, and poor connectivity. Keyword extraction reinforced these as core exclusion drivers.
 
 2. **Digital Skills Gaps**: Despite tool availability, gaps in skills and training—surfaced through hybrid analysis—create the illusion of inclusion without true usability.
 
