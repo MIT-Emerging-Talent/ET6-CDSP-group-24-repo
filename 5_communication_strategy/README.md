@@ -65,7 +65,7 @@ We communicate this by:
 3. **Tailored solutions** - Offering actionable recommendations tailored to
    specific stakeholder group based on our research findings.For a full
    breakdown of tailored solutions and actionable recommendations,
-please refer to our detailed [recommendation documents](./recommendations_documents.md).
+please refer to our detailed [recommendation documents](./targeted_recommendations.md).
 
 4. **Clear calls to action** - Inviting engagement through report downloads,
    sharing findings, and potential collaboration.
@@ -104,7 +104,7 @@ From there, people can explore our open repository, which houses:
 * [The full methodology](../4_data_analysis/)
 * [NLP and qualitative analysis outputs](../4_data_analysis/mixed_methods_findings.md)
 * [Datasets and source materials](../1_datasets/)
-* [Recommendations in depth](./recommendations_document.md)
+* [Recommendations in depth](./targeted_recommendations.md)
 
 ## Our Sharing Strategy
 
