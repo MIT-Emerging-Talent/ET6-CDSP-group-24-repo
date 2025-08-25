@@ -51,7 +51,8 @@ uncertainty by defining boundaries, and aligning expectations.
 
 ### **Milestone 5: Final Presentation**
 
-👥 [`5_final_presentation.md`](./5_final_presentation.md) – Final reflections on presenting our work and closing out the project with clarity and confidence. Also how we told our story and what we’d do differently.
+👥 [`5_final_presentation_group_retrospective.md`](./5_final_presentation_group_retrospective.md)  – Final reflections on presenting our work and closing out the project with clarity and confidence. Also how we told our story and what we’d do differently.  
+🧍 [`5_final_presentation_individual_reflections.md`](./5_final_presentation_individual_reflections.md) – Individual reflections on how each member personally experienced the milestone—balancing content, delivery, and collaboration.
 
 ### **Template**
 
