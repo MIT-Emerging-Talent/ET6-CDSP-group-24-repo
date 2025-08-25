@@ -46,14 +46,13 @@
 
 ---
 
-### [`presentation_script.md`](./presentation_script.md): Complete Presentation Script Overview
+### [`presentation_script.md`](./presentation_script.md)
 
 This document contains the comprehensive script overview for our "Offline by
 Design" presentation, meticulously structured to align with all specified
 requirements while delivering a compelling narrative about digital exclusion
-in Sub-Saharan Africa.
-
----
+in Sub-Saharan Africa. For full context, please refer to this
+[Full Presentation Script](./presentation_script.md) here.
 
 ### Access Our Presentation Slides
 
