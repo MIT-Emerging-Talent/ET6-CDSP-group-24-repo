@@ -75,7 +75,10 @@ champions of social good. And here’s what we recommend:
 
 ---
 
-## Slide 6 — Call to Action
+## Slide 6 — Design for the Margins
+
+⬇
+Better systems for all
 
 **Script:**  
 “Finally… back to you, our audience. If digital access is now a basic need, then
