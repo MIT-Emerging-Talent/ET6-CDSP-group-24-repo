@@ -274,17 +274,22 @@ Key docs:
 </details>
 
 <details>
-<summary><strong>Milestone 5: Final Presentation – <em>Pending</em></strong></summary>
+<summary><strong>Milestone 5: Final Presentation – <em>Complete</em></strong></summary>
 
-Final showcase will include:
+### Final Presentation Brief
 
-* A 1-minute project pitch
-* A 3-minute walkthrough of our process and findings
-* Slide deck or presentation artifact
+We distilled our research into a concise 2½-minute presentation, crafting slides that lead the audience smoothly from the problem context to the call for action:
 
-Key docs (coming soon):
+* **Slide 1**: *Offline by Design* — introduces our study on digital exclusion.
+* **Slides 2–5**: Present the regional challenges, explain why we focused on disabled entrepreneurs, outline layered barriers (tech, access, policy), and showcase our recommendations via the website.
+* **Slide 6**: Delivers a resonant closing: “Exclusion isn’t accidental—it’s a choice,” connecting accessibility to broader societal benefits.
+* **Slide 7**: Team introduction.
 
-* [Final Presentation Materials](6_final_presentation/)
+For the full speaker scripts and final presentation slides, see:
+
+* [Full Presentation Scripts](./6_final_presentation/presentation_script.md)
+
+* [Full Presentation Slides](https://docs.google.com/presentation/d/1erfv2MEseUgKwCcBmsQSvsFWq5EdzMPRsNoAMyYYKho/edit?slide=id.g377b585a696_0_18#slide=id.g377b585a696_0_18)
 
 </details>
 
@@ -330,9 +335,17 @@ Key docs (coming soon):
 │   ├── README.md               # Overview of Communication
 │   ├── targeted-recommendations.md      # Tailored Solutions of Stakeholders
 │   ├── email_outreach.md       # Email outreach formats and Profile
-|   └── target_audience.md      # Detailed persona sheets and profiles
-├── 6_final_presentation/       # Final pitch and summary (pending)
-├── collaboration/              # Norms, goals, retrospectives
+│   └── target_audience.md      # Detailed persona sheets and profiles
+├── 6_final_presentation/       # Final pitch and summary
+│   ├── README.md               # Overview of the final presentation
+│   └── presentation_script.md  # Presentation script for the final presentation
+├── collaboration/              # Collaboration artifacts
+│   ├── meeting_minutes/        # Team meeting Notes
+│   ├── retrospectives/         # Team retrospectives
+│   ├── README.md               # Overview of collaboration artifacts
+│   ├── communication.md        # Project communication guidelines
+│   ├── constraints.md          # Project constraints
+│   └── learning_goals.md       # Team learning goals  
 ├── notes/                      # Scratchpad + extra thinking
 └── requirements.txt            # Dependencies
 
