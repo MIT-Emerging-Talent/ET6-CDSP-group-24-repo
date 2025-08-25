@@ -57,7 +57,7 @@ in Sub-Saharan Africa. For full context, please refer to this
 ### Access Our Presentation Slides
 
 To experience the full visual impact of our research journey, we invite you to
-explore our [Offline by Design Presentation Slides](https://github.com/your-username/your-repo-name/blob/main/presentation_slides/Offline_by_Design_Slides.pdf).
+explore our [Offline by Design Presentation Slides](https://docs.google.com/presentation/d/1NXXRchwuKBvoQ9y6bUq9dX0IpzB9tUUJk__deangXcU/edit).
  These slides bring our findings to life through:
 
 - **Compelling visual storytelling** that humanizes data
