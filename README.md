@@ -285,8 +285,11 @@ We distilled our research into a concise 2½-minute presentation, crafting slide
 * **Slide 6**: Delivers a resonant closing: “Exclusion isn’t accidental—it’s a choice,” connecting accessibility to broader societal benefits.
 * **Slide 7**: Team introduction.
 
-For the full speaker script and detailed presenter notes, see our
-[Full Presentation Scripts](./6_final_presentation/README.md).
+For the full speaker scripts and final presentation slides, see:
+
+* [Full Presentation Scripts](./6_final_presentation/presentation_script.md)
+
+* [Full Presentation Slides](https://docs.google.com/presentation/d/1erfv2MEseUgKwCcBmsQSvsFWq5EdzMPRsNoAMyYYKho/edit?slide=id.g377b585a696_0_18#slide=id.g377b585a696_0_18)
 
 </details>
 
@@ -335,8 +338,14 @@ For the full speaker script and detailed presenter notes, see our
 │   └── target_audience.md      # Detailed persona sheets and profiles
 ├── 6_final_presentation/       # Final pitch and summary
 │   ├── README.md               # Overview of the final presentation
-│   └── presentation_slides/    # Slide deck for the final presentation
-├── collaboration/              # Norms, goals, retrospectives
+│   └── presentation_script.md  # Presentation script for the final presentation
+├── collaboration/              # Collaboration artifacts
+│   ├── meeting_minutes/        # Team meeting Notes
+│   ├── retrospectives/         # Team retrospectives
+│   ├── README.md               # Overview of collaboration artifacts
+│   ├── communication.md        # Project communication guidelines
+│   ├── constraints.md          # Project constraints
+│   └── learning_goals.md       # Team learning goals  
 ├── notes/                      # Scratchpad + extra thinking
 └── requirements.txt            # Dependencies
 
